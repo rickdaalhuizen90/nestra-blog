@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "f21c8eb005b88ef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c85a4350229f379",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "salad-keto-sayur-dan-telur.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db5aa37328856ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "28535e6b66b550a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b45a017b133fcb6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c421d4dd2a5570d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251
+  },
+  "right": {
+    "id": "a3f40593768ee16d",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ddc14dd6dcb8d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c87bcd34bcbd7bfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "salad-keto-sayur-dan-telur.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1c85a4350229f379",
+  "lastOpenFiles": [
+    "salad-keto-sayur-dan-telur.md",
+    "post-20.md",
+    "sup-ikan-dori-keto.md",
+    "208-daftar-nama-produk-makanan-dan-minuman-untuk-diet -keto.md",
+    "8-tips-untuk-pemula-memulai-diet-keto.md",
+    "salad-timun-tauge-alpukat-dan-rucola.md",
+    "rendang-daging.md",
+    "rawon.md",
+    "omelet-seledri-alpukat.md",
+    "omelet-daun-bawang.md"
+  ]
+}

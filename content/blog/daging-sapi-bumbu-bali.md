@@ -1,0 +1,86 @@
+---
+title: "Daging Sapi Bumbu Bali"
+date: 2019-10-29T10:07:47+06:00
+draft: true
+
+# post thumb
+image: "images/post/post-15.png"
+
+# meta description
+description: "Resep menu hidangan yang sehat dan lezat,membuatnya muda dan kaya akan cita dan sangat ramah untuk diet keto."
+
+# taxonomies
+categories:
+  - "Keto Recipe"
+  
+# post tags
+tags:
+  - "keto"
+  - "gluten-free"
+  - "diary-free"
+
+# post type
+type: "post"
+
+# Is Recipe
+recipe: true
+
+---
+
+Menu hidangan daging sapi bumbu bali yang lezat dan bergizi. Dibumbui aneka rempah-rempah yang kaya akan cita rasa dan mempunyai aroma yang khas. Hidangan ini sangat sehat dan layak menjadi menu hidangan diet sehari-hari.
+
+## Apa itu daging sapi bumbu bali?
+
+Daging sapi bumbu bali adalah olahan yang berbahan dasar dari daging sapi. Di bumbui dengan anekah rempah-rempah. Sehingga memiliki bau harum dan memiliki warna khas yang merah. Olahan daging sapi bumbu bali adalah makanan khas dari kota Bali Indonesia.
+
+## Apa manfaat daging sapi bumbu bali untuk tubuh?
+
+Daging sapi bumbu bali ini banyak manfaatnya bagi tubuh salah satunya yakni mempertahankan masa otot, mencegah anemia, meningkatkan kinerja olahraga, mengenyangkan perut dan sangat ramah untuk diet keto.
+
+## Resep
+
+Olahan daging sapi bumbu bali ini sangat menggugah selera. Kali ini saya membuat resep daging sapi bumbu bali yang lezat dan sehat di komsumi untuk diet keto. Yuk simak resep cara membuat daging bumbu bali ala diet keto di bawah ini.
+
+{{< post-info prep="15 menit" cook="30 menit" total="45 menit" serving="4">}}
+
+__Bahan__
+- 500 gr daging sapi khas dalam
+- 400 ml air kaldu sapi
+- 1 batang sereh memarkan
+- 3 cm lengkuas memarkan
+- 1 buah tomat cincang kasar
+- 3 lembar daun jeruk
+- 1 lembar daun  salam
+- 1/2 sdt merica bubuk
+- 1 sdt kaldu jamur
+- 2 sdm kecap manis tropicana slim.
+- 2 sdm minyak zaitun
+- Garam himalaya secukupnya
+
+__Bumbu halus__
+
+- 4 siung bawang putih
+- 8 siung bawang merah
+- 5 biji kemiri
+- 2 cm jahe kupas
+- 8 buah cabe merah buang bijinya
+- 5 buah cabe rawit (sesuai selera)
+
+__Cara membuat__
+
+- Ambil daging lalu cuci bersih lalu potong- potong daging sesuai selera. Sisihkan.
+- Ambil wajan panaskan minyak zaitun. Masukan bumbu halus, sereh, salam, daun jeruk dan lengkuas tumis hingga harum.
+- Setelah harum masukan daging aduk-aduk sebentar. M§	asukan kaldu sapi masak hingga air menyusut dan bumbu meresap. (tambahkan air bila daging belum empuk).
+- Setelah daging sudah empuk. Masukan kaldu jamur, garam, kecap manis dan merica bubuk. Tes rasa, angkat.
+- Hidangkan ketika masih hangat.
+
+{{< /post-info>}}
+
+>Jangan memotong daging terlalu tebal agar tekstur daging mudah empuk.
+
+Menu hidangan daging sapi bumbu bali ini sangat lezat di mulut. Perpaduan dari daging sapi yang empuk dan bumbu bali yang gurih dan sedap. Membuat hidangan ini terasa spesial.
+
+Menu hidangan ini sangat cocok di hidangkan di siang maupun sore hari. Dengan di sandingkan nasi shirataki dan segelas teh hijau bebas gula.
+
+
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)

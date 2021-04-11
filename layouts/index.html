@@ -1,0 +1,170 @@
+{{ define "main" }}
+{{$home := (and .IsHome (eq .Paginator.PageNumber 1))}}
+
+<!-- featured post -->
+{{ if $home }}
+<section class="featured-post container">
+  <div class="featured-post__header">
+    <div class="featured-post__header--left">
+      <h2 class="featured-post__header-title">Paling sering di lihat</h2>
+    </div>
+    <div class="featured-post__header--right">
+      <a href="/blog">
+        Tunjukkan semuanya
+        <svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 11"><g><polygon points="22.64 4.485 22.64 5.735 0 5.735 0 4.485"></polygon><polygon points="18.5 10.22 17.65 9.31 22.16 5.11 17.65 .92 18.5 0 24 5.11"></polygon></g></svg>
+      </a>
+    </div>
+  </div>
+  <div class="featured-post__articles">
+    <!-- slider item -->
+    {{ range ( where .Site.RegularPages "Type" "featured" )}}
+    <article class="featured-post__article">
+      {{ if .Params.Image }}
+      <div class="featured-post__image" style="background-image: url('{{ .Params.Image | absURL }}');" /></div>
+      {{ end }}
+      <div class="featured-post__content">
+        <div class="featured-post__tags">
+          {{- range $index, $tag := .Params.Tags }}
+            {{ if (eq $tag "diary-free")}}
+              <div class="featured-post__tag" data-tag="{{ $tag }}">BS</div>
+            {{ else if (eq $tag "vegetarian")}}
+              <div class="featured-post__tag" data-tag="{{ $tag }}">VG</div>
+            {{ else if (eq $tag "gluten-free")}}
+              <div class="featured-post__tag" data-tag="{{ $tag }}">BG</div>
+            {{ else if (eq $tag "keto")}}
+              <div class="featured-post__tag" data-tag="{{ $tag }}">KT</div>
+            {{ else }}
+              <div class="featured-post__tag" data-tag="{{ $tag }}">{{ substr $tag 0 2 | upper }}</div>
+            {{ end }}
+          {{ end }}
+        </div>
+        <a href="{{ .Permalink }}"
+          class="featured-post__title">{{ .Title | markdownify }}</a>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+<!-- /featured post -->
+
+<!-- recent post -->
+{{ if $home }}
+<section class="recent-post">
+  <div class="container">
+    <h2 class="recent-post__title">Resep tebaru</h2>
+    <div class="row">
+      {{ range first 3 (where .Site.RegularPages "Type" "post")}}
+      <div class="col-lg-4 small-post-border">
+        <article class="media">
+          {{ if .Params.Image }}
+          <div class="recent-post-thumb mr-3" style="background-image: url('{{ .Params.Image | absURL }}');"></div>
+          {{ end }}
+          <div class="media-body">
+            <div class="mb-3 post-meta">
+              <span>By {{ .Site.Params.Author }}</span>
+              {{ if not .Params.HideDate }}
+              <span class="border-bottom border-primary px-2 mx-1"></span>
+              <span>{{ .PublishDate.Format "02 Jan 2006" }}</span>
+              {{ end }}
+            </div>
+            <a href="{{ .Permalink }}" class="h5 d-block mb-3">{{ .Title | markdownify }}</a>
+            <a href="{{ .Permalink }}" class="btn btn-outline-primary">Baca selengkapnya</a>
+          </div>
+        </article>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /recent post -->
+
+<!-- blog post -->
+<section class="section pb-0">
+  <div class="blog-post container">
+    <div class="row">
+      <div class="col-lg-8 mb-5 mb-lg-0">
+        <!-- Tags -->
+        <div class="recipe-tags">
+          <h3 class="recipe-tags__title">Tag penjelasan</h3>
+          <div class="recipe-tags__items">
+            {{- if isset .Site.Taxonomies "tags" }}
+            {{- if not (eq (len .Site.Taxonomies.tags) 0) }}
+              {{- range $name, $items := .Site.Taxonomies.tags }}
+              <div class="recipe_tags__items tags__item">
+                <a href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}">
+                  {{ if (eq $name "diary-free" )}}
+                    <div class="recipe-tags__logo" data-tag="{{$name}}">BS</div>
+                    {{ "bebas susu" | humanize }}
+                  {{ else if (eq $name "vegetarian" ) }}
+                    <div class="recipe-tags__logo" data-tag="{{$name}}">VG</div>
+                    {{ $name | humanize }}
+                  {{ else if (eq $name "gluten-free" ) }}
+                    <div class="recipe-tags__logo" data-tag="{{$name}}">BG</div>
+                    {{ "bebas gula" | humanize }}
+                  {{ else if (eq $name "keto" ) }}
+                    <div class="recipe-tags__logo" data-tag="{{$name}}">KT</div>
+                    {{ $name | humanize }}
+                  {{ else }}
+                    <div class="recipe-tags__logo" data-tag="{{$name}}">{{ substr $name 0 2 | upper }}</div>
+                    {{ $name | humanize }}
+                  {{ end }}
+                </a>
+              </div>
+              {{- end }}
+            {{- end }}
+            {{- end }}
+          </div>
+        </div>
+        <div class="row">
+          {{ $paginator := .Paginate (where (where .Site.RegularPages "Type" "post") "Draft" false) }}
+          {{ range $paginator.Pages }}
+          <div class="col-md-6 mb-4">
+            <article class="card">
+              {{ if .Params.Image }}
+              <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
+              {{ end }}
+              <div class="card-body px-0">
+                {{ range .Params.Categories }}
+                <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"
+                  class="text-primary">{{ . | title | humanize }}</a>
+                {{ end }}
+                <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>
+                <div class="mb-3 post-meta">
+                  <span>By {{ .Site.Params.Author }}</span>
+                  {{ if not .Params.HideDate }}
+                  <span class="border-bottom border-primary px-2 mx-1"></span>
+                  <span>{{ .PublishDate.Format "02 January 2006" }}</span>
+                  {{ end }}
+                </div>
+                <p class="blog-post__text">
+
+                  {{ if gt (len .Summary) 200}}
+                    {{slicestr .Summary 0 200}}...
+                  {{ else }}
+                    {{ .Summary }}
+                  {{ end }}
+
+                </p>
+                <a href="{{ .Permalink }}" class="btn btn-outline-primary">Baca selengkapnya</a>
+              </div>
+            </article>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      <!-- sidebar -->
+      {{ partial "sidebar.html" . }}
+      <!-- /sidebar -->
+
+      <!-- pagination -->
+      <div class="col-12 mt-5">
+        {{ template "_internal/pagination.html" . }}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /blog post -->
+
+{{ end }}

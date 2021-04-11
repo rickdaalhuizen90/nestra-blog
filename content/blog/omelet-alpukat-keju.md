@@ -1,0 +1,79 @@
+---
+title: "Omelet-Alpukat-Keju"
+date: 2019-10-29T10:07:47+06:00
+draft: true
+
+# post thumb
+image: "images/post/post-15.png"
+
+# meta description
+description: "Resep hidangan telur alpukat keju yang simple dan sehat ala diet keto sangat cocok menjadi pilihan menu di pagi hari."
+
+# taxonomies
+categories:
+  - "Keto Recipe"
+  
+# post tags
+tags:
+  - "keto"
+  - "gluten-free"
+  - "vegetarian"
+  - "diary-free"
+  
+# post type
+type: "post"
+
+# Is Recipe
+recipe: true
+
+---
+
+Menu hidangan omelet yang gurih, lembut dan lezat di mulut. Berbahan dari telur, alpukat dan keju sangat menggugah selera. Menu hidangan omelet diet ini sangat sehat dan bergizi.
+
+## Apa itu omelet alpukat keju?
+
+Omelet alpukat keju adalah olahan dari berbahan telur yang di kocok lepas. Di bumbui dan di goreng dengan mentega lalu di tambahkan alpukat dan topping keju. Sehingga hidangan ini mempunyai aroma yang gurih dan lezat.
+
+## Apa manfaat omelet alpukat keju?
+
+Hidangan ini sangat sehat dan bergizi. Salah satu manfaat dari hidangan ini yakni:
+
+- Baik untuk kesehatan otak.
+- Baik untuk kesehatan mata.
+- Baik untuk kesehatan kulit sehingga terlihat awet muda.
+- Kaya akan lutein.
+
+## Resep
+
+Menu hidangan ini sangat mudah untuk di buat dan juga ramah di kantong. Bahannya minim tapi sangat sehat dan bergizi. Jadi tunggu apalagi, yuk! simak tentang resep dan bagaimana cara membuat omelet alpukat keju ala diet keto.
+
+{{< post-info prep="5 menit" cook="15 menit" total="20 menit" serving="1">}}
+
+__Bahan__
+
+-   2 butir telur
+-   1 buah alpukat
+-   100 gr Keju parut
+-   Segenggam daun rucola(bisa skip)
+-   Sejumput Garam himalaya
+-   2 sdm Mentega
+
+__Cara membuat__
+
+-   Pecahkan telur kedalam wadah masukan sejumput garam kocok telur hingga rata.
+-   Kupas buah alpukat dan iris tipis-tipis.
+-   Panaskan wajan telfon masukan mentega tunggu sampai mentega meleleh dan panas.
+-   Setelah mentega leleh,ratakan mentega di teflon. Masukan telur masak dengan sedang lalu jika sudah setengah matang kecilkan api.
+-   Tak lama setelah telur di goreng, masukan alpukat, tata di atas telur.
+-   Masak dengan api kecil hingga matang. Masukan topping keju hingga merata, biarkan keju meleleh lalu angkat.
+-   Masukan telur dadar ke dalam piring. Hidangkan ketika masih hangat bersama daun rucola.
+
+{{< /post-info>}}
+
+>Ketika menggoreng telur tidak usah di bolak balik. Biarkan telur tetap begitu hingga matang dengan api sedang lalu api  kecil.
+
+Menu hidangan omelet alpukat keju ini sangat begizi,sehat dan lezat. Perpaduan dari rasa telur yang gurih. Alpukat yang lembut dan keju yang sedap sangat menggugah selera.
+
+Menu hidangan ini cocok di sajikan di waktu sarapan. Dengan di sandingkan segelas susu rendah karbohidrat atau secangkir kaldu sapi.
+
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)

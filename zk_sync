@@ -1,0 +1,22 @@
+#!/usr/bin/env sh
+
+ZK_PATH="${HOME}/Sites/nestra-blog"
+
+cd "$ZK_PATH"
+
+GIT_BRANCH='backup'
+CURRENT_DATE=$(date +"%F %H:%M:%S")
+CHANGES_EXIST=$(git status content/blog --porcelain | wc -l)
+CURRENT_BRANCH=$(git branch --show-current)
+
+if [ $CHANGES_EXIST -eq 0 ]; then
+	exit 0
+fi
+
+if [ $CURRENT_BRANCH != $GIT_BRANCH ]; then
+	exit 0
+fi
+
+git add -A
+git commit -qm "Last Sync: ${CURRENT_DATE}"
+git push -qu origin $GIT_BRANCH
