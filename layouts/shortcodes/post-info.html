@@ -1,0 +1,29 @@
+
+<div class="post-info">
+  <div class="post-info__row">
+    {{ .Get "text" }}
+  </div>
+  <div class="post-info__row">
+    <ul class="post-info__columns">
+      <li class="column">
+        <b>Waktu persiapan</b>
+        <p>{{ .Get "prep" }}</p>
+      </li>
+      <li class="column">
+        <b>Waktu memasak</b>
+        <p>{{ .Get "cook" }}</p>
+      </li>
+      <li class="column">
+        <b>Total waktu</b>
+        <p>{{ .Get "total" }}</p>
+      </li>
+      <li class="column">
+        <b>Porsi</b>
+        <p>{{ .Get "serving" }} porsi</p>
+      </li>
+    </ul>
+  </div>
+  <div class="post-info__row">
+    {{ .Inner | markdownify }}
+  </div>
+</div>
