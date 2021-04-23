@@ -27,18 +27,29 @@ recipe: true
 
 ---
 
-Menu hidangan sate ayam dengan bumbu kacang yang rendah karbohidrat, tapi meskipun rendah karbohidrat menu hidangan ini tetap lezat dan gurih sangat menggugah selera, sehingga aman di komsumsi untuk diet keto maupun penderita diabetes.
+Menu hidangan sate ayam bumbu kacang yang rendah karbohidrat. Sehingga aman di komsumsi untuk diet keto maupun penderita diabetes. Meskipun rendah karbohidrat menu hidangan ini tetap lezat dan gurih sangat menggugah selera.
 
 ## Apa itu sate ayam bumbu kacang?
 
-Sate ayam adalah olahan daging dada ayam filet yang dipotong dadu di bumbui lalu di tusuk sate dan di bakar/dipanggang sehingga menghasilkan aroma yang khas dan rasa yang gurih dan juga di sandingkan dengan bumbu kacang yang membuat hidangan ini sangat lezat.
+Sate ayam adalah olahan dada ayam filet yang dipotong dadu dan di marinasi. Lalu di tusuk sate dan di bakar/dipanggang. Sehingga menghasilkan aroma yang khas dan rasa yang gurih. Dengan di hidangkan bersama bumbu kacang yang membuat hidangan ini sangat lezat.
 
 ## Apa manfaat sate ayam bumbu kacang?
 
-Sate ayam bumbu kacang ini banyak manfaatnya bagi tubuh, salah satunya yakni mengandung vitamin dan mineral yang baik untuk tubuh, kaya akan protein, menurunkan berat badan, mengandung senyawa anti kanker, mengontrol tekanan darah, menguatkan tulang,meningkatkan masa otot, memperbaiki mood dll.
+Sate ayam bumbu kacang ini banyak manfaatnya bagi tubuh. Salah satunya yakni:
+- Mengandung vitamin dan mineral yang baik untuk tubuh.
+- Kaya akan protein.
+- Menurunkan berat badan.
+- Mengandung senyawa anti kanker.
+- Mengontrol tekanan darah.
+- Menguatkan tulang
+- Meningkatkan masa otot
+- Memperbaiki mood dll.
 
 ## Resep
-Resep menu hidangan ini menggunakan bahan-bahan yang sehat dan terpilih sehingga menghasilkan olahan yang lezat dan sehat, sangat ramah untuk diet keto. Berikut resep hidangan sate ayam bumbu kacang di bawah ini.
+
+Resep menu hidangan ini menggunakan bahan-bahan yang sehat. Sehingga menghasilkan rasa yang lezat dan juga sehat. 
+
+Berikut resep hidangan sate ayam bumbu kacang di bawah ini.
 
 {{< post-info prep="30 menit" cook="20 menit" total="50 menit" serving="4">}}
 
@@ -70,24 +81,25 @@ __Bumbu kacang__
 __Cara bumbu kacang__
 
 - Panaskan wajan sangrai kacang, cabe merah dan bawang putih hingga matang. Sisihkan
-- Ambil bleder, masukan kacang tanah, bawang putih, cabe merah, kaldu jamur, garam dan air lalu haluskan (jangan terlalu halus)
-- Panaskan wajan masukan bumbu kacang masak sampe mendidih sambil diaduk-aduk, masak sampai kuah menyusut lalu masukan gula merah dan kecap, tes rasa, angkat
+-Masukan air dalam blender. Blender kacang tanah, bawang putih dan cabe merah.
+- Panaskan wajan masukan bumbu kacang, gula jawa, kecap manis, kaldu jamur dan garam.
+- Masak sampe mendidih sambil diaduk-aduk sampe kuah menyusut. Tes rasa, angkat.
 
 __Cara membuat sate ayam__
 
-- Cuci ayam hingga bersih lalu lumuri ayam dengan perasan air jeruk nipis diamkan 10 menit lalu bilas hingga bersih.
+- Cuci ayam hingga bersih lalu lumuri ayam dengan perasan air jeruk nipis. Diamkan 10 menit bilas hingga bersih.
 - Keringkan ayam dengan tisu atau lap bersih lalu potong dadu sesuaikan sampe 20 tusuk.
-- Ambil wadah masukan potongan ayam dalam wadah lalu masukan bumbu marinasi aduk2 sampai rata.
+- Ambil wadah masukan potongan ayam dalam wadah. Masukan bumbu marinasi aduk-aduk sampai rata.
 - Ambil tusuk sate, tusukan ayam di tusuk sate. 
-- Bakar/panggang semua ayam bergantian di atas bara api sambil di bolak balik hingga matang, angkat.
-
+- Bakar/panggang semua ayam bergantian di atas bara api. Sambil di bolak balik hingga matang, angkat.
+- 
 __Cara penyajian__
-- Ambil piring saji,  tata 10 tusuk sate ke dalam piring saji lalu hidangkan sate ayam bersama bumbu kacang dan cabe rawit, hidangkan ketika masih hangat.
+- Ambil piring saji,  tata 10 tusuk sate ke dalam piring saji. Hidangkan sate ayam bersama bumbu kacang dan cabe rawit ketika masih hangat.
 
+>Untuk membakar ayam bisa dipanggang di atas kompor yang sudah dipasang alat pangagangan. Juga bisa diatas teflon maupun di oven
 
+Menu hidangan sate ayam bumbu kacang ini sangat lezat dan menggugah selera. Perpaduan dari rasa ayam yang empuk dan bumbu kacang yang gurih.  Membuat hidangan ini sangat special.
 
->Untuk membakar ayam bisa dipanggang di atas kompor yang sudah dipasang alat pangagangan atau diatas teflon maupun di oven dan untuk membuat saus kacang ketika dimasak bisa di tambahakan air bila terlalu kental
+Menu hidangan ini sangat cocok di dihidangkan di sore hari. Dengan di sandingkan semangkuk nasi shirataki dan teh hijau bebas gula.
 
-Menu hidangan sate ayam bumbu kacang ini sangat lezat dan menggugah selera, perpaduan dari rasa ayam yang empuk dan bumbu kacang yang gurih membuat hidangan ini sangat special, menu hidangan ini sangat cocok di dihidangkan di sore hari dengan di sandingkan semangkuk nasi shirataki dan teh hijau bebas gula.
-
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya, selamat mencoba, salam sehat selalu, sampai jumpa di artikel selanjutnya dan jangan lupa di share ya:)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dansalam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya:)

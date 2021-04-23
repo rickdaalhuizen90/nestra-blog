@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1c85a4350229f379",
+        "id": "3cf10c2287ecd5e9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "post-20.md",
+            "file": "sup-ikan-dori-.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b4f34adf40aa4452",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "sup-ikan-dori-.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post-20.md",
+                "file": "sup-ikan-dori-.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c85a4350229f379",
+  "active": "3cf10c2287ecd5e9",
   "lastOpenFiles": [
-    "post-20.md",
-    "_templates/default.md",
-    "_templates/recipe.md",
-    "_index.md",
-    "_templates/Untitled.md",
-    "_templates/example.md",
-    "example.md",
-    "rendang-daging.md",
-    "ikan-goreng-crispy-keto.md",
-    "208-daftar-nama-produk-makanan-dan-minuman-untuk-diet -keto.md"
+    "sup-ikan-dori-.md",
+    "sup-ikan-dori-keto.md",
+    "shirataki-noodles-salmon-creamy.md",
+    "shirataki-noodles-goreng-cumi.md",
+    "shirataki-noodles-goreng-udang-keto.md",
+    "shirataki-noodles-ayam-bawang.md",
+    "sate-ayam-bumbu-kacang.md",
+    "sambal-teri-pete.md",
+    "salad-timun-tomat-dan-salmon.md",
+    "salad-timun-tauge-alpukat-dan-rucola.md"
   ]
 }

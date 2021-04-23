@@ -26,17 +26,23 @@ type: "post"
 recipe: true
 ---
 
-menu hidangan salad segar berbahan timun, tomat dan salmon ini merupakan salah satu jenis makanan lezat dan sehat yang mengandung banyak protein dan vitamin bagi tubuh, untuk gaya hidup yang sehat beralilah mengkomsumsi salad diet sehat setiap hari.
+Salad segar berbahan timun, tomat dan salmon ini merupakan makanan sehat dan lezat. Untuk gaya hidup yang sehat beralilah mengkomsumsi salad diet sehat setiap hari.
 
 ## Apa itu salad keto timun,tomat dan salmon?
-Salad timun, tomat dan salmon adalah hidangan yang terdiri dari potongan mentah timun segar, tomat segar dan potongan ikan salmon asap yang di campur menjadi satu, salad ini biasanya di makan pada suhu kamar yang dingin dan rasanya begitu segar dan lezat.
+
+Hidangan salad segar ini terdiri dari potongan timun, tomat dan ikan salmon asap. Di campur menjadi satu, lalu ditambahkan keju feta dan minyak zaitun. Salad ini dihidangkan pada suhu ruang, sehingga rasanya begitu segar dan lezat.
 
 ## Manfaat salad keto timun, tomat dan salmon.
-Salad diet keto timun, tomat dan salmon ini sangat baik untuk kesehatan, salah satu  manfaatnya bagi tubuh yakni untuk menyimpan cadangan energy dalam tubuh, membantu menyerap vitamin yang masuk kedalam tubuh, menjaga suhu tubuh, juga melindungi organ tubuh dan sangat ramah untuk diet keto.
+
+Salad diet keto timun, tomat dan salmon ini sangat baik untuk kesehatan. Salah satu  manfaatnya bagi tubuh yakni:
+- Untuk menyimpan cadangan energy dalam tubuh.
+- Membantu menyerap vitamin yang masuk kedalam tubuh.
+- Menjaga suhu tubuh.
+- Melindungi organ tubuh dan sangat ramah untuk diet keto.
 
 ## Resep
 
-Cara membuat salad timun dan tomat ini sangat mudah dan praktis, bahan yang di butuhkan juga sangat terjangkau dan biasanya selalu ada di dapur kita. untuk membuat salad ini selalu dibutuhkan minyak zaitun, karena minyak zaitun adalah minyak yang sehat untuk membuat salad .
+Cara membuat salad timun dan tomat ini sangat mudah dan praktis. Bahan yang di butuhkan juga sangat terjangkau dan ramah di dapur kita.
 
 {{< post-info prep="5 menit" cook="5 menit" total="10 menit" serving="1">}}
 
@@ -50,7 +56,7 @@ _ 100 gr ikan salmon asap (siap makan)
 
 __Cara membuat__
 
-- Siapkan mangkuk, cuci bersih tomat dan timun lalu potong dadu tomat dan timun masukan ke dalam mangkuk.
+- Siapkan mangkuk. Cuci bersih tomat dan timun lalu potong dadu, masukan ke dalam mangkuk.
 - Potong-potong salmon (sesuai selera) masukan ke dalam mangkuk.
 - Cincang kasar keju feta masukan ke dalam mangkuk.
 - Tambahkan minyak zaitun ke dalam mangkuk lalu aduk-aduk semua hingga tercampur rata.
@@ -60,6 +66,8 @@ __Cara membuat__
 
 >Keju feta bisa diganti dengan keju biasa tapi tambahkan sejumput garam himalaya.
 
-Menu hidangan salad ini kaya akan cita rasa dan segar di mulut, perpaduan dari timun yang renyah, tomat yang segar, ikan salmon yang lembut dan keju feta yang gurih, membuat hidangan salad ini begitu lezat. Menu hidangan salad ini sangat cocok dihidangkan di pagi hari maupun sore hari dengan di sandingkan segelas susu rendah karbohidrat.
+Menu hidangan salad ini kaya akan cita rasa dan segar di mulut. Perpaduan dari timun yang renyah dan tomat yang segar. Ikan salmon yang lembut dan keju feta yang gurih. Membuat hidangan salad ini begitu lezat.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya, selamat mencoba, salam sehat selalu, sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)
+Menu hidangan salad ini sangat cocok dihidangkan di pagi hari maupun sore hari. Dengan di sandingkan segelas susu rendah karbohidrat atau secangkir kaldu sapi.
+
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)

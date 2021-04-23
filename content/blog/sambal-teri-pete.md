@@ -31,11 +31,13 @@ Menu hidangan sambal teri pete ini begitu gurih,lezat dan menggugah selera. Cara
 
 ## Apa itu sambal teri pete?
 
-Sambal teri pete adalah olahan sambal yang ditambahkan teri dan pete. Sambal diolah di campur dengan teri dan pete,lalu dimasak bersama. Sehingga olahan ini mempunyai aroma yang khas dan lezat.
+Sambal teri pete adalah olahan sambal yang di goreng ditambahkan teri dan pete. Di bumbui di campur menjadi satu. Sehingga menghasilkan aroma pete yang khas dan lezat. Hidangan sambal ini adalah menu favorit orang Indonesia.
 
 ## Resep
 
-Menu hidangan sambal yang simple dan sehat. Tak hanya rasanya yang lezat tapi sambal teri pete ini juga tahan lama. Ayo simak resep sambal teri pete di bawah ini.
+Menu hidangan sambal yang simple dan sehat. Tak hanya rasanya yang lezat tapi sambal teri pete ini juga tahan lama. 
+
+Ayo simak resep sambal teri pete di bawah ini.
 
 __Bahan__
 
@@ -52,20 +54,21 @@ __Bahan__
 __Cara membuat__
 
 -   Kupas pete sisihkan.
--   Petik tangkai cabe rawit lalu cuci bersih.
+-   Petik tangkai cabe rawit dan cabe keriting. Lalu cuci bersih.
 -   Masukan cabe rawit dan minyak zaitun,blender hingga halus.
 -   Cuci bersih tomat potong-potong sesuai selera.
 -   Panaskan wajan goreng ikan teri hingga kering, angkat, sisihkan.
--   Masih dengan wajan yang sama masukan cabe rawit dan tomat.
+-   Masih dengan wajan yang sama masukan cabe dan tomat.
 -   Masak sambal dengan api sedang sambil diaduk-aduk.
 -   Bila air sudah menyusut kecilkan api masukan garam kaldu jamur dan gula.
 -   Masak sambal hingga kering dengan api kecil sambil diaduk-aduk.
 -   Bila sambal sudah kering masukan pete dan ikan teri masak hingga pete matang. Tes rasa,angkat.
 -   Hidangan sambal ini bisa dihidangkan ketika masih hangat maupun dingin.
+
 > Pastikan airnya sudah benar-benar menyusut dan kering ketika memasak sambal. Agar sambal bisa tahan lama.
 
 Menu hidangan sambal teri pete ini begitu lezat di mulut. Perpaduan dari rasa sambal yang pedas. Rasa pete dan ikan asin yang gurih. Membuat kombinasi hidangan ini begitu sempurna.
 
-Hidangan sambal ini sangat cocok di sandingkan dengan nasi shirataki dan secangkir teh hijau bebas gula.
+Hidangan sambal ini sangat cocok di sandingkan dengan nasi shirataki. Dengan disandingkan secangkir teh hijau bebas gula.
 
 Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)

@@ -27,19 +27,26 @@ recipe: true
 
 ---
 
-Menu hidangan mie ayam bawang ini mempunyai aroma yang khas, rasanya begitu alami dan segar sangat menggoda selera, membuat menu diet ini sangat mudah dan cepat dan juga menu diet ini mempunyai banyak nutrisi sehingga bisa menunda rasa lapar yang lama.
+Hidangan mie ayam bawang ini mempunyai aroma segar dan rasanya begitu alami. Mie ayam bawang ini sangat cepat dan mudah dibuat. Menu hidangan ini mempunyai banyak nutrisi sehingga bisa menunda rasa lapar yang lama.
 
 ## Apa itu shirataki noodles ayam bawang?
 
-Shirataki noodles ayam bawang adalah olahan dari berbahan mie shirataki yang diolah dengan kuah kaldu ayam dan di bumbui lalu ditambahkan daging ayam filet dan sawi hijau, sehingga menjadi hidangan mie kuah segar dengan aroma yang khas ayam bawang.
+Shirataki noodles ayam bawang adalah olahan mie shirataki yang diolah dengan kaldu ayam. Di bumbui ditambahkan daging ayam filet dan sawi hijau. Sehingga menjadi hidangan mie kuah segar dengan aroma yang khas ayam bawang.
 
 ## Apa manfaat shirataki noodles ayam bawang?
 
-Mie shirataki ayam bawang banyak manfaatnya bagi tubuh antara lain yakni membantu menurunkan berat badan, membantu menurunkan kolesterol, mencegah sembelit, aman untuk penderita diabetes, membuat rasa kenyang yang cukup lama sehingga tidak mudah lapar dan pastinya ramah untuk diet keto.
+Mie shirataki ayam bawang banyak manfaatnya bagi tubuh antara lain yakni:
+- Membantu menurunkan berat badan.
+- Membantu menurunkan kolesterol.
+- Mencegah sembelit.
+- Aman untuk penderita diabetes.
+- Membuat rasa kenyang yang cukup lama. Sehingga tidak mudah lapar.
 
 ## Resep
 
-Untuk teman-teman penggemar makanan mie tidak usah khawatir untuk tidak bisa makan mie di waktu menjalankan diet keto karena shirataki noodles ini adalah mie yang rendah karbohidrat dan ramah untuk diet keto. Jadi tunggu apalagi yuk simak bagaimana dan cara membuat shirataki ayam bawang ala diet keto.
+Untuk penggemar makanan mie tidak usah khawatir tidak bisa makan mie ketika diet. Shirataki noodles ini solusinya, mie yang rendah karbohidrat dan ramah untuk diet keto. 
+
+Jadi tunggu apalagi yuk! simak bagaimana dan cara membuat shirataki ayam bawang ala diet keto.
 
 {{< post-info prep="10 menit" cook="10 menit" total="20 menit" serving="1">}}
 
@@ -60,18 +67,20 @@ __Bahan__
 
 __Cara membuat__
 
-- Ambil sarangan cuci shirataki noodles dengan air dingin yang mengalir sampai bersih, tiriskan.
+- Ambil sarangan. Cuci shirataki noodles dengan air dingin yang mengalir sampai bersih, tiriskan.
 - Ambil sawi hijau cuci bersih potong sesuai selera tiriskan.
-- Ambil wajan panaskan minyak masukan bawang merah dan bawang putih masak hingga harum.
+- Ambil wajan panaskan minyak zaitun. Masukan bawang merah dan bawang putih masak hingga harum.
 - Masukan kaldu ayam masak hingga mendidih.
-- Bila air sudah mendidih masukan irisan ayam, shirataki noodles, sawi hijau, kaldu jamur, merica bubuk dan garam, masak selama 2,5menit, tes rasa, angkat.
-- Tuang mie shirataki kedalam mangkuk bersama telur dan taburan daun bawang, hidangkan ketika masih hangat.
-
+- Bila air sudah mendidih. Masukan irisan ayam, shirataki noodles, sawi hijau, kaldu jamur, merica bubuk dan garam. Masak selama 2,5menit, tes rasa, angkat.
+- Tuang mie shirataki kedalam mangkuk. Tambahkan telur dan taburan daun bawang. Hidangkan ketika masih hangat.
+- 
 {{< /post-info>}}
 
 >Agar tekstur dada ayam tetap empuk, masak dada ayam selama 2,5 menit.
 
 
-Menu hidangan shirataki noodles ini sangat sehat dan lezat, perpaduan dari tekstur shirataki noodles yang kenyal dan kuah kaldu ayam yang gurih di mulut sangat menggugah selera, shirataki noodles sangat cocok disajikan di siang atau malam hari dengan di sandingkan secangkir teh hijau bebas gula.
+Menu hidangan shirataki noodles ini sangat sehat dan lezat. Perpaduan dari tekstur shirataki noodles yang kenyal. Kuah kaldu ayam yang gurih di mulut sangat menggugah selera. 
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya, selamat mencoba, salam sehat selalu, sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)
+Menu hidangan ini sangat cocok disajikan di siang atau malam hari. Dengan di sandingkan secangkir teh hijau bebas gula.
+
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)
