@@ -7,7 +7,7 @@ draft: false
 image: "images/featured-post/post-2.png"
 
 # meta description
-description: "Resep Kaldu tulang sapi yang sehat dan bergizi sangat cocok dikomsumsi setiap hari dan sangat ramah untuk diet keto"
+description: "Resep Kaldu tulang sapi yang sehat dan bergizi. Sangat baik dikomsumsi setiap hari."
 
 # taxonomies
 categories:
@@ -31,7 +31,7 @@ Kaldu tulang sapi yang mengandung kaya akan protein yang sehat dan bergizi tingg
 
 ## Apa itu kaldu tulang?
 
-Kaldu tulang adalah cairan yang tersisa setelah tulang direbus untuk waktu yang lama. Dengan di bumbui dimasukan jenis rempah-rempah atau bahan asam seperti cuka apel. Sehingga dari rebusan tulang berdaging tadi terciptalah cairan kaldu yang kaya akan protein.
+Kaldu tulang adalah cairan yang tersisa setelah tulang direbus untuk waktu yang lama. Dibumbui dimasukan jenis rempah-rempah atau bahan asam seperti cuka apel. Sehingga dari rebusan tulang berdaging tadi terciptalah cairan kaldu yang kaya akan protein.
 
 ## Apa perbedaan antara kaldu instant dan kaldu tulang?
 
@@ -41,20 +41,20 @@ Kaldu instant terbuat dari daging yang diolah di bumbui dan di rebus sekitar 30 
 
 Manfaat mengkomsumsi kaldu tulang adalah:
 
--Menjaga kesehatan.
--Memperkuat persendian.
--Memperkuat sistem kekebalan tubuh.
--Meningkatkan kualitas tidur.
--Melawan penyakit flu.
--Melancarkan pencernaan.
--Menyehatkan kulit.
--Menambah energi.
+- Menjaga kesehatan.
+- Memperkuat persendian.
+- Memperkuat sistem kekebalan tubuh.
+- Meningkatkan kualitas tidur.
+- Melawan penyakit flu.
+- Melancarkan pencernaan.
+- Menyehatkan kulit.
+- Menambah energi.
 
 ## Tulang jenis apa saja yang di butuhkan untuk membuat kaldu?
 
 ### Tulang sapi, tulang rusa, tulang domba dan tulang kuda.
 
-Membutuhkan tulang leher, betis, buntut sapi dan tulang sumsum. Tapi dalam menggunakan tulang sumsum jangan terlalu banyak. Agar teksturnya tidak mempunyai banyak minyak dan banyak gel.
+Membutuhkan tulang leher, betis, buntut sapi dan tulang sumsum. Tapi dalam menggunakan tulang sumsum jangan terlalu banyak. Agar tekstur kaldunya tidak mempunyai banyak minyak dan banyak gel.
 
 ### Tulang ayam.
 Membutuhkan tulang kerangka ayam, kerangka punggung, ujung sayap, ceker ayam dan ayam utuh.
@@ -68,7 +68,6 @@ Untuk membuat kaldu babi membutuhkan tulang leher, kaki dan ham hock.
 ## Bagaimana cara mengkomsumsi kaldu tulang?
 
 Berbagai cara untuk mengkomsumsi kaldu tulang yakni:
-
 - Untuk membuat pasta
 - Untuk membuat semur
 - Untuk menanak nasi
@@ -79,7 +78,7 @@ Berbagai cara untuk mengkomsumsi kaldu tulang yakni:
 - Untukmembuat rendang
 - Untuk menumis sayur
 - Untuk memasak mie
-- Meminumnya langsung dll.
+- Meminumnya langsung, dll.
 
 ## Resep
 
@@ -88,8 +87,8 @@ Sangat mudah membuat kaldu tulang. Anda bisa membuat kaldu tulang menggunakan tu
 {{< post-info prep="10 menit" cook="8 jam" total="8 jam 10 menit" serving="10 (2,5L)">}}
 
 __Bahan__
-- 2 kg potongan sendi tulang berdaging(tulang betis)
-- 3 sdm cuka apel(boleh skip)
+- 2 kg potongan sendi tulang berdaging. (tulang betis)
+- 3 sdm cuka apel (boleh skip)
 - 5 siung bawang putih
 - 3 batang seledri
 - 2 lembar daun salam
@@ -104,12 +103,12 @@ __Cara membuat__
 - Panaskan oven dengan suhu 205°C
 - Siapkan loyang alasi dengan kertas roti. Tata tulang sapi dan bawang putih ke loyang. Masukan kedalam oven panggang selama 30 menit (bila tidak ada oven bisa skip)
 - Ambil japitan pindahkan tulang sapi dan bawang putih ke dalam panci.
-- Tambahkan cuka apel, daun salam, garam dan merica hitam ke panci. dan masukan air nyalakan kompor dengan api besar sampai mendidih.
-- Setelah mendidih kecilkan api. Singkirkan buih/busa yang naik ke atas permukaan kaldu. Rebus selama 8jam.
-- Buka tutup panci untuk menyingkirkan buih/busa yang muncul di atas permukaan kaldu. Tutup kembali dan ulangi tiap 30 menit, begitu seterusnya.
+- Tambahkan cuka apel, daun salam, garam dan merica hitam. Masukan air nyalakan kompor dengan api besar sampai mendidih.
+- Setelah mendidih kecilkan api. Singkirkan buih/busa yang naik ke atas permukaan kaldu. Rebus selama 8 jam.
+- Buka tutup panci untuk menyingkirkan buih/busa yang muncul di atas permukaan kaldu. Tutup kembali dan ulangi setiap 30 menit, begitu seterusnya.
 - 10 menit sebelum panci diangkat masukan seledri, masak kembali lalu angkat.
 - Saring kaldu dengan saringan halus ke dalam stoples kaca. Bila ada buih yang muncul di permukaan ambil dengan sendok.
-- Sajikan secangkir kaldu sapi ketika masih hangat. Atau juga bisa dijadikan bahan dasar masakan yang lainnya.
+- Hidangkan secangkir kaldu sapi ketika masih hangat. Atau juga bisa dijadikan bahan dasar masakan yang lainnya.
 
 {{< /post-info>}}
 
@@ -117,8 +116,8 @@ __Cara membuat__
 
 __Tips__
 
-Merebus tulang ayam atau tulang ukuran kecil lainnya membutuhkan waktu yang lebih sedikit. Merebus tulang sapi ukuran besar membutuhkan waktu yang lebih lama.
-
-Kaldu bisa di simpan di dalam kulkas dan bisa bertahan sampai 3-6 bulan. Dengan cara tuang kaldu ke dalam stoples kaca dan biarkan dingin. Sebelum menutup stoples berikan ruang minimal 2 inci. Ketika ingin mengkomsumsi kaldu, ambil kaldu dengan sendok yang menggumpal dipermukaan.
+- Merebus tulang ayam atau tulang ukuran kecil lainnya membutuhkan waktu yang sedikit. Merebus tulang sapi ukuran besar membutuhkan waktu yang lebih lama.
+- Kaldu bisa di simpan di dalam kulkas dan bisa bertahan sampai 3-6 bulan. Dengan cara tuang kaldu ke dalam stoples kaca dan biarkan dingin. Sebelum ditutup berikan ruang minimal 2 inci.
+- Ketika ingin mengkomsumsi kaldu, ambil kaldu dengan sendok yang menggumpal dipermukaan. Buang gumpalan kaldu yang muncul di permukaan.
 
 Demikian artikel resep dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mecoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)

@@ -7,7 +7,7 @@ draft: false
 image: "images/post/post-9.png"
 
 # meta description
-description: "Menu hidangan salad diet keto yang segar dan sehat, layak dijadikan menu hidangan sehari-hari."
+description: "Menu hidangan salad diet keto yang segar dan seha. Layak dijadikan menu hidangan sehari-hari."
 
 # taxonomies
 categories:
@@ -38,7 +38,12 @@ Salad diet keto timun, tomat dan salmon ini sangat baik untuk kesehatan. Salah s
 - Untuk menyimpan cadangan energy dalam tubuh.
 - Membantu menyerap vitamin yang masuk kedalam tubuh.
 - Menjaga suhu tubuh.
-- Melindungi organ tubuh dan sangat ramah untuk diet keto.
+- Mengontrol kadar gula darah.
+- Melawan kanker.
+- Menurunkan kolesterol.
+- Membantu penurunan berat badan.
+- Sehat untuk kulit dan rambut.
+- Melindungi organ tubuh, dll.
 
 ## Resep
 
@@ -56,11 +61,11 @@ _ 100 gr ikan salmon asap (siap makan)
 
 __Cara membuat__
 
-- Siapkan mangkuk. Cuci bersih tomat dan timun lalu potong dadu, masukan ke dalam mangkuk.
-- Potong-potong salmon (sesuai selera) masukan ke dalam mangkuk.
+- Cuci bersih tomat dan timun lalu potong dadu, masukan ke dalam mangkuk.
+- Potong-potong salmon, masukan ke dalam mangkuk.
 - Cincang kasar keju feta masukan ke dalam mangkuk.
 - Tambahkan minyak zaitun ke dalam mangkuk lalu aduk-aduk semua hingga tercampur rata.
-- Hidangkan salad diet keto ini dengan suhu ruang (dingin)
+- Hidangkan salad diet keto ini dengan suhu ruang.
 
 {{< /post-info>}}
 

@@ -7,7 +7,7 @@ draft: true
 image: "images/post/post-15.png"
 
 # meta description
-description: "Resep salad buah sayur segar yang sehat dan bergizi, snagat ramah untuk diet keto."
+description: "Resep salad buah sayur segar yang sehat dan bergizi. Sangat ramah untuk diet keto."
 
 # taxonomies
 categories:
@@ -48,11 +48,13 @@ Banyak sekali manfaat buah dan daun rucola ini antara lain yakni:
 - Mencukupi kebutuhan meneral di tubuh.
 - Memaksimalkan fungsi otak.
 - Membuat awet muda.
-- Mengurangi lemak buruk meningkatkan lemak baik dan sangat ramah untuk diet keto.
+- Mengurangi lemak buruk meningkatkan lemak baik, dll.
 
 ## Resep
 
-Membuat salad diet keto yang sehat ini sangat mudah tidak memakan waktu yang lama. Bahannya minim dan ramah di kantong. Berikut simak resepnya di bawah ini.
+Membuat salad diet keto yang sehat ini sangat mudah tidak memakan waktu yang lama. Bahannya minim dan ramah di kantong. 
+
+Berikut simak resepnya di bawah ini.
 
 {{< post-info prep="5 menit" cook="5 menit" total="10 menit" serving="2">}}
 
@@ -67,13 +69,13 @@ __Bahan__
 
 __Cara membuat__
 
-- Cuci bersih tauge dan timun,sisihkan.
+- Cuci bersih tauge dan timun, sisihkan.
 - Ambil mangkuk saji masukan daun rucola ke dalam mangkuk saji.
 - Potong kasar keju feta masukan ke dalam mangkuk saji.
 - kupas buah alpukat lalu potong-potong masukan ke dalam mangkuk saji.
 - Iris timun masukan ke dalam mangkuk saji.
 - Masukan tauge dan minyak zaitun ke dalam mangkuk saji
-- Sebelum di nikmati bisa di aduk-aduk dulu lalu hidangkan dengan suhu ruang (dingin)
+- Sebelum di nikmati bisa di aduk-aduk dulu lalu hidangkan dengan suhu ruang.
 
 {{< /post-info>}}
 

@@ -28,18 +28,30 @@ recipe: true
 
 ---
 
-Menu hidangan telur orak-arik yang empuk, lezat dan menggugah selera dan juga bergizi tinggih yang membuat tubuh bertenaga, cara membuatnya mudah dan praktis dan layak menjadi menu andalan sehari-hari
+Menu hidangan telur orak-arik yang empuk, lezat dan menggugah selera. Juga bergizi tinggih yang membuat tubuh bertenaga. Telur orak arik ini layak menjadi menu andalan sehari-hari.
 
 ## Apa itu telur orak arik?
 
-Telur orak arik adalah olahan makanan dari bahan telur ayam dan dikocok lepas lalu digoreng ke dalam wajan lalu diaduk-aduk perlahan dan di masak dengan api kecil hingga hasilnya begitu empuk, lembut dan creamy.
+Menu hidangan telur orak-arik yang empuk, lezat dan menggugah selera. Juga bergizi tinggih yang membuat tubuh bertenaga. Telur orak arik ini tergolong menu hidangan sehat dan menu wajib dalam diet keto.
 
 ## Apa manfaat telur?
-Telur orak arik ini banyak manfaatnya bagi tubuh yakni makanan yang bergizi tinggih, menurunkan resiko penyakit jantung, mencerdaskan otak, baik untuk kesehatan mata, mengurangi nafsu makan dan membantu menurunkaan berat badan, meningkatkan daya imun tubuh, mempercantik kulit dan rambut dan mencegah stres.
+
+Telur orak arik ini banyak manfaatnya bagi tubuh yakni:
+- Makanan yang bergizi tinggih.
+- Menurunkan resiko penyakit jantung.
+- Mencerdaskan otak.
+- Baik untuk kesehatan mata.
+- Mengurangi nafsu makan.
+- Membantu menurunkaan berat badan.
+- Meningkatkan daya imun tubuh.
+- Mempercantik kulit dan rambut.
+- Mencegah stres.
 
 ## Resep
 
-Membuat hidangan telur orak arik ini tergolong mudah dan tidak memakan waktu yang lama, bahanya juga sangat minim dan ramah untuk dapur kita, menu hidangan telur orak arik ini begitu sehat dan tergolong menu hidangan wajib dalam diet keto. Berikut resep membuat telur orak arik ala diet keto.
+Membuat hidangan telur orak arik ini tergolong cepat dan mudah. Bahannya juga sangat minim dan ramah di dapur kita.
+
+Berikut simak resep membuat telur orak arik yang empuk dan creamy.
 
 {{< post-info prep="5 menit" cook="10 menit" total="15 menit" serving="2">}}
 
@@ -52,16 +64,18 @@ __Bahan__
 
 __Cara membuat__
 
-- Ambil 2 butir telur pecahkan dalam wadah tambahkan merica dan garam kocok telur sampai tercampur rata.
+- Ambil 2 butir telur pecahkan dalam wadah. Tambahkan merica dan garam kocok lepas.
 - Ambil wajan teflon masukan mentega panaskan hingga cair.
 - Sesudah mentega cair masukan kocokan telur lalu kecilkan api.
-- Aduk telur dengan rata secara perlahan, (jangan sampai tidak mengaduk bagian bawah telur agar telur tidak mengeras) masak hingga matang, angkat
+- Masak sambil terus diaduk perlahan hingga matang, angkat.
 - Masukan telur kedalam piring hidangan dan hidangkan ketika masih hangat.
 
 {{< /post-info>}}
 
->Jangan gunakan api sedang atau api besar untuk menggoreng telur orak arik tapi gunakan api kecil karena api kecil berfungsi menjaga tekstur telur orak arik menjadi creamy, empuk dan lezat.
+>Ketika mengaduk jangan melewatkan bagian bawah telur agar tidak mengeras dan gosong.
 
-Menu Hidangan telur orak arik ala keto ini sangat lezat, perpaduan dari rasa telur yang empuk dan mentega yang begitu gurih sangat menggugah selera. Menu hidangan telur orak arik ini sangat cocok di sajikan di pagi hari atau sarapan dengan disandingkan bersama segelas susu rendah karbohidrat.
+Menu Hidangan telur orak arik ala keto ini sangat lezat. Perpaduan dari rasa telur yang empuk. Mentega yang begitu gurih sangat menggugah selera. 
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya, selamat mencoba, salam sehat selalu, sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)
+Menu hidangan telur orak arik ini sangat cocok di sajikan di pagi hari atau sarapan. Dengan disandingkan bersama segelas susu rendah karbohidrat.
+
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencobadan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)

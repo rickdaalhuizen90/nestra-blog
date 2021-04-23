@@ -26,7 +26,7 @@ type: "featured"
 recipe: true
 
 ---
-Menu hidangan ikan goreng crispy ala diet keto ini sangat lezat. Perpaduan rasa renyah dan gurih dari ikan. Dan rasa segar dari asparagus sangat menggugah selera.
+Menu hidangan ikan goreng crispy ala diet keto ini sangat lezat. Perpaduan rasa renyah dari tepung dan gurih dari ikan. Rasa segar dari asparagus sangat menggugah selera.
 
 
 ## Apa itu ikan goreng crispy?
@@ -35,7 +35,7 @@ Ikan goreng crispy adalah ikan yang dibalur dengan bumbu dan dilapisi tepung. La
 
 ## Resep
 
-Ikan goreng crispy ini sangat lezat disajikan dengan asparagus rebus atau brokoli rebus. Ikan goreng crispy ini sangat mudah dan simple untuk di buat. Bahan-bahannya juga sangat simple dan praktis.
+Ikan goreng crispy ini sangat lezat disajikan dengan asparagus rebus atau brokoli rebus. Hidangan ini sangat mudah dan simple untuk di buat. Bahan-bahannya juga sangat simple dan praktis.
 
 Ikan goreng crispy ini sangat ramah untuk diet keto. Nah tunggu apalagi yuk simak resepnya di bawah ini.
 
@@ -58,16 +58,19 @@ __Bahan marinasi__
 
 __Cara membuat__
 
-- Cuci ikan tiriskan dan kasih perasan air jeruk nipis. Diamkan 10menit lalu cuci kembali sampai bersih, tiriskan.
-- keringkan ikan dengan tisu atau lap bersih. Lalu taburi dengan bumbu marinasi hingga merata, sisihkan.
+- Cuci ikan tiriskan dan kasih perasan air jeruk nipis. Diamkan 10 menit lalu cuci bersih, tiriskan.
+- Keringkan ikan dengan tisu atau lap bersih. 
+- Masukan ikan kedalam wadah, tambahkan bumbu marinasi. Aduk hingga rata, sisihkan.
 - Cuci asparagus, sisihkan
 - Ambil panci rebus air sampai mendidih lalu masukan asparagus, rebus selama 2 menit. Tiriskan.
 - Ambil wadah pecahkan 2 butir telur kocok lepas.
 - Siapkan tepung almond dalam piring.
 - Panaskan minyak di wajan/teflon.
-- Ambil ikan masukan dalam tepung almond bolak balik. Lalu masukan dalam telur bolak balik. Ambil masukan lagi dalam tepung almond bolak balik. Bila minyak sudah panas langsung masukan ikan ke dalam wajan/teflon.
--Goreng ikan sampai berwarna kuning ke emasan. Lalu angkat ikan, tiriskan, ulangi sampai adonan ikan habis.
+- Ambil ikan masukan dalam tepung almond bolak balik. Lalu masukan ikan dalam telur bolak balik. Ambil ikan masukan lagi dalam tepung almond bolak balik. Bila minyak sudah panas langsung masukan ikan ke dalam wajan/teflon.
+- Goreng ikan sampai berwarna kuning ke emasan. Lalu angkat ikan, tiriskan.
+- Ulangi menggoreng sampai adonan ikan habis.
 - Tata ikan goreng crispy dan asparagus ke dalam piring. Hidangkan ketika masih hangat dengan disandingkan saus mayonaise.
+
 {{< /post-info>}}
 
 >Setelah ikan di keringkan, bisa di potong menjadi 2 agar tidak terlalu panjang. Sehingga mudah untuk di campurkan ke dalam tepung.

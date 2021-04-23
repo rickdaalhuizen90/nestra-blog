@@ -7,7 +7,7 @@ draft: false
 image: "images/post/post-6.png"
 
 # meta description
-description: "Menu hidangan lezat rendang daging sapi yang sehat,bergizi dan ramah untuk diet keto.
+description: "Menu hidangan lezat rendang daging sapi yang sehat dan bergizi. Sangat ramah untuk diet keto.
 
 # taxonomies
 categories:
@@ -27,7 +27,7 @@ recipe: true
 
 ---
 
- Menu hidangan masakan daging redang yang lezat. Dengan menggunakan anekah bumbu rempah-rempah dan santan. Sehingga mempunyai kaya akan cita rasa dan aroma yang khas sangat menggugah selera.
+ Menu hidangan masakan daging redang yang lezat. Dengan menggunakan anekah bumbu rempah-rempah dan santan. Sehingga mempunyai kaya akan cita rasa dan aroma yang khas, sangat menggugah selera.
  
 ## Apa itu rendang daging?
 
@@ -35,18 +35,18 @@ Rendang daging adalah makanan khas negara Indonesia, Minangkabau, Sumatra barat.
 
 ## Resep
 
-Menu hidangan rendang daging ini sangat mudah dan tidak memakan waktu lama. Untuk membuat hidangan rendang daging, pililah daging khas dalam. Agar mudah empuk. Berikut simak resep dan cara membuat rendang sapi ala diet keto yang lezat dan simple.
+ Membuat hidangan rendang daging, pililah daging khas dalam. Agar mudah empuk. Berikut simak resep dan cara membuat rendang sapi ala diet keto yang lezat dan simple.
 
 {{< post-info prep="10 menit" cook="50 menit" total="60 menit" serving="4">}}
 
 __Bahan__
 - 500 gr Daging sapi khas dalam
-- 200 ml santan dari setengah butir kelapa
+- 200 ml santan dari 1 butir kelapa
 - 200 ml kaldu sapi
-- 1 sachet bumbu rendang bamboe
 - 1 batang sereh memarkan
 - 3 lembar daun jeruk
 - 2 lembar daun salam
+- 2 lembar daun kunyit
 - 3 cm lengkuas memarkan
 - 1/2 sdt merica bubuk
 - 1 sdt kaldu jamur
@@ -54,16 +54,26 @@ __Bahan__
 - 1 sdt gula tropicana slim
 - Garam himalaya secukupnya
 
+__Bumbu halus__
+- 5 siung bawang putih
+- 10 siung bawang merah
+- 10 biji cabe keriting
+- 2 cabe merah buang bijinya
+- 3 butir kemiri sangrai
+- 3 cm jahe kupas bakar
+- 1 sdt ketumbar sangrai
+- 3 cm kunyit bakar
+- 
+
 __Cara membuat__
 
-- Cuci daging dan potong-potong sesuai selera,tiriskan.
-- Siapkan wajan panaskan minyak zaitun. Masukan bumbu bamboe,salam,daun jeruk sereh,laos dan daging, masak sampai harum.
-_ Masukan daging sapi, santan dan kaldu sapi,aduk-aduk masak sampai mendidih.
-_ setelah mendidih kecilkan api masak aduk-aduk sampai kuah menyusut.
-- Setelah kuah menyusut masukan garam,gula dan kaldu jamur, tes rasa
-- Bila rasa sudah terasa pas maka angkat
+- Cuci daging dan potong-potong sesuai selera, tiriskan.
+- Blender bumbu halus hingga halus.
+- Siapkan wajan panaskan minyak zaitun. Masukan bumbu halus, salam, daun jeruk, sereh, laos dan daging. Masak sampai harum.
+- Masukan santan dan kaldu sapi. Aduk-aduk masak sampai mendidih dan kuah menyusut. Kecilkan api.
+- Masukan garam, gula dan kaldu jamur. Tes rasa, angkat.
 - Hidangkan daging rendang ketika hangat. Atau juga bisa dihidangkan dengan suhu ruang (dingin).
-- 
+
 {{< /post-info>}}
 
 >Jika menggunakan daging biasa, tambahkan air masak hingga daging empuk.

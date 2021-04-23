@@ -43,7 +43,7 @@ Sate ayam bumbu kacang ini banyak manfaatnya bagi tubuh. Salah satunya yakni:
 - Mengontrol tekanan darah.
 - Menguatkan tulang
 - Meningkatkan masa otot
-- Memperbaiki mood dll.
+- Memperbaiki mood, dll.
 
 ## Resep
 
@@ -62,16 +62,16 @@ __Bahan__
 
 __Bahan marinasi__
 
-- 2 sdm kecap manis tropicana slim
+- 1/2 sdt kaldu jamur
 - 1/2 sdt bubuk merica hitam
 - 2 sdm minyak zaitun
-- 1/2 sdt kaldu jamur
+- 2 sdm kecap manis tropicana slim
 
 __Bumbu kacang__
 
 - 150 gr kacang tanah
-- 1 biji cabai merah buang bijinya
 - 2 siung bawang putih
+- 1 biji cabai merah buang bijinya
 - 1 sdt gula jawa tropicana slim
 - 1 sdm kecap manis tropicana slim
 - 1/2 sdt kaldu jamur
@@ -81,7 +81,7 @@ __Bumbu kacang__
 __Cara bumbu kacang__
 
 - Panaskan wajan sangrai kacang, cabe merah dan bawang putih hingga matang. Sisihkan
--Masukan air dalam blender. Blender kacang tanah, bawang putih dan cabe merah.
+- Masukan air dalam blender. Blender kacang tanah, bawang putih dan cabe merah.
 - Panaskan wajan masukan bumbu kacang, gula jawa, kecap manis, kaldu jamur dan garam.
 - Masak sampe mendidih sambil diaduk-aduk sampe kuah menyusut. Tes rasa, angkat.
 
@@ -92,8 +92,9 @@ __Cara membuat sate ayam__
 - Ambil wadah masukan potongan ayam dalam wadah. Masukan bumbu marinasi aduk-aduk sampai rata.
 - Ambil tusuk sate, tusukan ayam di tusuk sate. 
 - Bakar/panggang semua ayam bergantian di atas bara api. Sambil di bolak balik hingga matang, angkat.
-- 
+
 __Cara penyajian__
+
 - Ambil piring saji,  tata 10 tusuk sate ke dalam piring saji. Hidangkan sate ayam bersama bumbu kacang dan cabe rawit ketika masih hangat.
 
 >Untuk membakar ayam bisa dipanggang di atas kompor yang sudah dipasang alat pangagangan. Juga bisa diatas teflon maupun di oven

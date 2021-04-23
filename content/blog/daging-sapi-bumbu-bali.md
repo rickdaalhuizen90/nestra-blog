@@ -7,7 +7,7 @@ draft: true
 image: "images/post/post-15.png"
 
 # meta description
-description: "Resep menu hidangan yang sehat dan lezat,membuatnya muda dan kaya akan cita dan sangat ramah untuk diet keto."
+description: "Resep daging sapi bumbu bali yang sehat dan lezat. Membuatnya muda dan kaya akan cita rasa."
 
 # taxonomies
 categories:
@@ -31,15 +31,21 @@ Menu hidangan daging sapi bumbu bali yang lezat dan bergizi. Dibumbui aneka remp
 
 ## Apa itu daging sapi bumbu bali?
 
-Daging sapi bumbu bali adalah olahan yang berbahan dasar dari daging sapi. Di bumbui dengan anekah rempah-rempah. Sehingga memiliki bau harum dan memiliki warna khas yang merah. Olahan daging sapi bumbu bali adalah makanan khas dari kota Bali Indonesia.
+Daging sapi bumbu bali adalah olahan yang berbahan dasar dari daging sapi. Dibumbui dengan anekah rempah-rempah. Sehingga memiliki bau harum dan memiliki warna khas yang merah. Olahan daging sapi bumbu bali adalah makanan khas dari kota Bali Indonesia.
 
 ## Apa manfaat daging sapi bumbu bali untuk tubuh?
 
-Daging sapi bumbu bali ini banyak manfaatnya bagi tubuh salah satunya yakni mempertahankan masa otot, mencegah anemia, meningkatkan kinerja olahraga, mengenyangkan perut dan sangat ramah untuk diet keto.
+Daging sapi bumbu bali ini banyak manfaatnya bagi tubuh salah satunya yakni:
+- Mempertahankan masa otot.
+- Mencegah anemia.
+- Meningkatkan kinerja olahraga.
+- Mengenyangkan perut.
 
 ## Resep
 
-Olahan daging sapi bumbu bali ini sangat menggugah selera. Kali ini saya membuat resep daging sapi bumbu bali yang lezat dan sehat di komsumi untuk diet keto. Yuk simak resep cara membuat daging bumbu bali ala diet keto di bawah ini.
+Olahan daging sapi bumbu bali ini sangat menggugah selera. Kali ini saya membuat resep daging sapi bumbu bali yang lezat dan sehat di komsumi untuk diet keto. 
+
+Yuk simak resep cara membuat daging bumbu bali ala diet keto di bawah ini.
 
 {{< post-info prep="15 menit" cook="30 menit" total="45 menit" serving="4">}}
 
@@ -70,9 +76,9 @@ __Cara membuat__
 
 - Ambil daging lalu cuci bersih lalu potong- potong daging sesuai selera. Sisihkan.
 - Ambil wajan panaskan minyak zaitun. Masukan bumbu halus, sereh, salam, daun jeruk dan lengkuas tumis hingga harum.
-- Setelah harum masukan daging aduk-aduk sebentar. M§	asukan kaldu sapi masak hingga air menyusut dan bumbu meresap. (tambahkan air bila daging belum empuk).
-- Setelah daging sudah empuk. Masukan kaldu jamur, garam, kecap manis dan merica bubuk. Tes rasa, angkat.
-- Hidangkan ketika masih hangat.
+- Masukan daging aduk-aduk sebentar. Masukan kaldu sapi masak hingga air daging empuk dan bumbu meresap.
+- Masukan kaldu jamur, garam, kecap manis dan merica bubuk. Tes rasa, angkat.
+- Hidangkan daging sapi bumbu bali ketika masih hangat.
 
 {{< /post-info>}}
 

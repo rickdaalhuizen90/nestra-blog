@@ -7,7 +7,7 @@ draft: true
 image: "images/post/post-15.png"
 
 # meta description
-description: "Resep menu hidangan omelet yang simple,sehat dan bergizi ala diet keto yang layak untuk di komsumsi sehari-sehari."
+description: "Resep menu hidangan omelet yang simple,sehat dan bergizi. Layak untuk di komsumsi sehari-sehari."
 
 # taxonomies
 categories:
@@ -28,11 +28,11 @@ recipe: true
 
 ---
 
-Omelet daun bawang yang disandingkan dengan daun bayam segar yang sehat dan bergizi. Cocok menjadi menu hidangan di pagi hari. Cara membuatnya sangat mudah dan tidak memakan waktu yang lama dan ramah untuk diet keto.
+Omelet daun bawang yang disandingkan dengan daun bayam segar yang sehat dan bergizi. Cara membuatnya sangat mudah dan tidak memakan waktu yang lama dan ramah untuk diet keto.
 
 ## Apa omelet daun bawang?
 
-Omelet daun bayam adalah hidangan berbahan telur ayam. Di bumbui lalu di kocok lepas bersama irisan daun bawang. Lalu di goreng dan di sajikan bersama semangkuk daun bayam yang segar.
+Omelet daun bayam adalah hidangan berbahan telur ayam. Dibumbui lalu di kocok lepas bersama irisan daun bawang. Lalu di goreng dan di sajikan bersama semangkuk daun bayam yang segar. Sehingga hidangan ini begitu sehat dan bergizi.
 
 ## Apa manfaat omelet daun bawang dan bayam?
 
@@ -41,10 +41,13 @@ Menu hidangan omelet ini sangat baik untuk tubuh. Apalagi di sandingkan dengan s
 - Memperkuat kesehatan tulang.
 - Memelihara kesehatan mata.
 - Menjaga kesehatan jantung.
-- Menekan resiko diabetes dll.
+- Menekan resiko diabetes, dll.
 
 ## Resep
-Menu hidangan ini sangat mudah untuk dibuat. Bahannya minim dan ramah di kantong. Menu hidangan ini simple dan sehat, layak untuk dijadikan menu hidangan sehari-sehari. Berikut resep omelet daun bawang di bawah ini.
+
+Menu hidangan ini sangat mudah untuk dibuat. Bahannya minim dan ramah di kantong. Menu hidangan ini layak untuk dijadikan menu sehari-sehari. 
+
+Berikut simak resep omelet daun bawang di bawah ini.
 
 {{< post-info prep="5 menit" cook="10 menit" total="15 menit" serving="1">}}
 
@@ -61,10 +64,10 @@ __Cara membuat__
 
 - Cuci bersih daun bawang lalu rajang.
 - Cuci bersih daun bayam tiriskan.
-- Pecahkan telur kedalam mangkuk. Masukan garam,merica bubuk dan daun bawang kocok telur hingga tercampur rata.
-- Ambil teflon nyalakan api masukan mentega hingga mencair.
-- Sesudah mencair masukan telur kocok masak dengan api kecil hingga matang
-- Matikan api, angkat. Hidangkan omelet daun bawang ketika masih hangat dengan disandingkan daun bayam segar.
+- Pecahkan telur kedalam mangkuk. Masukan garam, merica bubuk dan daun bawang kocok lepas.
+- Ambil teflon nyalakan api masukan mentega hingga panas dan mencair.
+- Masukan telur, masak dengan api kecil hingga matang. Angkat
+- Hidangkan omelet daun bawang ketika masih hangat bersama daun bayam segar.
 
 {{< /post-info>}}
 

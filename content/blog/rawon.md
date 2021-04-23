@@ -7,7 +7,7 @@ draft: false
 image: "images/featured-post/post-1.png"
 
 # meta description
-description: "Resep rawon ala keto yang begitu sehat,lezat dan menggugah selera yang patut untuk menjadi menu andalan sehari-hari. "
+description: "Resep rawon ala keto yang begitu sehat,lezat dan menggugah selera. Patut untuk menjadi menu andalan sehari-hari. "
 
 # taxonomies
 categories:
@@ -27,15 +27,18 @@ recipe: true
 
 ---
 
-Menu hidangan rawon yang sehat dan bergizi yang pada umumnya menggunakan daging sapi dan menggunakan bumbu kluwek sehingga menghasilkan kuah berwarna hitam yang lezat dan memiliki aroma yang khas, menu rawon diet ini sanggat menggugah selera.
+Menu hidangan rawon yang sehat dan bergizi. Pada umumnya rawon menggunakan daging sapi dan menggunakan bumbu kluwek. Sehingga menghasilkan kuah berwarna hitam yang khas dan memiliki rasa yang lezat .
 
 ## Apa itu rawon?
 
-Rawon adalah olahan masakan daging berkuah kaldu yang berwarna hitam dengan menggunakan bumbu kluwek, masakan rawon memiliki aroma dan rasa yang khas. rawon berasal dari kuliner khas Jawa Timur negara Indonesia.
+Rawon berasal dari kuliner khas Jawa Timur negara Indonesia.
+Rawon adalah olahan masakan daging berkuah kaldu yang berwarna hitam. Dengan menggunakan bumbu kluwek, masakan rawon memiliki aroma dan rasa yang khas. 
 
 ## Resep
 
-Untuk resep rawon diet keto saya menggunakan daging sandung lamur, bila ada lemak yang menempel di daging bisa di ambil dan di buang, jangan mengkomsumsi lemak jahat karena tidak sehat dan bisa gagal untuk diet keto. Berikut resep dan cara membuat Rawon untuk diet Keto.
+Resep rawon diet keto saya menggunakan daging sandung lamur. Jika ada lemak yang menempel di daging bisa di ambil dan di buang. Jangan mengkomsumsi lemak jahat karena tidak sehat. 
+
+Berikut simak resep dan cara membuat Rawon untuk diet Keto.
 
 {{< post-info prep="20 menit" cook="menit" total="25 menit" serving="4">}}
 
@@ -51,7 +54,7 @@ __Bahan Rawon__
 - 1 sdt kaldu jamur
 - 1 sdt gula tropicana slim
 - 1 liter air untuk merebus daging
-- 2,7 liter Air untuk membuat kuah rawon
+- 2,5 liter Air untuk membuat kuah rawon
 - 2 sdm minyak zaitun untuk menumis bumbu
 - Garam himalaya secukupnya.
 
@@ -75,19 +78,20 @@ __Bahan Sambal__
 
 __Cara membuat__
 
- 1. Blender numbu halus hingga halus.
- 2. Rebus daging sapi selama 15 menit. Angkat daging siram dengan air dingin potong-potong sesuai selera,sisihkan
-2. Buang air rebusan daging tadi lalu rebus air masukan kaldu sapi dan daging. Masak sampai mendidih.
-3. Siapkan wajan panaskan minyak. Masukan bumbu halus, sereh, laos, daun salam dan daun jeruk purut, aduk-aduk sampe layu dan harum.
-4. Sesudah harum dan layu masukan ke dalam panci rebusan. Tambahkan garam merica,kaldu jamur,gula dan daun bawang. Masak hingga empuk dan matang sempurna, tes rasa,angkat
+- Blender bumbu halus hingga halus.
+- Rebus daging sapi selama 15 menit. Angkat daging siram dengan air dingin potong-potong sesuai selera, sisihkan
+- Buang air rebusan daging. Rebus air yang baru 2,5 liter. Masukan kaldu sapi dan daging. Masak sampai mendidih.
+- Siapkan wajan panaskan minyak. Masukan bumbu halus, sereh, laos, daun salam dan daun jeruk purut. Aduk-aduk sampe layu dan harum.
+- Masukan bumbu ke dalam panci rebusan. Tambahkan garam merica, kaldu jamur, gula dan daun bawang.
+- Masak hingga empuk dan matang sempurna, tes rasa, angkat.
 
 __Cara membuat sambal__
 
-1. Rebus bawang putih dan cabe rawit hingga matang angkat tiriskan.
-2. Siapkan cobek. Ambil sejumput garam lalu masukan bawang putih dan cabe ulek hancurkan sampai rata.
+- Rebus bawang putih dan cabe rawit hingga matang, angkat tiriskan.
+- Siapkan cobek. Ambil sejumput garam lalu masukan bawang putih dan cabe. Ulek sampai halus.
 
 __Cara penjanyajian__
- Ambil semangkuk rawon sandingkan dengan sambal dan tauge. Hidangkan ketika masih hangat.
+ - Ambil semangkuk rawon sandingkan dengan sambal dan tauge. Hidangkan ketika masih hangat.
 
 {{< /post-info>}}
 

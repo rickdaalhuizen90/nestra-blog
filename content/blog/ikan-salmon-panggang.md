@@ -31,12 +31,11 @@ Menu hidangan ikan salmon panggang ala diet keto ini sangat lezat. Perpaduan dar
 
 ## Apa itu ikan salmon panggang?
 
-Ikan salmon panggang adalah ikan salmon yang di filet di beri bumbu marinasi. Lalu di panggang di atas panggangan atau wajan telfon anti lengket. Dimasak hingga berwarna kuning kecoklatan. Sehingga menghasilkan aroma yang gurih dan rasa yang lezat.
+Ikan salmon panggang adalah ikan salmon filet yang di beri bumbu marinasi. Di panggang di atas panggangan atau wajan telfon anti lengket. Dimasak hingga berwarna kuning kecoklatan. Sehingga menghasilkan aroma yang gurih dan rasa yang lezat.
 
 ## Apa manfaat ikan salmon?
 
 Ikan salmon banyak manfaatnya bagi tubuh untuk kesehatan yakni:
-
 -Baik untuk jantung
 -Baik untuk kulit dan rambut
 -Menjaga kesehatan tulang
@@ -48,7 +47,9 @@ Ikan salmon banyak manfaatnya bagi tubuh untuk kesehatan yakni:
 ## Resep 
 
 
-Ikan salmon adalah ikan yang layak di komsumsi sehari-hari. Cara membuatnya sangat mudah dan cepat. Resep ikan panggang salmon ini begitu lezat dan siap di nikmati dalam hitungan menit. Berikut simak resepnya di bawah ini.
+Ikan salmon adalah ikan yang layak di komsumsi sehari-hari. Cara membuatnya sangat mudah dan cepat. Resep hidangan ini begitu lezat dan siap di nikmati dalam hitungan menit. 
+
+Berikut simak resepnya di bawah ini.
 
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="2">}}
 
@@ -71,15 +72,15 @@ __Bahan marinasi__
 __Cara membuat__
 
 - Cuci asparagus,tiriskan.
-- Masukan air kedalam panci nyalakan api rebus hingga mendidih.
-- Setelah air mendidih masukan asparagus,rebus selama 3menit lalu angkat tiriskan.
-- Cuci bersih ikan salmon, potong menjadi 2 bagian lalu lumuri dengan perasan air jeruk nipis. Diamkan 5 menit dan bilas hingga bersih.
-- Keringkan ikan salmon dengan tisu atau lap bersih lalu masukan ikan salmon ke dalam wadah.
-- - Lumuri ikan salmon dengan bumbu marinasi sampai merata. Lalu tutup rapat masukan ke dalam kulkas selama 10 menit.
-- Setelah 10 menit ambil salmon yang dmarinasi dari kulkas. Panaskan wajan teflon masukan minyak zaitun.
-- Setelah panas masukan ikan salmon masak dengan api sedang/besar. Bolak balik ikan salmon di dua sisi. Masak selama 3menit sampai berwarna kuning kemasan.
-- Setelah itu masukan bawang putih dan mentega masak hingga harum (sekitar 1menit). Angkat.
-- Tata asparagus dan salmon ke dalam piring hidangan. Hidangkan ketika masih hangat.
+- Masukan air kedalam panci, nyalakan api rebus hingga mendidih.
+- Masukan asparagus, rebus selama 3 menit lalu angkat tiriskan.
+- Cuci bersih ikan salmon. Potong menjadi 2 bagian lalu lumuri dengan perasan air jeruk nipis. Diamkan 5 menit dan bilas hingga bersih.
+- Keringkan ikan salmon dengan tisu atau lap bersih. Masukan ikan salmon ke dalam tepak.
+- Lumuri ikan salmon dengan bumbu marinasi sampai merata. Tutup rapat tepak masukan ke dalam kulkas selama 10 menit.
+- Ambil salmon dari kulkas. Panaskan wajan teflon masukan minyak zaitun.
+- Setelah panas masukan ikan salmon masak dengan api sedang/besar. Bolak balik ikan salmon di dua sisi. sMasak selama 3 menit sampai berwarna kuning kemasan.
+- Masukan bawang putih dan mentega masak hingga harum (sekitar 1menit). Angkat.
+- Tata asparagus dan salmon ke dalam piring. Hidangkan ketika masih hangat.
 
 {{< /post-info>}}
 

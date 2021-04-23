@@ -7,7 +7,7 @@ draft: true
 image: "images/post/post-14.png"
 
 # meta description
-description: "Resep hidangan cah brokoli daging sapi yang sehat dan lezat. Cara membuatnya mudah dan ramah untuk diet keto"
+description: "Resep cah brokoli daging sapi yang sehat dan lezat. Cara membuatnya mudah dan ramah untuk diet keto"
 # taxonomies
 categories:
   - "Keto Recipe"
@@ -44,7 +44,7 @@ Olahan cah brokoli daging sapi ini banyak manfaatnya untuk tubuh antara lain yak
 
 ## Resep
 
-Cah brokoli daging sapi ala diet keto ini sangat mudah untuk dibuat. Olahan cah brokoli ini tidak menggunakan saus tiram. Saus tiram tidak ramah untuk diet keto. Tapi jangan khawatir karena resep olahan ini masih tetap lezat.
+Cah brokoli daging sapi ini sangat mudah untuk dibuat. Olahan ini tidak menggunakan saus tiram. Saus tiram tidak ramah untuk diet keto. Tapi jangan khawatir karena resep olahan ini masih tetap lezat.
 
 {{< post-info prep="15 menit" cook="20 menit" total="35 menit" serving="4">}}
 
@@ -65,19 +65,19 @@ __Bahan__
 - Sejumput garam himalaya
 
 __Cara membuat__
-- Cuci bersih daging sapi,iris tipis2 sisihkan.
+- Cuci bersih daging sapi, iris tipis2 sisihkan.
 - Siapkan air untuk merebus brokoli lalu potong-potong brokoli cuci bersih, tiriskan.
 - Bila air sudah mendidih masukan brokoli masak selama 1 menit.
 - Setelah 1 menit angkat siram dengan air dingin tiriskan.
-- Siapkan wajan panaskan minyak zaitun masukan bawang putih,masak hingga harum
-- Setelah harum masukan kecap manis, kecap asin, jahe, lada bubuk, kaldu sapi dan minyak wijen. Masak sampai mendidih.
-- Setelah mendidih masukan daging sapi masak selama 2,5 menit sambil di bolak balik dengan api sedang.
-- Setelah 2,5 menit masukan brokoli aduk-aduk hingga merata selama 30detik, tes rasa, angkat.
-- Ambil piring/mangkuk hidangan. Masukan brokoli daging sapi ke dalam piring/mangkuk hidangan. Hidangkan ketika masih hangat.
+- Siapkan wajan panaskan minyak zaitun. Masukan bawang putih, masak hingga harum.
+- Masukan kecap manis, kecap asin, jahe, lada bubuk, kaldu sapi dan minyak wijen. Masak sampai mendidih.
+- Masukan daging sapi masak selama 2,5 menit sambil di bolak balik dengan api sedang.
+- Masukan brokoli aduk-aduk hingga merata selama 30detik, tes rasa, angkat.
+- Masukan brokoli daging sapi ke dalam piring/mangkuk. Hidangkan ketika masih hangat.
 
 {{< /post-info>}}
 
-\>Gunakan daging sapi khas dalam agar tekstur daging cepat empuk. Untuk memasak daging sapi khas dalam jangan lebih dari 3 menit. Agar tekstur daging tetap empuk.
+>Masak daging sapi khas dalam jangan lebih dari 3 menit. Agar tekstur daging tetap empuk.
 
 Hidangan cah brokoli daging sapi ala keto ini sangat lezat dan bergizi. Perpaduan dari rasa brokoli yang segar dan daging yang gurih dan empuk. Membuat hidangan ini sangat spesial di lidah.
 

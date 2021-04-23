@@ -55,6 +55,7 @@ __Bahan__
 - 1 bungkus mie shirataki basah 400gr
 - 400 ml kaldu ayam (dari rebusan tulang ayam)
 - 100 gr dada ayam filet iris tipis
+- 2 bonggol sawi hijau
 - 2 siung bawang putih cincang halus
 - 1 siung bawang merah cincang halus
 - 1 batang daun bawang iris
@@ -62,7 +63,6 @@ __Bahan__
 - 1/2 sdt merica bubuk
 - 1/2 sdt garam tropicana slim (sesuai selera)
 - 1 sdm minyak zaitun
-- 2 bonggol sawi hijau
 - 1 Telur rebus kupas
 
 __Cara membuat__
@@ -73,7 +73,7 @@ __Cara membuat__
 - Masukan kaldu ayam masak hingga mendidih.
 - Bila air sudah mendidih. Masukan irisan ayam, shirataki noodles, sawi hijau, kaldu jamur, merica bubuk dan garam. Masak selama 2,5menit, tes rasa, angkat.
 - Tuang mie shirataki kedalam mangkuk. Tambahkan telur dan taburan daun bawang. Hidangkan ketika masih hangat.
-- 
+
 {{< /post-info>}}
 
 >Agar tekstur dada ayam tetap empuk, masak dada ayam selama 2,5 menit.

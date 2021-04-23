@@ -7,7 +7,7 @@ draft: false
 image: "images/featured-post/post-1.png"
 
 # meta description
-description: "Salah satu resep inspirasi omelet seledri dengan topping alpukat dan paprika yang menggugah selera."
+description: "Resep hidangan omelet yang lezat dan creamy. Sangat ramah untuk diet keto."
 
 # taxonomies
 categories:
@@ -29,7 +29,7 @@ recipe: true
 
 ---
 
-Resep hidangan omelet seledri yang gurih dan sehat. Dengan toping alpukat dan paprika yang membuat hidangan ini terasa segar dan lezat. Cara mebuatnya mudah dan tidak memakan waktu yang lama dan juga ramah untuk diet keto.
+Menu hidangan omelet yang sehat dan bergizi. Memberikan energy bagi tubuh sehingga tubuh kuat dan bertenaga. Menu hidangan ini sangat baik di komsumsi setiap hari.
 
 ## Apa itu hidangan omelet seledri alpukat?
 
@@ -37,13 +37,22 @@ Hidangan omelet seledri dan alpukat adalah olahan telur. Dibumbui dan di kocok l
 
 ## Apa manfaat omelet seledri alpukat?
 
-Omelet ini mengandung banyak lemak baik, itamin dan kaya akan serat. Menu hidangan ini banyak manfaatnya bagi tubuh antara lain yakni:
+Omelet ini mengandung banyak lemak baik, vitamin dan kaya akan serat. Menu hidangan ini banyak manfaatnya bagi tubuh salah satunya yakni:
 - Membantu menurunkan berat badan.
 - Mencegah osteoporosis.
 - Menjaga kesehatan pencernaan.
+- Menurunkan resiko penyakit jantung.
+- Baik untuk kesehatan mata.
+- Mencerdaskan otak.
+- Menurunkan tekanan darah.
+- Mencegah peradangan.
+- Menjaga kesehatan organ hati.
+- Mencegah dehidrasi, dll.
 
 ## Resep
-Menu hidangan diet ini kaya akan cita rasa dan nutrisi. Memberikan sumber energy bagi tubuh sehingga tubuh bertenaga. Berikut resep hidangan telur dadar seledri dan alpukat.
+Menu hidangan diet ini kaya akan cita rasa dan nutrisi. Cara mebuatnya mudah dan tidak memakan waktu yang lama.
+
+Berikut simak  resep hidangan telur dadar seledri dan alpukat.
 
 {{< post-info prep="10 menit" cook="10 menit" total="20 menit" serving="2">}}
 
@@ -59,14 +68,15 @@ __Bahan__
 
 __Cara membuat__
 
-- Cuci daun seledri lalu rajang,sisihkan.
-- Cuci buah paprika potong dadu sisihkan.
-- Kupas buah alpukat lalu potong dadu,sisihkan.
+- Cuci daun seledri lalu rajang, sisihkan.
+- Cuci buah paprika potong dadu, sisihkan.
+- Kupas buah alpukat lalu potong dadu, sisihkan.
 - Ambil telur pecahkan dalam mangkuk. Masukan, garam, merica bubuk dan irisan seledri lalu kocok lepas.
-- Ambil telfon nyalakan api masukan 2sdm metega dalam teflon hingga mencair.
-- Setelah mencair masukan setengah kocokan telur dalam teflon. Masak bolak balik hingga berwarna coklat. Angkat, masukan ke dlam piring.
--  Ulangi sisa setengah adonan telur sampai selesai.
-- Hidangkan omelet dengan topping alpukat dan paprika di atasnya. Hidangkan ketika masih hangat.
+- Ambil telfon nyalakan api masukan 2 sdm metega. Masak hingga panas dan mencair.
+- Masukan setengah kocokan telur dalam teflon. Masak bolak balik hingga berwarna coklat. Angkat, masukan ke dalam piring.
+-  Ulangi menggoreng sisa adonan telur.
+- Hidangkan omelet dengan topping alpukat dan paprika di atasnya.
+- Hidangkan ketika masih hangat.
 
 {{< /post-info>}}
 

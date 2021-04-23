@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3cf10c2287ecd5e9",
+        "id": "5a9b41f8c357a8fe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sup-ikan-dori-.md",
+            "file": "sambal-teri-pete.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "b4f34adf40aa4452",
+        "id": "804a5e56c8dd45c4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sup-ikan-dori-.md",
-            "mode": "source"
+            "file": "sambal-teri-pete.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sup-ikan-dori-.md",
+                "file": "sambal-teri-pete.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3cf10c2287ecd5e9",
+  "active": "5a9b41f8c357a8fe",
   "lastOpenFiles": [
-    "sup-ikan-dori-.md",
-    "sup-ikan-dori-keto.md",
-    "shirataki-noodles-salmon-creamy.md",
-    "shirataki-noodles-goreng-cumi.md",
-    "shirataki-noodles-goreng-udang-keto.md",
-    "shirataki-noodles-ayam-bawang.md",
-    "sate-ayam-bumbu-kacang.md",
     "sambal-teri-pete.md",
     "salad-timun-tomat-dan-salmon.md",
-    "salad-timun-tauge-alpukat-dan-rucola.md"
+    "salad-keto-sayur-dan-telur.md",
+    "salad-timun-tauge-alpukat-dan-rucola.md",
+    "rendang-daging.md",
+    "rawon.md",
+    "omelet-seledri-alpukat.md",
+    "omelet-daun-bawang.md",
+    "omelet-alpukat-keju.md",
+    "kaldu-tulang-sapi.md"
   ]
 }

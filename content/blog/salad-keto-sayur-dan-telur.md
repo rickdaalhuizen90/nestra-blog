@@ -7,7 +7,7 @@ draft: false
 image: "images/post/post-11.png"
 
 # meta description
-description: "Resep menu hidangan salad diet keto yang sehat dan simple, layak di jadikan menu andalan sehari-hari"
+description: "Resep menu hidangan salad diet keto yang sehat dan simple. Layak di jadikan menu andalan sehari-hari"
 
 # taxonomies
 categories:
@@ -28,11 +28,12 @@ recipe: true
 
 ---
 
-Menu hidangan salad yang segar dan sangat menggugah selera. Salad diet ini membuat tubuh menjadi bugar, segar dan bertenaga. Menu hidangan ini layak dijadikan menu sehari-hari dan ramah untuk diet keto.
+Menu hidangan salad yang segar dan sangat menggugah selera. Salad diet ini membuat tubuh menjadi bugar, segar dan bertenaga. 
 
 ## Apa itu salad sayur dan telur? 
 
-Salad sayur dan telur adalah salad yang bebahan dasar dari kol ungu segar (mentah). Di iris-iris yang dan buncis yang di potong-potong lalu di rebus dan juga telur rebus. Semua bahan di campur menjadi satu dan di hidangankan dalam suhu ruang (dingin).
+Salad sayur dan telur adalah salad yang bebahan dasar dari kol ungu segar/mentah.
+Di iris-iris yang dan buncis yang di potong-potong lalu di rebus dan juga telur rebus. Semua bahan di campur menjadi satu dan di hidangankan dalam suhu ruang dingin.
 
 ## Apa manfaat salad sayur dan telur?
 
@@ -49,7 +50,9 @@ Sayur buncis juga bermanfaat untuk:
 
 ## Resep
 
-Menu hidangan salad ini sangat mudah dan praktis. Tak hanya sehat tapi juga ramah di kantong. Menu hidangan ini adalah menu hidangan gaya hidup yang sehat. Nah sekarang ayo simak resep dan bagaima cara membuat salad sayur dan telur di bawah ini.
+Menu hidangan salad ini sangat mudah dan praktis. Tak hanya sehat tapi juga ramah di kantong. Menu hidangan ini adalah menu hidangan gaya hidup yang sehat. 
+
+Nah sekarang ayo simak resep dan bagaima cara membuat salad sayur dan telur di bawah ini.
 
 {{< post-info prep="5 menit" cook="15 menit" total="20 menit" serving="2">}}
 
@@ -67,15 +70,17 @@ __Cara membuat__
 
 - Masukan air ke dalam panci lalu nyalakan api tunggu sampai mendidih.
 - Sambil menunggu air mendidih. Buang ujung baby buncis lalu potong-potong baby buncis cuci bersih dan tiriskan.
-- Ambil dan cuci bersih kol ungu,iris tipis-tipis sisihkan.
+- Ambil dan cuci bersih kol ungu, iris tipis-tipis sisihkan.
 - Cincang kasar keju feta sisihkan.
 - Setelah air mendidih. Masukan garam baby buncis dan telur, rebus baby buncis selama 3 menit. Dan rebus telur selama 7 menit.
 - Bila sudah 3 menit angkat baby buncis lalu siram dengan air dingin. Tiriskan
 - Setelah 7 menit angkat telur siram telur dengan air dingin lalu kupas telur belah menjadi 2.
-- Masukan kol ungu,buncis,keju feta dan minyak zaitun ke dalam mangkuk. Aduk-aduk sampai merata lalu masukan telur.
-- Hidangkan salad sayur dan telur dalam suhu ruang (dingin)
+- Masukan kol ungu, buncis, keju feta dan minyak zaitun ke dalam mangkuk. Aduk-aduk sampai merata lalu masukan telur.
+- Hidangkan salad sayur dan telur dalam suhu ruang atau dalam keadaan sdingin.
 
 {{< /post-info>}}
+
+>Keju feta bisa diganti dengan keju lainnya, tapi tambahkan sejumput garam himalaya.
 
 Menu hidangan salad sayur ala diet keto yang sehat ini sangat lezat di mulut. Perpaduan dari rasa kol ungu yang segar. Buncis yang renyah dan telur yang lembut. Di tambah lagi keju feta yang gurih sangat menggugah selera.
 
