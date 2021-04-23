@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_templates/default.md",
+            "file": "post-20.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/default.md",
+                "file": "post-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1c85a4350229f379",
   "lastOpenFiles": [
+    "post-20.md",
     "_templates/default.md",
     "_templates/recipe.md",
     "_index.md",
@@ -95,7 +96,6 @@
     "_templates/example.md",
     "example.md",
     "rendang-daging.md",
-    "post-20.md",
     "ikan-goreng-crispy-keto.md",
     "208-daftar-nama-produk-makanan-dan-minuman-untuk-diet -keto.md"
   ]
