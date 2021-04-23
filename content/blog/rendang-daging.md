@@ -7,7 +7,7 @@ draft: false
 image: "images/post/post-6.png"
 
 # meta description
-description: "Menu hidangan lezat rendang daging sapi yang sehat dan bergizi. Sangat ramah untuk diet keto.
+description: "Menu hidangan lezat rendang daging sapi yang sehat dan bergizi. Sangat ramah untuk diet keto."
 
 # taxonomies
 categories:

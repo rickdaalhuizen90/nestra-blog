@@ -24,7 +24,7 @@ type: "post"
 
 # Is Recipe
 recipe: true
-___
+---
 
 Menu hidangan sambal teri pete ini begitu gurih,lezat dan menggugah selera. Cara membuatnya sangat mudah dan bahannya ramah di kantong. Menu hidangan sambal ini sangat sehat dan ramah untuk diet keto.
 

@@ -43,37 +43,47 @@ disqusShortname = ""
 ############################## navigation ###############################
 [menu]
 
+  [[menu.main]]
+  name = "Home"
+  URL = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Recipes"
+  URL = "blog"
+  weight = 2
+
   # main menu
   [[menu.main]]
   name = "About"
   URL = "about"
-  weight = 1
-
-  [[menu.main]]
-  name = "Post"
-  URL = "blog"
-  weight = 2
-
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
   weight = 3
+
+  #[[menu.main]]
+  #name = "Contact"
+  #URL = "contact"
+  #weight = 4
 
   # footer menu
   [[menu.footer]]
-  name = "About"
-  URL = "about"
+  name = "Home"
+  URL = "/"
   weight = 1
 
   [[menu.footer]]
-  name = "Post"
+  name = "Recipes"
   URL = "blog"
   weight = 2
 
   [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
+  name = "About"
+  URL = "about"
   weight = 3
+
+  #[[menu.footer]]
+  #name = "Contact"
+  #URL = "contact"
+  #weight = 3
 
 
 #################### default parameters ################################
@@ -90,7 +100,7 @@ mobile = ""
 email = "info@neztra.com"
 location = "Surabaya, Indonesia"
 # copyright
-copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "| copyright &copy; 2020 [The Nomad Coder](https://thenomadcoder.com) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
