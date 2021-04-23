@@ -1,0 +1,16 @@
+#!/usr/bin/env sh
+
+ZK_PATH="${HOME}/Sites/nestra-blog"
+
+cd "$ZK_PATH"
+
+CHANGES_EXIST="$(git status --porcelain | wc -l)"
+
+if [ "${CHANGES_EXIST}" -eq 0 ]; then
+	exit 0
+fi
+
+git pull --rebase
+git add -A
+git commit -q -m "Last Sync: $(date + "%Y-%m-%d %H:%M:%S")"
+git push -q
