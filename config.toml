@@ -6,7 +6,7 @@ theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
-
+buildDrafts = false
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
@@ -49,7 +49,7 @@ disqusShortname = ""
   weight = 1
 
   [[menu.main]]
-  name = "Recipes"
+  name = "Post"
   URL = "blog"
   weight = 2
 

@@ -44,7 +44,7 @@ Karena diet keto dipercaya banyak manfaatnya yakni:
 
 ## 8 Tips untuk pemula memulai diet keto.
 
-Hingga saat ini masih banyak sekali perdebatan tentang diet keto. Meski banyak pro & kontra, tapi beberapa studi mengatakan diet keto masih tergolong aman. Diet keto semakin populer di kalangan anak remaja dan orang tua. Karena diet keto di percaya efektif menurunkan berat badan.
+Hingga saat ini masih banyak sekali perdebatan tentang diet keto. Meski banyak pro & kontra, tapi beberapa studi mengatakan diet keto masih tergolong aman. Diet keto semakin populer di kalangan anak remaja dan orang tua. Karena, diet keto di percaya efektif menurunkan berat badan.
 
 Diet keto juga ramah akan menu hidangan makanan. Terdengar diet yang ramah dan menarik untuk dicoba bukan? Kalau begitu tunggu apalagi ayo simak tips-tips di bawah ini.
 
@@ -84,6 +84,6 @@ Cheat day ini sangat dianjurkan untuk pemula. Agar latihan diet keto bisa berjal
 
   >Diet keto aman dilakukan hanya dalam jangka pendek. Yakni dalam periode waktu: 3 minggu, 1 bulan, 3 bulan, 6 bulan dan maximal sampai 1 tahun. Setelah itu biasakan gaya hidup dan pola makan yang sehat.
 
-Jangan khawatir soal cheat day. Karena metode cheat day ini tidak akan merusak diet keto. Melainkan menyeimbangkan kembali metabolisme tubuh. Metode cheat day juga membantu menjaga tingkat leptin kita agar tetap seimbang. Jadi cheat juga sangat positif dan penting untuk dilakukan.
+Jangan khawatir soal cheat day, karena metode cheat day ini tidak akan merusak diet keto. Melainkan menyeimbangkan kembali metabolisme tubuh. Metode cheat day juga membantu menjaga tingkat leptin kita agar tetap seimbang. Jadi cheat juga sangat positif dan penting untuk dilakukan.
 
 Demikian artikel 8 tips untuk pemula memulai diet keto dari saya. Semoga bermanfaat bagi teman-teman semuanya. Selamat mecoba. Salam sehat selalu, sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)

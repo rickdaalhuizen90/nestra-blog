@@ -26,6 +26,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "20mnt"
+
+# serving
+serving: 2
 ---
 
 Menu hidangan salad yang segar dan sangat menggugah selera. Salad diet ini membuat tubuh menjadi bugar, segar dan bertenaga. 
@@ -65,9 +70,9 @@ __Bahan__
 - 3 sdm minyak zaitun
 - Air secukupnya untuk merebus buncis
 - 1/2 sdt garam himalaya
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Masukan air ke dalam panci lalu nyalakan api tunggu sampai mendidih.
 - Sambil menunggu air mendidih. Buang ujung baby buncis lalu potong-potong baby buncis cuci bersih dan tiriskan.
 - Ambil dan cuci bersih kol ungu, iris tipis-tipis sisihkan.
@@ -77,8 +82,7 @@ __Cara membuat__
 - Setelah 7 menit angkat telur siram telur dengan air dingin lalu kupas telur belah menjadi 2.
 - Masukan kol ungu, buncis, keju feta dan minyak zaitun ke dalam mangkuk. Aduk-aduk sampai merata lalu masukan telur.
 - Hidangkan salad sayur dan telur dalam suhu ruang atau dalam keadaan sdingin.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Keju feta bisa diganti dengan keju lainnya, tapi tambahkan sejumput garam himalaya.
 

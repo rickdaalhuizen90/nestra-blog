@@ -1,0 +1,12 @@
+.recent-post {
+	background: $secondary-color;
+	padding: 5rem 0;
+	margin: 5rem 0;
+
+	&__title {
+		width: max-content;
+		border-bottom: 2px solid;
+		margin-bottom: 3rem;
+		text-transform: uppercase;
+	}
+}

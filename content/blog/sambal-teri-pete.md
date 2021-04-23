@@ -24,6 +24,12 @@ type: "post"
 
 # Is Recipe
 recipe: true
+
+# prep time
+time: "40mnt"
+
+# serving
+serving: 4
 ---
 
 Menu hidangan sambal teri pete ini begitu gurih,lezat dan menggugah selera. Cara membuatnya sangat mudah dan bahannya ramah di kantong. Menu hidangan sambal ini sangat sehat dan ramah untuk diet keto.
@@ -50,9 +56,9 @@ __Bahan__
 - 2 sdt gula tropicana slim
 - 10 sdm minyak zaitun untuk menggoreng ikan teri
 - Garam secukupnya
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Kupas pete sisihkan.
 - Petik tangkai cabe rawit dan cabe keriting. Lalu cuci bersih.
 - Masukan cabe rawit, cabe keriting dan minyak zaitun, ke dalam blender. Blender hingga halus.
@@ -64,8 +70,7 @@ __Cara membuat__
 - Masak sambal hingga kering dengan api kecil sambil diaduk-aduk.
 - Masukan pete dan ikan teri masak hingga pete matang. Tes rasa, angkat.
 - Hidangan sambal ini bisa dihidangkan ketika masih hangat maupun dingin.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Pastikan airnya sudah benar-benar menyusut dan kering ketika memasak sambal. Agar sambal bisa tahan lama.
 

@@ -27,11 +27,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
-# Info
-prep: 5
-cook: 10
-total: 15
-serving: 1
+# prep time
+time: "30mnt"
+
+# serving
+serving: 4
 ---
 ## Ringkasan:
 

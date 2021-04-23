@@ -24,6 +24,12 @@ type: "post"
 
 # Is Recipe
 recipe: true
+
+# prep time
+time: "10mnt"
+
+# serving
+serving: 1
 ---
 
 Salad segar berbahan timun, tomat dan salmon ini merupakan makanan sehat dan lezat. Untuk gaya hidup yang sehat beralilah mengkomsumsi salad diet sehat setiap hari.
@@ -58,16 +64,15 @@ _ 100 gr ikan salmon asap (siap makan)
 - 1 buah timun
 - 100 gr keju feta.
 - 2 sdm minyak zaitun
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Cuci bersih tomat dan timun lalu potong dadu, masukan ke dalam mangkuk.
 - Potong-potong salmon, masukan ke dalam mangkuk.
 - Cincang kasar keju feta masukan ke dalam mangkuk.
 - Tambahkan minyak zaitun ke dalam mangkuk lalu aduk-aduk semua hingga tercampur rata.
 - Hidangkan salad diet keto ini dengan suhu ruang.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Keju feta bisa diganti dengan keju biasa tapi tambahkan sejumput garam himalaya.
 

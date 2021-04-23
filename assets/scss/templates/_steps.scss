@@ -1,0 +1,31 @@
+.steps {
+	&__title {
+		margin-bottom: 1.5rem !important;
+	}
+
+	ul {
+		counter-reset: li; 
+		margin-bottom: 2.5rem;
+		padding-left: 1.5rem;
+
+		li {
+			position: relative;
+			list-style-type: none;
+			margin: 0 0 1.5rem 0;
+
+			&:before {
+				position: absolute;
+				counter-increment: li;
+				content: counter(li) ". ";
+				font-weight: bold;
+				font-size: 1.2rem;
+				--size: 16px;
+				left: calc(-1 * var(--size) - 5px);
+				line-height: var(--size);
+				width: var(--size);
+				height: var(--size);
+				text-align: center;
+			}
+		}
+	}
+}

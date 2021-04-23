@@ -1,7 +1,7 @@
 ---
 title: "Sup Ikan Dori"
 date: 2019-10-29T10:07:47+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/post-15.png"
@@ -25,6 +25,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "30mnt"
+
+# serving
+serving: 2
 ---
 
 Menu hidangan sup ikan dori dengan aroma yang segar dan rasa yang lezat. Cara membuatnya begitu mudah dan cepat. Mudah untuk di pelajari dirumah dan menjadi menu hidangan sehat untuk sehari-hari.
@@ -70,9 +75,8 @@ __Bahan__
 - 1 sdm minyak zaitun
 - 1 sdm garam himalaya
 - 1 Liter air
-
-__Cara membuat__
-
+{{< /post-info>}}
+{{< steps title="Cara membuat">}}
 - Cuci bersih kan dori lalu potong-potong sesuai selera, sisihkan.
 - Potong-potong sawi hijau lalu bersihkan dengan air mengalir, tiriskan.
 - Cuci tomat potong dadu sisihkan.
@@ -83,8 +87,7 @@ __Cara membuat__
 - Masukan sawi hijau, tomat, cabe rawit, garam, gula, kaldu jamur dan merica. Masak hingga matang, angkat.
 - Tuang sup ikan dori ke dalam mangkuk bersama perasan air jeruk nipis.(seperti sajian soto) 
 - Hidangkan ketika masih hangat.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Jangan memasukan perasan jeruk nipis ketika proses memasak agar rasa tidak pahit.
 

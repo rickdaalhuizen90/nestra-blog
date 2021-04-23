@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sambal-teri-pete.md",
-            "mode": "preview"
+            "file": "ayam-goreng-tepung-crispy.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "804a5e56c8dd45c4",
+        "id": "3d1be5fa6a53be46",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sambal-teri-pete.md",
-            "mode": "preview"
+            "file": "8-tips-untuk-pemula-memulai-diet-keto.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sambal-teri-pete.md",
+                "file": "8-tips-untuk-pemula-memulai-diet-keto.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5a9b41f8c357a8fe",
+  "active": "3d1be5fa6a53be46",
   "lastOpenFiles": [
+    "8-tips-untuk-pemula-memulai-diet-keto.md",
+    "232-daftar-nama-produk-makanan-dan-minuman-untuk-diet -keto.md",
+    "ayam-goreng-tepung-crispy.md",
     "sambal-teri-pete.md",
     "salad-timun-tomat-dan-salmon.md",
     "salad-keto-sayur-dan-telur.md",
     "salad-timun-tauge-alpukat-dan-rucola.md",
     "rendang-daging.md",
     "rawon.md",
-    "omelet-seledri-alpukat.md",
-    "omelet-daun-bawang.md",
-    "omelet-alpukat-keju.md",
-    "kaldu-tulang-sapi.md"
+    "omelet-seledri-alpukat.md"
   ]
 }

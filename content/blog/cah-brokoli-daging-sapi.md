@@ -1,7 +1,7 @@
 ---
 title: "Cah Brokoli Daging Sapi"
 date: 2019-10-29T10:07:47+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/post-14.png"
@@ -24,6 +24,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "35mnt"
+
+# serving
+serving: 4
 ---
 
 Menu hidangan cah brokoli daging sapi yang lezat dan menggugah selera. Menu hidangan ini menggunakan bahan yang sehat. Aman di komsumsi bagi yang menjalankan diet keto maupun penderita diabetes.
@@ -63,8 +68,9 @@ __Bahan__
 - 200 ml air kaldu sapi untuk menumis
 - 500 ml air untuk merbus brokoli
 - Sejumput garam himalaya
+{{< /post-info>}}
 
-__Cara membuat__
+{{< steps title="Cara membuat">}}
 - Cuci bersih daging sapi, iris tipis2 sisihkan.
 - Siapkan air untuk merebus brokoli lalu potong-potong brokoli cuci bersih, tiriskan.
 - Bila air sudah mendidih masukan brokoli masak selama 1 menit.
@@ -74,8 +80,7 @@ __Cara membuat__
 - Masukan daging sapi masak selama 2,5 menit sambil di bolak balik dengan api sedang.
 - Masukan brokoli aduk-aduk hingga merata selama 30detik, tes rasa, angkat.
 - Masukan brokoli daging sapi ke dalam piring/mangkuk. Hidangkan ketika masih hangat.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Masak daging sapi khas dalam jangan lebih dari 3 menit. Agar tekstur daging tetap empuk.
 

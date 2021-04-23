@@ -1,7 +1,7 @@
 ---
 title: "Salad Timun,Tauge,Alpukat dan Rucola"
 date: 2019-10-29T10:07:47+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/post-15.png"
@@ -26,10 +26,10 @@ type: "post"
 # Is Recipe
 recipe: true
 
-# Info
-prep: 5
-cook: 7
-total: 12
+# prep time
+time: "10mnt"
+
+# serving
 serving: 2
 ---
 
@@ -66,9 +66,9 @@ __Bahan__
 - Semangkuk daun rucola
 - 200 gr keju feta
 - 3 sdm minyak zaitun
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Cuci bersih tauge dan timun, sisihkan.
 - Ambil mangkuk saji masukan daun rucola ke dalam mangkuk saji.
 - Potong kasar keju feta masukan ke dalam mangkuk saji.
@@ -76,8 +76,7 @@ __Cara membuat__
 - Iris timun masukan ke dalam mangkuk saji.
 - Masukan tauge dan minyak zaitun ke dalam mangkuk saji
 - Sebelum di nikmati bisa di aduk-aduk dulu lalu hidangkan dengan suhu ruang.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Daun rucola bisa di ganti dengan daun bayam, selada atau daun kangkung.
 

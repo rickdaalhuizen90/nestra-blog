@@ -1,7 +1,7 @@
 ---
 title: "Rawon"
 date: 2019-10-29T10:07:47+06:00
-draft: false
+draft: true
 
 # post thumb
 image: "images/featured-post/post-1.png"
@@ -25,6 +25,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "25mnt"
+
+# serving
+serving: 4
 ---
 
 Menu hidangan rawon yang sehat dan bergizi. Pada umumnya rawon menggunakan daging sapi dan menggunakan bumbu kluwek. Sehingga menghasilkan kuah berwarna hitam yang khas dan memiliki rasa yang lezat .
@@ -76,24 +81,25 @@ __Bahan Sambal__
 - Sejumput garam
 - Tauge pendek
 
-__Cara membuat__
+{{< /post-info>}}
 
+{{< steps title="Cara membuat">}}
 - Blender bumbu halus hingga halus.
 - Rebus daging sapi selama 15 menit. Angkat daging siram dengan air dingin potong-potong sesuai selera, sisihkan
 - Buang air rebusan daging. Rebus air yang baru 2,5 liter. Masukan kaldu sapi dan daging. Masak sampai mendidih.
 - Siapkan wajan panaskan minyak. Masukan bumbu halus, sereh, laos, daun salam dan daun jeruk purut. Aduk-aduk sampe layu dan harum.
 - Masukan bumbu ke dalam panci rebusan. Tambahkan garam merica, kaldu jamur, gula dan daun bawang.
 - Masak hingga empuk dan matang sempurna, tes rasa, angkat.
+{{< /steps>}}
 
-__Cara membuat sambal__
-
+{{< steps title="Cara membuat sambal">}}
 - Rebus bawang putih dan cabe rawit hingga matang, angkat tiriskan.
 - Siapkan cobek. Ambil sejumput garam lalu masukan bawang putih dan cabe. Ulek sampai halus.
+{{< /steps>}}
 
-__Cara penjanyajian__
+{{< steps title="Cara penjanyajian">}}
  - Ambil semangkuk rawon sandingkan dengan sambal dan tauge. Hidangkan ketika masih hangat.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 > Semangkuk Rawon keto bisa di sajikan dengan sebutir telur rebus atau telur asin
 

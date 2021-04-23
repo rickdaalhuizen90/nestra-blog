@@ -1,7 +1,7 @@
 ---
 title: "Daging Sapi Bumbu Bali"
 date: 2019-10-29T10:07:47+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/post-15.png"
@@ -25,6 +25,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "45mnt"
+
+# serving
+serving: 4
 ---
 
 Menu hidangan daging sapi bumbu bali yang lezat dan bergizi. Dibumbui aneka rempah-rempah yang kaya akan cita rasa dan mempunyai aroma yang khas. Hidangan ini sangat sehat dan layak menjadi menu hidangan diet sehari-hari.
@@ -71,16 +76,15 @@ __Bumbu halus__
 - 2 cm jahe kupas
 - 8 buah cabe merah buang bijinya
 - 5 buah cabe rawit (sesuai selera)
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Ambil daging lalu cuci bersih lalu potong- potong daging sesuai selera. Sisihkan.
 - Ambil wajan panaskan minyak zaitun. Masukan bumbu halus, sereh, salam, daun jeruk dan lengkuas tumis hingga harum.
 - Masukan daging aduk-aduk sebentar. Masukan kaldu sapi masak hingga air daging empuk dan bumbu meresap.
 - Masukan kaldu jamur, garam, kecap manis dan merica bubuk. Tes rasa, angkat.
 - Hidangkan daging sapi bumbu bali ketika masih hangat.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Jangan memotong daging terlalu tebal agar tekstur daging mudah empuk.
 

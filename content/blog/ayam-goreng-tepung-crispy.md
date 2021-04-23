@@ -1,13 +1,13 @@
 ---
 title: "Ayam Goreng Tepung Crispy"
 date: 2019-10-29T10:07:47+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/post-15.png"
 
 # meta description
-description: "Resep ayam goreng crispy rendah karbohidrat, renyah diluar dan empuk didalam. Sangat sehat dan bergizi."
+description: "Resep ayam goreng crispy rendah karbohidrat ala diet keto, Sehat dan bergizi."
 
 # taxonomies
 categories:
@@ -24,6 +24,12 @@ type: "post"
 
 # Is Recipe
 recipe: true
+
+# prep time
+time: "25mnt"
+
+# serving
+serving: 4
 ---
 
 Menu hidangan ayam goreng crispy yang renyah di luar dan dagingnya lembut nan empuk di dalam. Tepung ayamnya terbuat dari tepung almond. Sehingga menjaga karbohidrat tetap rendah dan ramah untuk diet keto.
@@ -49,29 +55,28 @@ Sangat mudah membuat ayam goreng crispy ala diet keto ini. Bahan-bahannya simple
 
 __Bahan__
 
-- 5 Paha ayam tanpa tulang tanpa kulit
-- 2 butir telur
-- 2 sdm krim kental (heavy cream) bisa skip
-- 300 gr tepung almond
-- 1 sdt garam
+- 500 gr dada ayam tanpa kulit.
+- 1 butir telur.
+- 1 sdm krim kental (heavy cream) bisa skip.
+- 300 gr tepung almond.
+- 1 sdt garam.
 - 1/2 sdt bubuk merica hitam.
 - Minyak kelapa secukupnya untuk menggoreng.
-- Mayonaise secukupnya
+- Mayonaise secukupnya.
+{{< /post-info>}}
 
-__Cara membuat__
-
-- Cuci paha ayam, keringkan paha ayam dengan tisu atau lap bersih. Bagi paha ayam menjadi 2/3 bagian yang sama.
+{{< steps title="Cara membuat">}}
+- Cuci dada ayam, keringkan dengan tisu atau lap bersih. Potong-potong dada ayam menjadi bagian yang sama.
 - Masukan ayam kendalam wadah balur ayam dengan merica bubuk dan garam.
 - Pecahkan telur  ke dalam mangkuk. Masukan krim kental lalu kocok lepas.
 - Ambil piring masukan tepung almond ke dalam piring.
 - Ambil loyang alasi dengan kertas roti.
 - Ambil 1 bagian ayam balurkan ke tepung almond. Bolak balik angkat balurkan ke adonan telur bolak balik. Angkat, balurkan lagi ke tepung almond bolak balik angkat taruh di atas loyang.
 - Ulangi sampai adonan ayam habis.
-- Ambil wajan, panaskan minyak kelapa. (sampai ayam tenggelam)
+- Ambil wajan, panaskan minyak kelapa (sampai ayam tenggelam).
 - Masukan ayam, goreng hingga berwarna coklat tua (selama 5 menit) . Ulangi  menggoreng sampai adonan ayam habis. Angkat tiriskan.
 - Tata ayam dalam piring. Hidangkan bersama saus mayonaise ketika masih hangat.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 
 >Goreng ayam dalam suhu sekitar 190°C(minyak panas). Perlu diingat bawah suhu akan menurun ketika memasukan ayam ke dalam minyak. Pastikan untuk menaikan sedikit volume api untuk mengimbanginya. Ketika sudah seimbang api bisa dikecilkan.

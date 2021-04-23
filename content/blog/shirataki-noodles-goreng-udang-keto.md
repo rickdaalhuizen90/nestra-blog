@@ -25,6 +25,11 @@ type: "featured"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "25mnt"
+
+# serving
+serving: 1
 ---
 
 Menu hidangan shirataki noodles atau mie jepang yang kenyal, lezat dan menggugah selera. Menu hidangan ini mudah untuk di buat dan rasanya tidak kalah dari jenis mie yang lainnya. Menu hidangan ini sangat sehat dan cocok dijadikan menu diet sehari-hari.
@@ -59,16 +64,16 @@ __Bumbu halus__
 - 1 butir kemiri
 - 1 biji cabe merah buang bijinya
 - 5 biji cabe rawit merah (sesuai selera)
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Tuangkan shirataki noodles ke dalam sarangan. Cuci bersih mie shirataki dengan air dingin yang mengalir, sisihkan.
 - Panaskan wajan, masukan minyak zaitun dan masukan bumbu halus tumis hingga harum.
 - Masukan udang, telur orak arik dan mie shirataki, aduk hingga rata.
 - Masukan kecap asin, kecap manis, merica, minyak wijen, kaldu jamur dan garam. Aduk-aduk sampai rata dengan api sedang, masak sampai matang, tes rasa, angkat.
 - Hidangkan shirataki noodles goreng udang ketika masih hangat.
 
-{{< /post-info>}}
+{{< /steps>}}
 
 > Hidangan shirataki noodles bisa ditambahkan dengan topping parutan keju ketika masih panas.
 

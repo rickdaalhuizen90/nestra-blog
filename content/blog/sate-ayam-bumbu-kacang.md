@@ -1,7 +1,7 @@
 ---
 title: "Sate Ayam Bumbu Kacang"
 date: 2019-10-29T10:07:47+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/post-15.png"
@@ -25,6 +25,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "50mnt"
+
+# serving
+serving: 4
 ---
 
 Menu hidangan sate ayam bumbu kacang yang rendah karbohidrat. Sehingga aman di komsumsi untuk diet keto maupun penderita diabetes. Meskipun rendah karbohidrat menu hidangan ini tetap lezat dan gurih sangat menggugah selera.
@@ -77,25 +82,26 @@ __Bumbu kacang__
 - 1/2 sdt kaldu jamur
 - 1/2 sdt garam
 - 250 ml air (secukupnya)
+{{< /post-info>}}
 
-__Cara bumbu kacang__
-
+{{< steps title="Cara membuat kacang">}}
 - Panaskan wajan sangrai kacang, cabe merah dan bawang putih hingga matang. Sisihkan
 - Masukan air dalam blender. Blender kacang tanah, bawang putih dan cabe merah.
 - Panaskan wajan masukan bumbu kacang, gula jawa, kecap manis, kaldu jamur dan garam.
 - Masak sampe mendidih sambil diaduk-aduk sampe kuah menyusut. Tes rasa, angkat.
+{{< /steps>}}
 
-__Cara membuat sate ayam__
-
+{{< steps title="Cara membuat sate ayam">}}
 - Cuci ayam hingga bersih lalu lumuri ayam dengan perasan air jeruk nipis. Diamkan 10 menit bilas hingga bersih.
 - Keringkan ayam dengan tisu atau lap bersih lalu potong dadu sesuaikan sampe 20 tusuk.
 - Ambil wadah masukan potongan ayam dalam wadah. Masukan bumbu marinasi aduk-aduk sampai rata.
 - Ambil tusuk sate, tusukan ayam di tusuk sate. 
 - Bakar/panggang semua ayam bergantian di atas bara api. Sambil di bolak balik hingga matang, angkat.
+{{< /steps>}}
 
-__Cara penyajian__
-
+{{< steps title="Cara membuat penyajian">}}
 - Ambil piring saji,  tata 10 tusuk sate ke dalam piring saji. Hidangkan sate ayam bersama bumbu kacang dan cabe rawit ketika masih hangat.
+{{< /steps>}}
 
 >Untuk membakar ayam bisa dipanggang di atas kompor yang sudah dipasang alat pangagangan. Juga bisa diatas teflon maupun di oven
 

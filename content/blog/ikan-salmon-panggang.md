@@ -25,6 +25,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "30mnt"
+
+# serving
+serving: 2
 ---
 
 Menu hidangan ikan salmon panggang ala diet keto ini sangat lezat. Perpaduan dari rasa daging salmon yang renyah empuk nan gurih. Asparagus yang lembut sangat sangat menggugah selera.
@@ -68,9 +73,9 @@ __Bahan marinasi__
 - 1/2 sdt Merica hitam
 - Sejumput garam himalaya (sesuai selera)
 - 1 sdm minyak zaitun
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Cuci asparagus,tiriskan.
 - Masukan air kedalam panci, nyalakan api rebus hingga mendidih.
 - Masukan asparagus, rebus selama 3 menit lalu angkat tiriskan.
@@ -81,8 +86,7 @@ __Cara membuat__
 - Setelah panas masukan ikan salmon masak dengan api sedang/besar. Bolak balik ikan salmon di dua sisi. sMasak selama 3 menit sampai berwarna kuning kemasan.
 - Masukan bawang putih dan mentega masak hingga harum (sekitar 1menit). Angkat.
 - Tata asparagus dan salmon ke dalam piring. Hidangkan ketika masih hangat.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Sayur asparagus bisa di gantikan dengan brokoli, buncis atau bayam.
 

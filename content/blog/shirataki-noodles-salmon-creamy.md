@@ -26,6 +26,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "25mnt"
+
+# serving
+serving: 2
 ---
 
 Menu hidangan shirataki noodles salmon creamy ini begitu kenyal dan creamy. Menu hidangan ini sangat sehat dan rendah karbohidrat. Cara membuatnya mudah dan bahannya minim, sangat pas menjadi menu diet sehari-hari.
@@ -54,9 +59,9 @@ __Bahan__
 - 1 sdt gula tropicana slim
 - 1 sdt kaldu jamur
 - 2 sdm air jeruk nipis
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Cuci bersih ikan salmon lalu kasih perasan air jeruk nipis . Diamkan selama 10 menit.
 - Cuci lagi ikan salmon hingga bersih, potong dadu sisihkan
 - Cuci bersih shirataki noodles tiriskan.
@@ -66,8 +71,7 @@ __Cara membuat__
 - Masukan asparagus dan shirataki noodles. Aduk-aduk perlahan hingga tercampur rata dan meletup-meletup.
 - Masukan ikan salmon masak dengan api kecil hingga matang, tes rasa, angkat..
 - Masukan shirataki noodles salmon creamy kedalam piring. Hidangkan ketika masih hangat.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Ikan salmon bisa di ganti dengan ikan dori atau semua jenis ikan filet berwarna putih. Untuk sayuran bisa menggunakan asparagus,baby buncis atau brokoli.
 

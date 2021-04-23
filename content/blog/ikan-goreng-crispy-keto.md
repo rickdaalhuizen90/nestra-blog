@@ -25,6 +25,11 @@ type: "featured"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "35mnt"
+
+# serving
+serving: 4
 ---
 Menu hidangan ikan goreng crispy ala diet keto ini sangat lezat. Perpaduan rasa renyah dari tepung dan gurih dari ikan. Rasa segar dari asparagus sangat menggugah selera.
 
@@ -55,9 +60,9 @@ __Bahan__
 __Bahan marinasi__
 - Garam himalaya sesuai selera
 - 1/2 sdt Merica hitam
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Cuci ikan tiriskan dan kasih perasan air jeruk nipis. Diamkan 10 menit lalu cuci bersih, tiriskan.
 - Keringkan ikan dengan tisu atau lap bersih. 
 - Masukan ikan kedalam wadah, tambahkan bumbu marinasi. Aduk hingga rata, sisihkan.
@@ -70,8 +75,7 @@ __Cara membuat__
 - Goreng ikan sampai berwarna kuning ke emasan. Lalu angkat ikan, tiriskan.
 - Ulangi menggoreng sampai adonan ikan habis.
 - Tata ikan goreng crispy dan asparagus ke dalam piring. Hidangkan ketika masih hangat dengan disandingkan saus mayonaise.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Setelah ikan di keringkan, bisa di potong menjadi 2 agar tidak terlalu panjang. Sehingga mudah untuk di campurkan ke dalam tepung.
 

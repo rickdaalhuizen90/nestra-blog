@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <section class="section-sm">
-  <div class="container">
+  <div class="single-post container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
         {{ range .Params.Categories }}
@@ -21,7 +21,9 @@
         <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
         {{ end }}
 
-        {{ partialCached "tags.html" . }}
+        {{ if eq .Params.recipe true }}
+          {{ partialCached "tags.html" . }}
+        {{ end }}
 
         <div class="content mb-5">
           {{ .Content }}

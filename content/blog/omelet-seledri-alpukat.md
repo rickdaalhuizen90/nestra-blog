@@ -27,6 +27,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "20mnt"
+
+# serving
+serving: 4
 ---
 
 Menu hidangan omelet yang sehat dan bergizi. Memberikan energy bagi tubuh sehingga tubuh kuat dan bertenaga. Menu hidangan ini sangat baik di komsumsi setiap hari.
@@ -65,9 +70,9 @@ __Bahan__
 - 4 sdm mentega
 - 1/2 sdt garam himalaya
 - 1/2 sdt merica bubuk
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Cuci daun seledri lalu rajang, sisihkan.
 - Cuci buah paprika potong dadu, sisihkan.
 - Kupas buah alpukat lalu potong dadu, sisihkan.
@@ -77,8 +82,7 @@ __Cara membuat__
 -  Ulangi menggoreng sisa adonan telur.
 - Hidangkan omelet dengan topping alpukat dan paprika di atasnya.
 - Hidangkan ketika masih hangat.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 Menu hidangan omelet ini adalah menu hidangan yang begitu lezat. Perpaduan dari rasa telur dan seledri yang gurih. Topping alpukat yang lembut dan paprika yang renyah membuat hidangan ini begitu istimewah.
 

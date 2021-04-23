@@ -1,7 +1,7 @@
 ---
 title: "Shirataki Noodles Ayam Bawang"
 date: 2019-10-29T10:07:47+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/post-13.png"
@@ -25,6 +25,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "20mnt"
+
+# serving
+serving: 1
 ---
 
 Hidangan mie ayam bawang ini mempunyai aroma segar dan rasanya begitu alami. Mie ayam bawang ini sangat cepat dan mudah dibuat. Menu hidangan ini mempunyai banyak nutrisi sehingga bisa menunda rasa lapar yang lama.
@@ -64,17 +69,16 @@ __Bahan__
 - 1/2 sdt garam tropicana slim (sesuai selera)
 - 1 sdm minyak zaitun
 - 1 Telur rebus kupas
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Ambil sarangan. Cuci shirataki noodles dengan air dingin yang mengalir sampai bersih, tiriskan.
 - Ambil sawi hijau cuci bersih potong sesuai selera tiriskan.
 - Ambil wajan panaskan minyak zaitun. Masukan bawang merah dan bawang putih masak hingga harum.
 - Masukan kaldu ayam masak hingga mendidih.
 - Bila air sudah mendidih. Masukan irisan ayam, shirataki noodles, sawi hijau, kaldu jamur, merica bubuk dan garam. Masak selama 2,5menit, tes rasa, angkat.
 - Tuang mie shirataki kedalam mangkuk. Tambahkan telur dan taburan daun bawang. Hidangkan ketika masih hangat.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Agar tekstur dada ayam tetap empuk, masak dada ayam selama 2,5 menit.
 

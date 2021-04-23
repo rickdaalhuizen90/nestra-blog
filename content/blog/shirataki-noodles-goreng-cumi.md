@@ -1,7 +1,7 @@
 ---
 title: "Shirataki Noodles Goreng Cumi"
 date: 2019-10-29T10:07:47+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/post-15.png"
@@ -25,6 +25,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "25mnt"
+
+# serving
+serving: 2
 ---
 
 Hidangan shirataki noodles goreng cumi mempunyai aroma harum yang khas. Aroma dari merica hitam membuat hidangan ini sangat menggugah selera. Menu hidangan ini juga sehat, bergizi dan ramah untuk diet keto.
@@ -66,8 +71,9 @@ __Bahan__
 - 2 sdm minyak zaitun
 - 2 sdm air jeruk nipis
 
-__Cara membuat__
+{{< /post-info>}}
 
+{{< steps title="Cara membuat">}}
 - Bersihkan cumi-cumi buang kantong tintahnya.
 - Potong-potong cumi-cumi lalu lumuri cumi-cumi dengan air jeruk nipis. Diamkan selama 10 menit, cuci hingga bersih, sisihkan.
 - Cuci bersih zucchini lalu potong panjang sekitar 3-4cm sisihkan.
@@ -76,8 +82,7 @@ __Cara membuat__
 - Masukan cumi-cumi, kecap manis, garam, merica hitam dan garam. Aduk-aduk sebentar lalu masukan shirataki noodles masak dengan api sedang.
 - Aduk-aduk selama 3menit, tes rasa, angkat.
 - Hidangkan shirataki noodles ketika masih hangat.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Bila tidak ada zucchini bisa digantikan dengan timun muda atau sawi hijau.
 

@@ -26,6 +26,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "15mnt"
+
+# serving
+serving: 2
 ---
 
 Menu hidangan telur orak-arik yang empuk, lezat dan menggugah selera. Juga bergizi tinggih yang membuat tubuh bertenaga. Telur orak arik ini layak menjadi menu andalan sehari-hari.
@@ -61,16 +66,15 @@ __Bahan__
 - Sejumput merica bubuk
 - Sejumput garam himalaya
 - 3 sdm mentega
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Ambil 2 butir telur pecahkan dalam wadah. Tambahkan merica dan garam kocok lepas.
 - Ambil wajan teflon masukan mentega panaskan hingga cair.
 - Sesudah mentega cair masukan kocokan telur lalu kecilkan api.
 - Masak sambil terus diaduk perlahan hingga matang, angkat.
 - Masukan telur kedalam piring hidangan dan hidangkan ketika masih hangat.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Ketika mengaduk jangan melewatkan bagian bawah telur agar tidak mengeras dan gosong.
 

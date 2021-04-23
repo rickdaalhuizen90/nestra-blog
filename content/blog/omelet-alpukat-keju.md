@@ -1,7 +1,7 @@
 ---
 title: "Omelet-Alpukat-Keju"
 date: 2019-10-29T10:07:47+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/post-15.png"
@@ -19,13 +19,18 @@ tags:
   - "gluten-free"
   - "vegetarian"
   - "diary-free"
-  
+ 
 # post type
 type: "post"
 
 # Is Recipe
 recipe: true
 
+# prep time
+time: "20mnt"
+
+# serving
+serving: 1
 ---
 
 Menu hidangan omelet yang gurih, lembut dan lezat di mulut. Berbahan dari telur, alpukat dan keju sangat menggugah selera. Menu hidangan omelet diet ini sangat sehat dan bergizi.
@@ -58,9 +63,9 @@ __Bahan__
 -   Segenggam daun rucola(bisa skip)
 -   Sejumput Garam himalaya
 -   2 sdm Mentega
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 -   Pecahkan telur kedalam wadah, masukan sejumput garam kocok lepas.
 -   Kupas buah alpukat dan iris-iris.
 -   Panaskan wajan telfon. Masukan mentega tunggu sampai mentega meleleh dan panas.
@@ -68,8 +73,7 @@ __Cara membuat__
 -   Masukan alpukat, tata di atas telur. Masak dengan api kecil hingga matang.
 -   Masukan topping keju hingga merata, biarkan keju meleleh lalu angkat.
 -   Hidangkan omelet ketika masih hangat bersama daun rucola.
-
-{{< /post-info>}}
+{{< /steps>}}
 
 >Ketika menggoreng telur tidak usah di bolak balik. Biarkan telur tetap begitu hingga matang.
 

@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
 
+// Font Variables
+$primary-font: 'Roboto', sans-serif;;
+$icon-font: 'themify';
+
+@font-face {
+    font-family: 'signatria';
+    src: url('/fonts/signatria-webfont.woff2') format('woff2'),
+         url('/fonts/signatria-webfont.woff') format('woff'),
+         url('/fonts/Signatria.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
   line-height: 1.2;
   font-family: 'Roboto', sans-serif;

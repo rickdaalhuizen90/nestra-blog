@@ -25,6 +25,11 @@ type: "featured"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "8jam 10mnt"
+
+# serving
+serving: 10
 ---
 
 Kaldu tulang sapi yang mengandung kaya akan protein yang sehat dan bergizi tinggih. Aroma dan rasa dari masakan kaldu tulang sapi ini begitu gurih dan lezat. Cara membuatnya mudah dan harganya terjangkau dan pastinya ramah untuk diet keto.
@@ -96,9 +101,9 @@ __Bahan__
 - 1 sdt garam himalaya (sesuai selera)
 - 3 sdm minyak zaitun(olive oil)
 - Secukupnya air hingga tulang terendam
+{{< /post-info>}}
 
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Cuci tulang sapi lalu keringkan dengan tisu atau dengan lap bersih. Lumuri dengan minyak zaitun.
 - Panaskan oven dengan suhu 205°C
 - Siapkan loyang alasi dengan kertas roti. Tata tulang sapi dan bawang putih ke loyang. Masukan kedalam oven panggang selama 30 menit (bila tidak ada oven bisa skip)
@@ -109,8 +114,7 @@ __Cara membuat__
 - 10 menit sebelum panci diangkat masukan seledri, masak kembali lalu angkat.
 - Saring kaldu dengan saringan halus ke dalam stoples kaca. Bila ada buih yang muncul di permukaan ambil dengan sendok.
 - Hidangkan secangkir kaldu sapi ketika masih hangat. Atau juga bisa dijadikan bahan dasar masakan yang lainnya.
-
-{{< /post-info>}}
+{{< /steps>}}
 
  >Rebus kaldu tulang dengan api kecil. Untuk mendapatkan hasil kaldu yang jernih dan enak dan juga tidak terlalu berminyak. 
 

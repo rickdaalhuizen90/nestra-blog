@@ -25,6 +25,11 @@ type: "post"
 # Is Recipe
 recipe: true
 
+# prep time
+time: "1jam"
+
+# serving
+serving: 4
 ---
 
  Menu hidangan masakan daging redang yang lezat. Dengan menggunakan anekah bumbu rempah-rempah dan santan. Sehingga mempunyai kaya akan cita rasa dan aroma yang khas, sangat menggugah selera.
@@ -37,7 +42,7 @@ Rendang daging adalah makanan khas negara Indonesia, Minangkabau, Sumatra barat.
 
  Membuat hidangan rendang daging, pililah daging khas dalam. Agar mudah empuk. Berikut simak resep dan cara membuat rendang sapi ala diet keto yang lezat dan simple.
 
-{{< post-info prep="10 menit" cook="50 menit" total="60 menit" serving="4">}}
+{{< post-info prep="10 menit" cook="50 menit" total="1 jam" serving="4">}}
 
 __Bahan__
 - 500 gr Daging sapi khas dalam

@@ -444,7 +444,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Saus tomat
 - Saus teriyaki
 - Saus jamur
-- Saus sambal ( kemasan)
+- Saus sambal (kemasan)
 - Kecap asin
 - Margarin
 - Saus barbeque

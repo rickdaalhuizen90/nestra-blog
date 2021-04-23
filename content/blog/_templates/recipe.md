@@ -26,6 +26,12 @@ type: "post"
 
 # Is Recipe
 recipe: true
+
+# prep time
+time: "25mnt"
+
+# serving
+serving: 4
 ---
 
 # <% tp.user.title() %>
@@ -33,3 +39,7 @@ recipe: true
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="2">}}
 
 {{< /post-info>}}
+
+{{< steps title="Cara membuat">}}
+
+{{< /steps>}}

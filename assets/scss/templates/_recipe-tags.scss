@@ -1,0 +1,94 @@
+[data-tag] {
+	width: min-content;
+	padding: 0.5rem;
+	border-radius: 100%;
+	font-weight: bold;
+	color: white;
+}
+
+[data-tag="keto"] {
+	background-color: #793E3E;
+}
+
+[data-tag="vegan"] {
+	background-color: #127475;
+}
+
+[data-tag="gluten-free"] {
+	background-color: #f5dfbb;
+	color: #333;
+}
+
+[data-tag="vegetarian"] {
+	background-color: #0e9594;
+}
+
+[data-tag="diary-free"] {
+	background-color: #f2542d;
+}
+
+.recipe-tags {
+	&__content {
+		position: relative;
+
+		&:after {
+	      content: "";
+	      position: absolute;
+	      z-index: 1;
+	      top: 0;
+	      right: 0;
+	      bottom: 15px;
+	      pointer-events: none;
+	      background-image: linear-gradient(to right, rgba(255,255,255,0), $secondary-color 85%);
+	      width: 15%;
+		}
+	}
+	
+	&__items {
+		position: relative;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 2rem;
+		background: linear-gradient(to bottom, $secondary-color 0,#fefefe 100%);
+		margin-bottom: 1rem;
+		overflow-x: scroll;
+	}
+
+	a {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		color: inherit;
+		min-width: max-content;
+		margin-right: 1rem;
+	}
+
+	&__title {
+		text-align: center;
+		width: max-content;
+		border-bottom: 2px solid;
+		margin-bottom: 1rem;
+		text-transform: uppercase;
+	}
+
+	&__item {
+		margin-bottom: 0.5rem;
+	}
+
+	&__logo {
+		margin-right: 0.5rem;
+	}
+}
+
+@media (min-width: 992px) {
+	.recipe-tags {
+		&__content:after{
+			background: none;
+		}
+
+		&__items {
+			padding: 3rem;
+		}
+	}
+}
