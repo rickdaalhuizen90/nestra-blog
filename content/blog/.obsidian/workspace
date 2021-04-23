@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "salad-keto-sayur-dan-telur.md",
+            "file": "_templates/default.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "salad-keto-sayur-dan-telur.md",
+                "file": "_templates/default.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1c85a4350229f379",
   "lastOpenFiles": [
-    "salad-keto-sayur-dan-telur.md",
-    "post-20.md",
-    "sup-ikan-dori-keto.md",
-    "208-daftar-nama-produk-makanan-dan-minuman-untuk-diet -keto.md",
-    "8-tips-untuk-pemula-memulai-diet-keto.md",
-    "salad-timun-tauge-alpukat-dan-rucola.md",
+    "_templates/default.md",
+    "_templates/recipe.md",
+    "_index.md",
+    "_templates/Untitled.md",
+    "_templates/example.md",
+    "example.md",
     "rendang-daging.md",
-    "rawon.md",
-    "omelet-seledri-alpukat.md",
-    "omelet-daun-bawang.md"
+    "post-20.md",
+    "ikan-goreng-crispy-keto.md",
+    "208-daftar-nama-produk-makanan-dan-minuman-untuk-diet -keto.md"
   ]
 }

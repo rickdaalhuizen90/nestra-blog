@@ -1,6 +1,6 @@
 ---
-title: "Example"
-date: 2019-10-29T10:07:47+06:00
+title: <% tp.user.title() %>
+date: <% tp.file.creation_date() %>
 draft: true
 
 # post thumb
@@ -27,3 +27,9 @@ type: "post"
 # Is Recipe
 recipe: true
 ---
+
+# <% tp.user.title() %>
+
+{{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="2">}}
+
+{{< /post-info>}}
