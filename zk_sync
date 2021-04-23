@@ -4,7 +4,7 @@ ZK_PATH="${HOME}/Sites/nestra-blog"
 
 cd "$ZK_PATH"
 
-CHANGES_EXIST="$(git status --porcelain | wc -l)"
+CHANGES_EXIST="$(git diff --quiet HEAD "$(git describe --tags --abbrev=0 HEAD)" -- ./content/blog)"
 
 if [ "${CHANGES_EXIST}" -eq 0 ]; then
 	exit 0
