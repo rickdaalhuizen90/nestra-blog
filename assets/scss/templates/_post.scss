@@ -39,4 +39,29 @@
 
 .single-post {
 	padding-top: 3rem;
+
+	&__image {
+		position: relative;
+		margin: 2rem -50vw;
+		max-width: 100vw;
+		max-height: 1000px;
+		left: 50%;
+		right: 50%;
+		width: 100vw;
+		object-fit: cover;
+		object-position: center;
+	}
+}
+
+@media (min-width: 780px) {
+  	.single-post {
+
+  		&__image {
+  			margin: 2rem 0;
+  			width: 100%;
+  			left: 0;
+  			right: 0;
+  		}
+		
+	}
 }

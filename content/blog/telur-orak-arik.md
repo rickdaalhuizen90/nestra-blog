@@ -52,7 +52,7 @@ Telur orak arik ini banyak manfaatnya bagi tubuh yakni:
 - Mempercantik kulit dan rambut.
 - Mencegah stres.
 
-## Resep
+## Mulai Memasak
 
 Membuat hidangan telur orak arik ini tergolong cepat dan mudah. Bahannya juga sangat minim dan ramah di dapur kita.
 

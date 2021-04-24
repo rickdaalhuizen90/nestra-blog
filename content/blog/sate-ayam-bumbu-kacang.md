@@ -50,7 +50,7 @@ Sate ayam bumbu kacang ini banyak manfaatnya bagi tubuh. Salah satunya yakni:
 - Meningkatkan masa otot
 - Memperbaiki mood, dll.
 
-## Resep
+## Mulai Memasak
 
 Resep menu hidangan ini menggunakan bahan-bahan yang sehat. Sehingga menghasilkan rasa yang lezat dan juga sehat. 
 

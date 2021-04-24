@@ -50,7 +50,7 @@ Banyak sekali manfaat buah dan daun rucola ini antara lain yakni:
 - Membuat awet muda.
 - Mengurangi lemak buruk meningkatkan lemak baik, dll.
 
-## Resep
+## Mulai Memasak
 
 Membuat salad diet keto yang sehat ini sangat mudah tidak memakan waktu yang lama. Bahannya minim dan ramah di kantong. 
 

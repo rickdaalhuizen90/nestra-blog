@@ -43,7 +43,7 @@ Telur dadar daun bayam adalah hidangan berbahan telur ayam yang di bumbui lalu d
 ## apa manfaat telur dadar daun bawang dan bayam?
 Menu hidangan telur dadar daun bawang ini sangat baik untuk diet keto apalagi di sandingkan dengan semangkuk bayam yang segar,sehat dan bergizi,seperti yang kita ketahui sayur bayam ini sangat banyak manfaatnya bagi tubuh salah satunya yakni adalah untuk mencegah anemia(untuk penderita darah tinggih tidak dianjurkan),memperkuat kesehatan tulang,memelihara kesehatan mata,menjaga kesehatan jantung,menekan resiko diabetes dan masih banyak lainya.
 
-## Resep membuat telur dadar daun bawang dan bayam.
+## Mulai Memasak membuat telur dadar daun bawang dan bayam.
 Menu hidangan ini sangat mudah untuk dibuat, bahannya minim dan ramah di kantong, menu hidangan ini simple dan sehat, layak untuk dijadikan menu hidangan sehari-sehari. Berikut resep telur dadar daun bawang dan bayam di bawah ini.
 
 Bahan :

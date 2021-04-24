@@ -49,7 +49,7 @@ Ikan salmon banyak manfaatnya bagi tubuh untuk kesehatan yakni:
 -Mengandung banyak vitamin dan mineral untuk tubuh
 -Sumber protein berkualitas tinggih dan asam lemak omega 3.
 
-## Resep 
+## Mulai Memasak 
 
 
 Ikan salmon adalah ikan yang layak di komsumsi sehari-hari. Cara membuatnya sangat mudah dan cepat. Resep hidangan ini begitu lezat dan siap di nikmati dalam hitungan menit. 

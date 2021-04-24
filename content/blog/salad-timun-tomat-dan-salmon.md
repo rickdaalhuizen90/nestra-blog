@@ -51,7 +51,7 @@ Salad diet keto timun, tomat dan salmon ini sangat baik untuk kesehatan. Salah s
 - Sehat untuk kulit dan rambut.
 - Melindungi organ tubuh, dll.
 
-## Resep
+## Mulai Memasak
 
 Cara membuat salad timun dan tomat ini sangat mudah dan praktis. Bahan yang di butuhkan juga sangat terjangkau dan ramah di dapur kita.
 

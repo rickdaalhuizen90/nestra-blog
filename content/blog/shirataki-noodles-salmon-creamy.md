@@ -39,7 +39,7 @@ Menu hidangan shirataki noodles salmon creamy ini begitu kenyal dan creamy. Menu
 
 Shirataki noodles salmon creamy adalah olahan masakan dari mie shirataki dan ikan salmon. Di masak dan di bumbui dengan krim keju. Ditambahkan asparagus, sehingga rasanya begitu lezat, gurih dan creamy.
 
-## Resep
+## Mulai Memasak
 
 Shirataki noodles salmon creamy ini sangat ramah untuk diet keto. Campuran bahan yang mengandung lemak baik membuat tubuh kita menjadi sehat dan kuat.
 

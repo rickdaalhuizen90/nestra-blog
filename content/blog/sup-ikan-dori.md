@@ -50,7 +50,7 @@ Manfaat ikan dori bagi tubuh yakni:
 - Menjaga kesehatan kulit.
 - Mencegah tubuh untuk memperoduksi partikel imflamasi.
 
-## Resep
+## Mulai Memasak
 
 Membuat sup ikan ini bisa menggunakan jenis ikan yang dagingnya berwarna putih. Menu hidangan ini tidak hanya segar dan lezat tapi juga bergizi dan ramah untuk diet keto.
 

@@ -39,7 +39,7 @@ Menu hidangan rawon yang sehat dan bergizi. Pada umumnya rawon menggunakan dagin
 Rawon berasal dari kuliner khas Jawa Timur negara Indonesia.
 Rawon adalah olahan masakan daging berkuah kaldu yang berwarna hitam. Dengan menggunakan bumbu kluwek, masakan rawon memiliki aroma dan rasa yang khas. 
 
-## Resep
+## Mulai Memasak
 
 Resep rawon diet keto saya menggunakan daging sandung lamur. Jika ada lemak yang menempel di daging bisa di ambil dan di buang. Jangan mengkomsumsi lemak jahat karena tidak sehat. 
 

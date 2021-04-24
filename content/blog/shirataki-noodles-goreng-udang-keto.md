@@ -38,7 +38,7 @@ Menu hidangan shirataki noodles atau mie jepang yang kenyal, lezat dan menggugah
 
 Shirataki noodles adalah mie yang terbuat dari tumbuhan konjak yang tumbuh di Asia. Tanaman konjak ini menghasilkan sebuah ubi dan ubi tersebut di buat menjadi tepung. Dari tepung inilah mie shirataki dibuat. Tepung ini juga digunakan untuk membuat tofu, makanan ringan dan shirataki beras. Bahkan di China juga digunakan untuk membuat obat-obatan tradisional.
 
-## Resep
+## Mulai Memasak
 
 Membuat menu hidangan shirataki noodles ini sangat mudah dan juga rasanya sangat enak. Menu hidangan ini sangat ramah untuk diet keto.
 

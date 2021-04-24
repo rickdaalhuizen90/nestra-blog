@@ -47,7 +47,7 @@ Hidangan ini sangat sehat dan bergizi. Salah satu manfaat dari hidangan ini yakn
 - Baik untuk kesehatan kulit sehingga terlihat awet muda.
 - Kaya akan lutein.
 
-## Resep
+## Mulai Memasak
 
 Menu hidangan ini sangat mudah untuk di buat dan juga ramah di kantong. Bahannya minim tapi sangat sehat dan bergizi.
 

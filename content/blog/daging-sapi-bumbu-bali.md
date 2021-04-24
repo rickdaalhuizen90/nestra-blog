@@ -46,7 +46,7 @@ Daging sapi bumbu bali ini banyak manfaatnya bagi tubuh salah satunya yakni:
 - Meningkatkan kinerja olahraga.
 - Mengenyangkan perut.
 
-## Resep
+## Mulai Memasak
 
 Olahan daging sapi bumbu bali ini sangat menggugah selera. Kali ini saya membuat resep daging sapi bumbu bali yang lezat dan sehat di komsumi untuk diet keto. 
 

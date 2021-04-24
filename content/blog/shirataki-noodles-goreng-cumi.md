@@ -49,7 +49,7 @@ Cumi-cumi mempunyai banyak manfaat bagi tubuh manusia antara lain yakni:
 - Membantu menurunkan berat badan.
 - Membuat rasa kenyang bertahan lebih lama.
 
-## Resep 
+## Mulai Memasak 
 
 Menu hidangan shirataki noodles goreng cumi ini mudah untuk di buat. Sangat baik dan sehat untuk di komsumi sehari-hari.
 

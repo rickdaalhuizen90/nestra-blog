@@ -47,7 +47,7 @@ Ayam goreng crispy banyak manfaatnya bagi tubuh yakni:
 -makanan rendah kolesterol.
 -mengobati flu dan ramah untuk diet keto.
 
-## Resep
+## Mulai Memasak
 
 Sangat mudah membuat ayam goreng crispy ala diet keto ini. Bahan-bahannya simple dan hasilnya sangat memuaskan. yuk simak resepnya di bawah ini.
 

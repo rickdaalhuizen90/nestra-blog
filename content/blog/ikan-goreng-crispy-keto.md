@@ -38,7 +38,7 @@ Menu hidangan ikan goreng crispy ala diet keto ini sangat lezat. Perpaduan rasa 
 
 Ikan goreng crispy adalah ikan yang dibalur dengan bumbu dan dilapisi tepung. Lalu digoreng sehingga rasanya sangat gurih dan renyah. Proses membuat ikan goreng crispy ini tergolong mudah dan cepat. Menu hidangan ikan goreng crispy adalah menu yang lezat dan membuat lidah ketagihan.
 
-## Resep
+## Mulai Memasak
 
 Ikan goreng crispy ini sangat lezat disajikan dengan asparagus rebus atau brokoli rebus. Hidangan ini sangat mudah dan simple untuk di buat. Bahan-bahannya juga sangat simple dan praktis.
 

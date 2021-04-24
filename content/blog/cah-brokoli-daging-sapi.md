@@ -47,7 +47,7 @@ Olahan cah brokoli daging sapi ini banyak manfaatnya untuk tubuh antara lain yak
 -Menambah kebutuhan vitamin.
 -Membantu memelihara pencernaan.
 
-## Resep
+## Mulai Memasak
 
 Cah brokoli daging sapi ini sangat mudah untuk dibuat. Olahan ini tidak menggunakan saus tiram. Saus tiram tidak ramah untuk diet keto. Tapi jangan khawatir karena resep olahan ini masih tetap lezat.
 

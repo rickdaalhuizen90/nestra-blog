@@ -53,7 +53,7 @@ Sayur buncis juga bermanfaat untuk:
 - Menjaga sistem kekebalan tubuh.
 - Memelihara kesehatan mata.
 
-## Resep
+## Mulai Memasak
 
 Menu hidangan salad ini sangat mudah dan praktis. Tak hanya sehat tapi juga ramah di kantong. Menu hidangan ini adalah menu hidangan gaya hidup yang sehat. 
 

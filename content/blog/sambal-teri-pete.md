@@ -38,7 +38,7 @@ Menu hidangan sambal teri pete ini begitu gurih,lezat dan menggugah selera. Cara
 
 Sambal teri pete adalah olahan sambal yang di goreng ditambahkan teri dan pete. Di bumbui di campur menjadi satu. Sehingga menghasilkan aroma pete yang khas dan lezat. Hidangan sambal ini adalah menu favorit orang Indonesia.
 
-## Resep
+## Mulai Memasak
 
 Menu hidangan sambal yang simple dan sehat. Tak hanya rasanya yang lezat tapi sambal teri pete ini juga tahan lama. 
 

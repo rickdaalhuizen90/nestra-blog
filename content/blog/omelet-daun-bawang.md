@@ -48,7 +48,7 @@ Menu hidangan omelet ini sangat baik untuk tubuh. Apalagi di sandingkan dengan s
 - Menjaga kesehatan jantung.
 - Menekan resiko diabetes, dll.
 
-## Resep
+## Mulai Memasak
 
 Menu hidangan ini sangat mudah untuk dibuat. Bahannya minim dan ramah di kantong. Menu hidangan ini layak untuk dijadikan menu sehari-sehari. 
 

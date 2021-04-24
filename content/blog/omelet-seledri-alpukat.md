@@ -54,7 +54,7 @@ Omelet ini mengandung banyak lemak baik, vitamin dan kaya akan serat. Menu hidan
 - Menjaga kesehatan organ hati.
 - Mencegah dehidrasi, dll.
 
-## Resep
+## Mulai Memasak
 Menu hidangan diet ini kaya akan cita rasa dan nutrisi. Cara mebuatnya mudah dan tidak memakan waktu yang lama.
 
 Berikut simak  resep hidangan telur dadar seledri dan alpukat.

@@ -38,7 +38,7 @@ serving: 4
 
 Rendang daging adalah makanan khas negara Indonesia, Minangkabau, Sumatra barat. Rendang daging ini berasal dari kata "Maradang" yang artinya proses memasak menghilangkan air. Rendang daging ini sangat populer di seluruh Indonesia maupun di seluruh dunia. Masakan ini juga cukup mudah ditemukan di restaurant Padang di seluruh penjuru Indonesia.
 
-## Resep
+## Mulai Memasak
 
  Membuat hidangan rendang daging, pililah daging khas dalam. Agar mudah empuk. Berikut simak resep dan cara membuat rendang sapi ala diet keto yang lezat dan simple.
 

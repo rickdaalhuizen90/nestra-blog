@@ -5,3 +5,13 @@
 .text-primary {
 	color: $primary-color !important;
 }
+
+.content blockquote {
+	margin: 0 -15px 1rem;
+}
+
+@media (min-width: 780px) {
+  	.content blockquote {
+		margin: 0 0 1rem;
+	}
+}

@@ -18,7 +18,7 @@
 				counter-increment: li;
 				content: counter(li) ". ";
 				font-weight: bold;
-				font-size: 1.2rem;
+				font-size: 1.1rem;
 				--size: 16px;
 				left: calc(-1 * var(--size) - 5px);
 				line-height: var(--size);

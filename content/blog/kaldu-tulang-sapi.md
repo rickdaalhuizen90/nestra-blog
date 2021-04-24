@@ -85,7 +85,7 @@ Berbagai cara untuk mengkomsumsi kaldu tulang yakni:
 - Untuk memasak mie
 - Meminumnya langsung, dll.
 
-## Resep
+## Mulai Memasak
 
 Sangat mudah membuat kaldu tulang. Anda bisa membuat kaldu tulang menggunakan tulang apa saja sesuai selera Anda. Anda juga bisa di masak menggunakan panci elektrik, rice cooker atau diatas kompor. 
 

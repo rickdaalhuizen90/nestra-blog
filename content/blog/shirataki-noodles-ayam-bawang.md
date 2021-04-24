@@ -47,7 +47,7 @@ Mie shirataki ayam bawang banyak manfaatnya bagi tubuh antara lain yakni:
 - Aman untuk penderita diabetes.
 - Membuat rasa kenyang yang cukup lama. Sehingga tidak mudah lapar.
 
-## Resep
+## Mulai Memasak
 
 Untuk penggemar makanan mie tidak usah khawatir tidak bisa makan mie ketika diet. Shirataki noodles ini solusinya, mie yang rendah karbohidrat dan ramah untuk diet keto. 
 
