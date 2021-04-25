@@ -13,7 +13,6 @@ categories:
 # post tags
 tags:
   - "keto"
-  - "vegan"
   - "gluten-free"
   - "vegetarian"
   - "diary-free"
