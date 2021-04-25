@@ -7,6 +7,8 @@ summaryLength = "10"
 paginate = 6
 disqusShortname = ""
 buildDrafts = false
+ignorecache = false
+timeout = 30000 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
