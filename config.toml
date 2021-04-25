@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "//neztra.com"
 languageCode = "id-in"
-title = "Neztra | Website resipe sehat"
+title = "Neztra | Website Resep Sehat"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
