@@ -14,6 +14,9 @@
     autoplaySpeed: 4500,
     arrows : false,
     infinite: true,
+    swipe: false,
+    swipeToSlide: false,
+    touchMove: false,
     responsive: [
       {
         breakpoint: 999999,
