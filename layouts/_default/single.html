@@ -21,9 +21,9 @@
         <img src="{{ .Params.Image | absURL }}" class="single-post__image" alt="{{ .Title | markdownify }}">
         {{ end }}
 
-        {{ if eq .Params.recipe true }}
+        <!-- {{ if eq .Params.recipe true }}
           {{ partialCached "tags.html" . }}
-        {{ end }}
+        {{ end }} -->
 
         <div class="content mb-5">
           {{ .Content }}
@@ -35,6 +35,4 @@
     </div>
   </div>
 </section>
-
-<script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
 {{ end }}

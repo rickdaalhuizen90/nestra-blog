@@ -1,14 +1,13 @@
-<div class="col-lg-4">
+<div class="sidebar col-lg-4">
   <!-- about -->
   <div class="widget">
-    {{ with .Site.GetPage "/about" }}
+    {{ with .Site.GetPage "/tentang" }}
     <h4 class="widget-title">{{ .Title | markdownify }}</h4>
     {{ if .Params.Image }}
     <img src="{{ .Params.Image | absURL }}" alt=""
       class="img-fluid author-thumb-sm d-block mx-auto rounded-circle mb-4">
     {{ end }}
-    <p>{{ .Summary }}</p>
-    <a href="{{ .Permalink }}" class="btn btn-outline-primary">Tentang saya</a>
+    <p>{{ .Description }} <a href="{{ .Permalink }}">Baca lebih lanjut...</a></p>
     {{ end }}
   </div>
   <!-- social -->
@@ -20,8 +19,26 @@
       {{ end }}
     </ul>
   </div>
+  <!-- Trending -->
+  <div class="widget">
+    <h4 class="widget-title">Trending</h4>
+    <ul class="list-inline">
+      {{ range first 5 (where .Site.RegularPages "Type" "featured") }}
+      <div class="sidebar__posts">
+        <article class="sidebar__post">
+          {{ $image := printf "%s%s" .RelPermalink "banner.png" }}
+          <div class="sidebar__post-thumb mr-3" style="background-image: url('{{ $image | absURL }}');"></div>
+          <div class="sidebar__post-content">
+            <span><a href="{{ .Permalink }}">{{.Params.Title}}</a></span>
+            <i class="sidebar__post-date">{{ .PublishDate.Format "02 Jan 2006" }}</i>
+          </div>
+        </article>
+      </div>
+      {{ end }}
+    </ul>
+  </div>
   <!-- advertisement -->
-  <!-- <div class="widget">
+  <div class="widget">
     <img src="{{`images/promotion.png` | absURL}}" alt="" class="img-fluid">
-  </div> -->
+  </div>
 </div>

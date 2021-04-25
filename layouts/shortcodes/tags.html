@@ -1,0 +1,33 @@
+<div class="recipe-tags">
+  <h3 class="recipe-tags__title">Tag penjelasan</h3>
+  <div class="recipe-tags__content">
+    {{- if isset .Site.Taxonomies "tags" }}
+    {{- if not (eq (len .Site.Taxonomies.tags) 0) }}
+    <div class="recipe-tags__items">
+      {{- range $name, $items := .Site.Taxonomies.tags }}
+      <div class="recipe_tags__item">
+        <a href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}">
+          {{ if (eq $name "diary-free" )}}
+            <div class="recipe-tags__logo" data-tag="{{$name}}">BS</div>
+            {{ "bebas susu" | humanize }}
+          {{ else if (eq $name "vegetarian" ) }}
+            <div class="recipe-tags__logo" data-tag="{{$name}}">VG</div>
+            {{ $name | humanize }}
+          {{ else if (eq $name "gluten-free" ) }}
+            <div class="recipe-tags__logo" data-tag="{{$name}}">BG</div>
+            {{ "bebas gula" | humanize }}
+          {{ else if (eq $name "keto" ) }}
+            <div class="recipe-tags__logo" data-tag="{{$name}}">KT</div>
+            {{ $name | humanize }}
+          {{ else }}
+            <div class="recipe-tags__logo" data-tag="{{$name}}">{{ substr $name 0 2 | upper }}</div>
+            {{ $name | humanize }}
+          {{ end }}
+        </a>
+      </div>
+      {{- end }}
+    </div>
+    {{- end }}
+    {{- end }}
+  </div>
+</div>

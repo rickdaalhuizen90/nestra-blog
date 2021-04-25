@@ -15,7 +15,7 @@ buildDrafts = false
 
   # CSS Plugins
   [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.min.css"
+  URL = "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
   [[params.plugins.css]]
   URL = "plugins/slick/slick.css"
   [[params.plugins.css]]
@@ -44,7 +44,7 @@ buildDrafts = false
 [menu]
 
   [[menu.main]]
-  name = "Home"
+  name = "Beranda"
   URL = "/"
   weight = 1
 
@@ -55,8 +55,8 @@ buildDrafts = false
 
   # main menu
   [[menu.main]]
-  name = "About"
-  URL = "about"
+  name = "Tentang"
+  URL = "tentang"
   weight = 3
 
   #[[menu.main]]
@@ -66,18 +66,18 @@ buildDrafts = false
 
   # footer menu
   [[menu.footer]]
-  name = "Home"
+  name = "Beranda"
   URL = "/"
   weight = 1
 
   [[menu.footer]]
-  name = "Recipes"
+  name = "Post"
   URL = "blog"
   weight = 2
 
   [[menu.footer]]
-  name = "About"
-  URL = "about"
+  name = "Tentang"
+  URL = "tentang"
   weight = 3
 
   #[[menu.footer]]
@@ -89,9 +89,9 @@ buildDrafts = false
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-home = "Home"
+home = "Beranda"
 # Meta data
-description = "This is meta description"
+description = "Situs web pecinta kuliner tempat Anda dapat menemukan resep sehat tentang vegan, keto, dan masih banyak lainya."
 author = "Neztra"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
@@ -128,19 +128,35 @@ expire_days = 2
 [[params.social]]
 title = "pinterest"
 icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "javascript:void(0)"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "javascript:void(0)"
 
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "javascript:void(0)"
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "linkedin"
+#icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+#link = "javascript:void(0)"
+
+############################# deploy ########################
+[[deployment.matchers]]
+#  Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true

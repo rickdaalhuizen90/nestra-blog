@@ -3,7 +3,7 @@
 	padding: 0.5rem;
 	border-radius: 100%;
 	font-weight: bold;
-	color: white;
+	color: #fff;
 }
 
 [data-tag="keto"] {
@@ -21,15 +21,22 @@
 
 [data-tag="vegetarian"] {
 	background-color: #0e9594;
+	color: #000;
 }
 
 [data-tag="diary-free"] {
 	background-color: #f2542d;
+	color: #000;
+}
+
+.content .recipe-tags * {
+	margin-bottom: 0 !important;
 }
 
 .recipe-tags {
 	&__content {
 		position: relative;
+		margin-top: 1rem;
 
 		&:after {
 	      content: "";
@@ -68,7 +75,6 @@
 		text-align: center;
 		width: max-content;
 		border-bottom: 2px solid;
-		margin-bottom: 1rem;
 		text-transform: uppercase;
 	}
 

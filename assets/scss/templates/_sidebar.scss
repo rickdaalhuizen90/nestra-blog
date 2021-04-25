@@ -1,0 +1,36 @@
+.sidebar {
+	padding: 0 2rem;
+
+	a {
+		color: $text-color;
+		font-weight: 500;
+	}
+
+	&__posts {
+		display: flex;
+		flex-direction: column;
+	}
+
+	&__post {
+		display: flex;
+		align-items: center;
+		justify-content: start;
+		margin-bottom: 1rem;
+	}
+
+	&__post-thumb {
+		height: 94px;
+		width: 100%;
+		max-width: 94px;
+		border-radius: 50%;
+		background-position: 50%;
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+
+	&__post-date {
+		&:before {
+			content: "- ";
+		}
+	}
+}

@@ -25,7 +25,7 @@
     <div class="row justify-content-center">
       {{ if or  .Site.Params.mobile .Site.Params.location .Site.Params.email }}         
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Contact Me</h6>
+        <h6 class="mb-4">Hubungi saya</h6>
         <ul class="list-unstyled">
           {{ if .Site.Params.mobile }}
           <li class="mb-3"><a class="text-dark" href="tel:{{ .Site.Params.mobile }}"><i
@@ -43,7 +43,7 @@
       </div>
       {{ end }}
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Social Contacts</h6>
+        <h6 class="mb-4">Kontak Sosial </h6>
         <ul class="list-unstyled">
           {{ range .Site.Params.social }}
           <li class="mb-3"><a class="text-dark" href="{{ .link | safeURL }}">{{ .title }}</a></li>
@@ -51,7 +51,7 @@
         </ul>
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Categories</h6>
+        <h6 class="mb-4">Kategori</h6>
         {{- if isset .Site.Taxonomies "categories" }}
         {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
         <ul class="list-unstyled">
@@ -65,7 +65,7 @@
         {{- end }}
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Quick Links</h6>
+        <h6 class="mb-4">Tautan langsung </h6>
         <ul class="list-unstyled">
           {{ range .Site.Menus.footer }}
           <li class="mb-3"><a class="text-dark" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
@@ -85,11 +85,11 @@
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
-<script src="{{ .URL | absURL }}"></script>
+<script src="{{ .URL | absURL }}" rel="dns-prefetch" defer></script>
 {{ end }}
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
-<script src="{{ $script.Permalink }}"></script>
+<script src="{{ $script.Permalink }}" rel="dns-prefetch" defer></script>
 
 <!-- cookie -->
 {{ if site.Params.cookies.enable }}
