@@ -51,20 +51,25 @@ timeout = 30000
   weight = 1
 
   [[menu.main]]
-  name = "Post"
-  URL = "blog"
+  name = "Resep"
+  URL = "resep"
   weight = 2
+
+  [[menu.main]]
+  name = "Artikel"
+  URL = "artikel"
+  weight = 3
 
   # main menu
   [[menu.main]]
   name = "Tentang"
   URL = "tentang"
-  weight = 3
+  weight = 4
 
   #[[menu.main]]
   #name = "Contact"
   #URL = "contact"
-  #weight = 4
+  #weight = 5
 
   # footer menu
   [[menu.footer]]
@@ -72,21 +77,25 @@ timeout = 30000
   URL = "/"
   weight = 1
 
-  [[menu.footer]]
-  name = "Post"
-  URL = "blog"
+  [[menu.main]]
+  name = "Resep"
+  URL = "resep"
   weight = 2
+
+  [[menu.main]]
+  name = "Artikel"
+  URL = "artikel"
+  weight = 3
 
   [[menu.footer]]
   name = "Tentang"
   URL = "tentang"
-  weight = 3
+  weight = 4
 
   #[[menu.footer]]
   #name = "Contact"
   #URL = "contact"
-  #weight = 3
-
+  #weight = 5
 
 #################### default parameters ################################
 [params]
@@ -148,17 +157,17 @@ link = "https://www.facebook.com/nestra.phun"
 #link = "javascript:void(0)"
 
 ############################# deploy ########################
-#[[deployment.matchers]]
+[[deployment.matchers]]
 #  Cache static assets for 1 year.
-#pattern = "^.+\\.(js|css|svg|ttf)$"
-#cacheControl = "max-age=31536000, no-transform, public"
-#gzip = true
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
 
-#[[deployment.matchers]]
-#pattern = "^.+\\.(png|jpg)$"
-#cacheControl = "max-age=31536000, no-transform, public"
-#gzip = false
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
 
-#[[deployment.matchers]]
-#pattern = "^.+\\.(html|xml|json)$"
-#gzip = true
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
