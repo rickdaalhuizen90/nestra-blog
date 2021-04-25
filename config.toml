@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-languageCode = "en-us"
-title = "Neztra | Personal blog template"
+baseURL = "https://neztra.com"
+languageCode = "id-in"
+title = "Neztra | Website resipe sehat"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -94,7 +94,7 @@ home = "Beranda"
 description = "Situs web pecinta kuliner tempat Anda dapat menemukan resep sehat tentang vegan, keto, dan masih banyak lainya."
 author = "Neztra"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "G-P0WW95WJ14"
 # Contact Information
 mobile = ""
 email = "info@neztra.com"
@@ -128,17 +128,17 @@ expire_days = 2
 [[params.social]]
 title = "pinterest"
 icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
-link = "javascript:void(0)"
+link = "https://nl.pinterest.com/ineztraphun/"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "javascript:void(0)"
+link = "https://www.instagram.com/nestra_phun/"
 
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "javascript:void(0)"
+link = "https://www.facebook.com/nestra.phun"
 
 #[[params.social]]
 #title = "linkedin"
