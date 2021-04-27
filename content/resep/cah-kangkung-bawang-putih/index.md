@@ -1,6 +1,6 @@
 ---
 title: "Cah Kangkung"
-date: 2021-04-24 11:16
+date: "2021-04-24T13:43:40+00:00"
 draft: false
 
 # meta description
@@ -11,9 +11,9 @@ image: "banner.png"
 
 # taxonomies
 categories:
-  - "Keto Recipe"
-  - "vegan Recipe"
-  - "vegetarian Recipe"
+  - "Resep Keto"
+  - "Resep Vegan"
+  - "Resep Vegetarian"
   
 # post tags
 tags:

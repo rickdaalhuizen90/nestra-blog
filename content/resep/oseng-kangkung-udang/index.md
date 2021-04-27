@@ -11,7 +11,7 @@ image: "banner.png"
 
 # taxonomies
 categories:
-  - "Keto Recipe"
+  - "Resep Keto"
   
 # post tags
 tags:
@@ -82,7 +82,7 @@ __Bahan__
 - Masukan kangkung dan air. Aduk-aduk masak dengan api besar hingga layu.
 - Kecilkan api masukan gula, kaldu jamur dan garam. Masak hingga matang, angkat.
 - Hidangkan oseng kangkung ketika masih hangat.
-{{< /steps>}}ß
+{{< /steps>}}
 
 >Masak cah kangkung tidak lebih dari 3 menit.
 

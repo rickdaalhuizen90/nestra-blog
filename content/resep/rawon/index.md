@@ -11,7 +11,7 @@ image: "banner.png"
 
 # taxonomies
 categories:
-  - "Keto Recipe"
+  - "Resep Keto"
 
 # post tags
 tags:
@@ -45,7 +45,7 @@ Resep rawon diet keto saya menggunakan daging sandung lamur. Jika ada lemak yang
 
 Berikut simak resep dan cara membuat Rawon untuk diet Keto.
 
-{{< post-info prep="20 menit" cook="menit" total="25 menit" serving="4">}}
+{{< post-info prep="20 menit" cook="25 menit" total="45 menit" serving="4">}}
 
 __Bahan Rawon__
 
