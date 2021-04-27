@@ -1,10 +1,16 @@
 ---
 title: "Rendang Daging"
-date: 2021-04-14 14:18
+date: "2021-04-14T13:43:40+00:00"
 draft: false
 
 # meta description
 description: "Resep rendang daging sapi yang sehat dan bergizi. Sangat ramah untuk diet keto."
+
+# featured image
+image: "banner.png"
+
+# featured image
+image: "banner.png"
 
 # taxonomies
 categories:

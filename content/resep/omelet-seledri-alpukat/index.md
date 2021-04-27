@@ -6,6 +6,14 @@ draft: false
 # meta description
 description: "Resep omelet seledri alpukat yang lezat dan creamy. Ramah untuk keto dan vegetarian."
 
+image: "banner.png"
+
+# featured image
+image: "banner.png"
+
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

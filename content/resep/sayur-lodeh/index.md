@@ -6,6 +6,9 @@ draft: true
 # meta description
 description: "Resep sayur lodeh yang sehat dan lezat. Menu makanan vegan yang menggugah selera"
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

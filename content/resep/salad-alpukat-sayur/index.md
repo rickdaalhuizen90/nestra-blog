@@ -6,6 +6,12 @@ draft: false
 # meta description
 description: "Resep salad alpukat sayur yang sehat dan bergizi. Menu  makanan keto dan vegan."
 
+# featured image
+image: "banner.png"
+
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

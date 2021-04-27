@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep sate ayam bumbu kacang yang gurih dan lezat. Sangat ramah untuk diet keto."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

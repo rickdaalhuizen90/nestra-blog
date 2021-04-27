@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep cah kangkung bawang putih yang segar dan lezat. Menu makanan diet keto dan vegan ."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

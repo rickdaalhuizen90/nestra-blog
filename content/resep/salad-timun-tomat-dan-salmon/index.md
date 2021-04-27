@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Menu hidangan salad diet keto yang segar dan seha. Layak dijadikan menu hidangan sehari-hari."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

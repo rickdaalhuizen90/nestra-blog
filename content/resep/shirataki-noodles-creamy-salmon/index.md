@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep mie salmon creamy rendah karbohidrat, Sangat ramah untuk diet keto"
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

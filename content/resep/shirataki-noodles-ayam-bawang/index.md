@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep mie ayam bawang yang segar dan lezat, menu makanan diet keto yang sehat."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

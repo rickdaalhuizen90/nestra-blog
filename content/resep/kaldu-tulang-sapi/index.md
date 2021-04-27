@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep Kaldu tulang sapi yang sehat dan bergizi. Sangat baik dikomsumsi setiap hari."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

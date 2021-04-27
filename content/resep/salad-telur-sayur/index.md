@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep salad telur sayur yang sehat dan simple. Menu makanan keto dan vegetarian"
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

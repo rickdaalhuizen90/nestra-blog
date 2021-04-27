@@ -17,9 +17,6 @@
           <span>{{ .PublishDate.Format "02 January 2006" }}</span>
           {{ end }}
         </div>
-        {{ if .Params.image }}
-        <img src="{{ .Params.Image | absURL }}" class="single-post__image" alt="{{ .Title | markdownify }}">
-        {{ end }}
 
         <!-- {{ if eq .Params.recipe true }}
           {{ partialCached "tags.html" . }}

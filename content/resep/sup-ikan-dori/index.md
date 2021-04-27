@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep sup ikan dori ala diet keto cepat saji. Rasanya begitu segar sanggat menggugah selera."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

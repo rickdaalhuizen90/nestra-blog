@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep mie goreng cumi sangat lezat dan menggugah selera. Sangat ramah untuk diet keto."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

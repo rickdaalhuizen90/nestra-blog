@@ -1,7 +1,11 @@
 <div class="col-md-6 mb-4">
     <article class="card">
-        {{ $image := printf "%s%s" .RelPermalink "banner.png" }}
-        <img src="{{ $image | absURL }}" class="card__img" alt="{{ .Title | markdownify }}" />
+        {{ if .Params.Image }}
+            {{ with .Resources.GetMatch (.Params.Image ) }}
+                {{ $image := .Fill "350x260 Center" }}
+                <img src="{{- $image.Relpermalink | absURL -}}" class="card__img" alt="{{ .Title | markdownify }}" />
+            {{ end }}
+        {{ end }}
         <div class="card-body px-0">
         {{ range .Params.Categories }}
         <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"

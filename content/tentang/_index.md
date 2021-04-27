@@ -4,7 +4,7 @@ date: 2019-10-29T13:49:23+06:00
 draft: false
 
 # image
-image: "images/author.jpg"
+image: "author.jpg"
 
 # meta description
 description: "Saya seorang pecinta kuliner yang suka menulis tentang makanan, kesehatan, dan hal-hal menarik lainnya."

@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep omelet alpukat keju yang simple dan sehat. Sangat ramah untuk diet ketos."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

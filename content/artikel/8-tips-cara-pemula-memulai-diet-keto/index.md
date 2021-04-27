@@ -6,6 +6,16 @@ draft: false
 # meta description
 description: "Cara diet keto agar kesehatan selalu tetap terjaga. Efektif menggapai penurunan berat badan yang ideal."
 
+banner: "banner.png"
+
+resources:
+ - name: post
+ - params:
+    title: foo
+
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Tips"

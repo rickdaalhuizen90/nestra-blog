@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep ikan goreng crispy ala diet keto yang sehat dan rendah karbohidrat."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

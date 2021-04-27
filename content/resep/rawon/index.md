@@ -6,6 +6,9 @@ draft: true
 # meta description
 description: "Resep rawon diet keto yang begitu sehat dan menggugah selera. Makanan keto yang lezat "
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

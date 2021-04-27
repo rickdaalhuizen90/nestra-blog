@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep sambal teri pete yang lezat dan tahan lama. cara membuatnya mudah dan ramah untuk diet keto."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep oseng kangkung udang yang lezat sangat menggugah selera. Sangat ramah untuk diet keto."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

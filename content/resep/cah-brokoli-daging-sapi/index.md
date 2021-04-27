@@ -5,6 +5,9 @@ draft: false
 
 # meta description
 description: "Resep cah brokoli daging sapi sehat dan lezat, ramah untuk diet ketos"
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"
@@ -38,11 +41,11 @@ Menu hidangan cah brokoli daging sapi yang lezat dan menggugah selera. Menu hida
 
 Olahan cah brokoli daging sapi ini banyak manfaatnya untuk tubuh antara lain yakni:
 
--Membantu menurunkan kadar kolesterol.
--Menambah kebutuhan vitamin.
--Menurunkan resiko penyakit kangker.
--Menambah kebutuhan vitamin.
--Membantu memelihara pencernaan.
+- Membantu menurunkan kadar kolesterol.
+- Menambah kebutuhan vitamin.
+- Menurunkan resiko penyakit kangker.
+- Menambah kebutuhan vitamin.
+- Membantu memelihara pencernaan.
 
 ## Mulai Memasak
 

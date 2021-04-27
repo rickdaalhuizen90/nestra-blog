@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep omelet daun bawang simple,sehat dan bergizi. Ramah untuk keto dan vegetarian."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

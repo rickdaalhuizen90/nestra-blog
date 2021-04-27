@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep ayam goreng crispy rendah karbohidrat ala diet keto, Sehat dan bergizi."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

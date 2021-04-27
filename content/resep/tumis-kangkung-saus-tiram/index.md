@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep tumis kangkung yang segar dan lezat. Layak menjadi menu hidangan sehari-hari ."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "food"

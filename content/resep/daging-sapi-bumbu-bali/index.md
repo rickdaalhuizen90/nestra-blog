@@ -6,6 +6,9 @@ draft: false
 # meta description
 description: "Resep daging sapi bumbu bali yang sehat dan lezat. ramah untuk diet keto."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

@@ -9,6 +9,9 @@ image: "images/post/ikan-salmon-panggang.jpg"
 # meta description
 description: "Resep ikan salmon panggang diet keto. kaya akan nutrisi yang banyak manfaatnya bagi kesehatan."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"

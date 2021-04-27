@@ -7,6 +7,9 @@ draft: false
 description: "Resep telur orak arik yang sehat dan simple. 
 Menu makanan keto dan vegetarian."
 
+# featured image
+image: "banner.png"
+
 # taxonomies
 categories:
   - "Keto Recipe"
