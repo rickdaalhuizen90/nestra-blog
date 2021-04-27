@@ -3,7 +3,7 @@
         {{ if .Params.Image }}
             {{ with .Resources.GetMatch (.Params.Image ) }}
                 {{ $image := .Fill "350x260 Center" }}
-                <img src="{{- $image.Relpermalink | absURL -}}" class="card__img" alt="{{ .Title | markdownify }}" />
+                <img src="{{- $image.Permalink | absURL -}}" class="card__img" alt="{{ .Title | markdownify }}" />
             {{ end }}
         {{ end }}
         <div class="card-body px-0">
