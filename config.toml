@@ -5,7 +5,7 @@ title = "Neztra | Website Resep Sehat"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
-disqusShortname = ""
+disqusShortname = "neztra"
 buildDrafts = false
 #ignorecache = false
 timeout = 30000 
@@ -60,17 +60,6 @@ timeout = 30000
   URL = "artikel"
   weight = 3
 
-  # main menu
-  [[menu.main]]
-  name = "Tentang"
-  URL = "tentang"
-  weight = 4
-
-  #[[menu.main]]
-  #name = "Contact"
-  #URL = "contact"
-  #weight = 5
-
   # footer menu
   [[menu.footer]]
   name = "Beranda"
@@ -87,16 +76,6 @@ timeout = 30000
   URL = "artikel"
   weight = 3
 
-  [[menu.footer]]
-  name = "Tentang"
-  URL = "tentang"
-  weight = 4
-
-  #[[menu.footer]]
-  #name = "Contact"
-  #URL = "contact"
-  #weight = 5
-
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
@@ -106,6 +85,7 @@ description = "Situs web pecinta kuliner tempat Anda dapat menemukan resep sehat
 author = "Neztra"
 # Google Analitycs
 googleAnalitycsID = "G-P0WW95WJ14"
+googleAnalytics = "G-P0WW95WJ14"
 # Contact Information
 mobile = ""
 email = "info@neztra.com"
@@ -128,12 +108,10 @@ enable = false
 title = "Join My Newsletter"
 content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
 
-
 # cookies
 [params.cookies]
 enable = true
 expire_days = 2
-
 
 ############################# social site ########################
 [[params.social]]

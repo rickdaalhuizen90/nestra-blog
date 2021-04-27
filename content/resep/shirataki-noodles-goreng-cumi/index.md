@@ -1,6 +1,6 @@
 ---
 title: "Shirataki Noodles Goreng Cumi"
-date: 2021-04-05 10:17
+date: "2021-04-05T13:43:40+00:00"
 draft: false
 
 # meta description

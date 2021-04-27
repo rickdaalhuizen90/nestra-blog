@@ -1,6 +1,6 @@
 ---
 title: "Shirataki Noodles Ayam Bawang"
-date: 2021-04-07 10:29
+date: "2021-04-07T13:43:40+00:00"
 draft: false
 
 # meta description

@@ -1,6 +1,6 @@
 ---
 title: "Telur Orak Arik"
-date: 2021-04-02 10:14
+date: "2021-04-02T13:43:40+00:00"
 draft: false
 
 # meta description

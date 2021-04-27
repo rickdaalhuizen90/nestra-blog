@@ -80,7 +80,7 @@
 </footer>
 
 <script>
-  var indexURL = {{ "index.json" | absURL }}
+  var indexURL = '{{ "index.json" | absURL }}'
 </script>
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
@@ -95,7 +95,7 @@
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">I Accept</span>
+	Situs ini menggunakan cookie. Dengan terus menggunakan situs web ini, Anda menyetujui penggunaannya. <span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">Saya menerima</span>
 </div>
 <script>
 	(function ($) {
@@ -105,7 +105,7 @@
 			cookieBox.classList.remove('cookie-box-hide');
 			cookieButton.onclick = function () {
 				Cookies.set('cookie-box', true, {
-					expires: {{ site.Params.cookies.expire_days }}
+					expires: '{{ .Site.Params.cookies.expire_days }}'
 				});
 				cookieBox.classList.add('cookie-box-hide');
 			};
