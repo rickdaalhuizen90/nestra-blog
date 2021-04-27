@@ -25,7 +25,7 @@
     <div class="row justify-content-center">
       {{ if or  .Site.Params.mobile .Site.Params.location .Site.Params.email }}         
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Hubungi saya</h6>
+        <h4 class="mb-4">Hubungi saya</h4>
         <ul class="list-unstyled">
           {{ if .Site.Params.mobile }}
           <li class="mb-3"><a class="text-dark" href="tel:{{ .Site.Params.mobile }}"><i
@@ -43,7 +43,7 @@
       </div>
       {{ end }}
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Kontak Sosial </h6>
+        <h4 class="mb-4">Kontak Sosial </h4>
         <ul class="list-unstyled">
           {{ range .Site.Params.social }}
           <li class="mb-3"><a class="text-dark" href="{{ .link | safeURL }}">{{ .title }}</a></li>
@@ -51,7 +51,7 @@
         </ul>
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Kategori</h6>
+        <h4 class="mb-4">Kategori</h4>
         {{- if isset .Site.Taxonomies "categories" }}
         {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
         <ul class="list-unstyled">
@@ -65,7 +65,7 @@
         {{- end }}
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Tautan langsung </h6>
+        <h4 class="mb-4">Tautan langsung </h4>
         <ul class="list-unstyled">
           {{ range .Site.Menus.footer }}
           <li class="mb-3"><a class="text-dark" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
@@ -79,18 +79,19 @@
   </div>
 </footer>
 
+<!-- jQuery -->
+<script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+
 <script>
   var indexURL = '{{ "index.json" | absURL }}'
 </script>
 
-<!-- Google Ads -->
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
-<script src="{{ .URL | absURL }}" rel="dns-prefetch"></script>
+<script src="{{ .URL | absURL }}" rel="dns-prefetch" defer></script>
 {{ end }}
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}

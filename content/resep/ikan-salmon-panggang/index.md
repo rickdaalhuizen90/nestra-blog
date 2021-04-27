@@ -14,7 +14,7 @@ image: "banner.png"
 
 # taxonomies
 categories:
-  - "Keto Recipe"
+  - "Resep Keto"
   
 # post tags
 tags:
@@ -44,13 +44,13 @@ Ikan salmon panggang adalah ikan salmon filet yang di beri bumbu marinasi. Di pa
 ## Apa manfaat ikan salmon?
 
 Ikan salmon banyak manfaatnya bagi tubuh untuk kesehatan yakni:
--Baik untuk jantung
--Baik untuk kulit dan rambut
--Menjaga kesehatan tulang
--Menunjang perkembangan otak pada anak-anak
--Mengatasi depresi.
--Mengandung banyak vitamin dan mineral untuk tubuh
--Sumber protein berkualitas tinggih dan asam lemak omega 3.
+- Baik untuk jantung
+- Baik untuk kulit dan rambut
+- Menjaga kesehatan tulang
+- Menunjang perkembangan otak pada anak-anak
+- Mengatasi depresi.
+- Mengandung banyak vitamin dan mineral untuk tubuh
+- Sumber protein berkualitas tinggih dan asam lemak omega 3.
 
 ## Mulai Memasak 
 

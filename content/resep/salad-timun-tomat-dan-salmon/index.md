@@ -11,7 +11,7 @@ image: "banner.png"
 
 # taxonomies
 categories:
-  - "Keto Recipe"
+  - "Resep Keto"
   
 # post tags
 tags:
@@ -59,7 +59,7 @@ Cara membuat salad timun dan tomat ini sangat mudah dan praktis. Bahan yang di b
 
 __Bahan__
 
-_ 100 gr ikan salmon asap (siap makan)
+- 100 gr ikan salmon asap (siap makan)
 - 1 buah tomat
 - 1 buah timun
 - 100 gr keju feta.

@@ -11,14 +11,14 @@
     <div class="featured-post__header--right">
       <a href="/resep">
         Tunjukkan semuanya
-        <svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 11"><g><polygon points="22.64 4.485 22.64 5.735 0 5.735 0 4.485"></polygon><polygon points="18.5 10.22 17.65 9.31 22.16 5.11 17.65 .92 18.5 0 24 5.11"></polygon></g></svg>
+        <svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" tabindex="-1" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 11"><g><polygon points="22.64 4.485 22.64 5.735 0 5.735 0 4.485"></polygon><polygon points="18.5 10.22 17.65 9.31 22.16 5.11 17.65 .92 18.5 0 24 5.11"></polygon></g></svg>
       </a>
     </div>
   </div>
   <div class="featured-post__articles slider">
     <!-- slider item -->
     {{ range first 3 ( where .Site.RegularPages "Type" "featured" )}}
-    <article class="featured-post__article">
+    <article class="featured-post__article" tabindex="-1">
       <a href="{{ .RelPermalink | absURL }}">
         {{ if .Params.Image }}
             {{ with .Resources.GetMatch (.Params.Image ) }}
