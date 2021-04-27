@@ -35,7 +35,7 @@ timeout = 30000
   [[params.plugins.js]]
   URL = "https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.6/fuse.min.js"
   [[params.plugins.js]]
-  URL = "https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"
+  URL = "plugins/search/mark.js"
   [[params.plugins.js]]
   URL = "plugins/search/search.js"
 
