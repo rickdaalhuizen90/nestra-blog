@@ -16,7 +16,7 @@ resources:
 
 # taxonomies
 categories:
-  - "Keto Tips"
+  - "Tips Keto"
 
 # post tags
 tags:

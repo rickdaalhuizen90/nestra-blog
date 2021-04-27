@@ -3,7 +3,7 @@
   <title>{{ .Site.Title }}</title>
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
@@ -15,11 +15,11 @@
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen" defer>
 
   {{ "<!-- Custom Stylesheet -->" | safeHTML }}
   {{ $custom := resources.Get "scss/custom.scss" | toCSS | minify }}
-  <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
+  <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen" defer>
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">

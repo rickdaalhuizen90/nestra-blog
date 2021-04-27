@@ -11,7 +11,7 @@ image: "banner.png"
 
 # taxonomies
 categories:
-  - "food"
+  - "Makanan"
   
 # post tags
 tags:

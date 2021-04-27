@@ -11,7 +11,7 @@ image: "banner.png"
 
 # taxonomies
 categories:
-  - "Keto bahan makanan"
+  - "Bahan makanan Keto"
   
 # post tags
 tags:
@@ -369,7 +369,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 >Jenis daging dan unggas yang segar tidak mengandung karbohidrat. Kaya akan vitamin B dan beberapa mineral yang penting.
 
-### 15 Daftar nama ikan dan seafood untuk diet keto:
+### 15 Daftar nama ikan dan seaMakanan untuk diet keto:
 
 - Salmon
 - Tuna

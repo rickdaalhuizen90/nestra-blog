@@ -12,7 +12,7 @@ image: "banner.png"
 
 # taxonomies
 categories:
-  - "Keto Recipe"
+  - "Resep Keto"
   
 # post tags
 tags:

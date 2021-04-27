@@ -13,7 +13,7 @@
           <ul class="navbar-nav mr-auto">
             {{ range .Site.Params.social }}
             <li class="nav-item">
-              <a class="nav-link" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a>
+              <a aria-label="{{ .title }}" class="nav-link" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a>
             </li>
             {{ end }}
           </ul>
@@ -46,7 +46,7 @@
         {{ if .Site.Params.search.enable }}
         {{ "<!-- search -->" | safeHTML }}
         <div class="search pl-lg-4">
-          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <button aria-label="cari" id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
           <div class="search-wrapper">
             <form action="{{ .Site.BaseURL }}/search" class="h-100">
               <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Ketik & Tekan Enter ...">

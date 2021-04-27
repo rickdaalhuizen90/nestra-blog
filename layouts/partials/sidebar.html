@@ -18,14 +18,14 @@
     <h4 class="widget-title">Social</h4>
     <ul class="list-inline social-links">
       {{ range .Site.Params.social }}
-      <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+      <li class="list-inline-item"><a aria-label="{{ .title }}" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
       {{ end }}
     </ul>
   </div>
   <!-- Trending -->
   <div class="widget">
     <h4 class="widget-title">Trending</h4>
-    <ul class="list-inline">
+    <div class="list-inline">
       {{ range first 5 (where .Site.RegularPages "Type" "featured") }}
       <div class="sidebar__posts">
         <article class="sidebar__post">
@@ -42,7 +42,7 @@
         </article>
       </div>
       {{ end }}
-    </ul>
+    </div>
   </div>
   <!-- advertisement -->
   <div class="widget">

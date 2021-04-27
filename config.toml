@@ -19,28 +19,25 @@ timeout = 30000
   [[params.plugins.css]]
   URL = "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
   [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
+  URL = "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"
   [[params.plugins.css]]
   URL = "plugins/themify-icons/themify-icons.css"
   [[params.plugins.css]]
-  URL = "plugins/venobox/venobox.css"
+  URL = "https://cdnjs.cloudflare.com/ajax/libs/venobox/1.9.3/venobox.min.css"
 
   # JS Plugins
   [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery.min.js"
+  URL = "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"
   [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.min.js"
+  URL = "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"
   [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
+  URL = "https://cdnjs.cloudflare.com/ajax/libs/venobox/1.9.3/venobox.min.js"
   [[params.plugins.js]]
-  URL = "plugins/venobox/venobox.min.js"
+  URL = "https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.6/fuse.min.js"
   [[params.plugins.js]]
-  URL = "plugins/search/fuse.min.js"
+  URL = "https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"
   [[params.plugins.js]]
-  URL = "plugins/search/mark.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/search.js"
-
+  URL = "plugins/search.min.js"
 
 ############################## navigation ###############################
 [menu]
@@ -115,17 +112,17 @@ expire_days = 2
 
 ############################# social site ########################
 [[params.social]]
-title = "pinterest"
+title = "Pinterest"
 icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
 link = "https://nl.pinterest.com/ineztraphun/"
 
 [[params.social]]
-title = "instagram"
+title = "Instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/nestra_phun/"
 
 [[params.social]]
-title = "facebook"
+title = "Facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "https://www.facebook.com/nestra.phun"
 
@@ -149,6 +146,9 @@ gzip = false
 [[deployment.matchers]]
 pattern = "^.+\\.(html|xml|json)$"
 gzip = true
+
+[minify]
+  minifyOutput = true
 
 ############################# Image Processing ########################
 [imaging]
