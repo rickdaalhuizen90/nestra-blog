@@ -9,19 +9,19 @@ description: "Cara diet keto agar kesehatan selalu tetap terjaga. Efektif mengga
 # featured image
 feature: "banner.png"
 
-resources:
-- name: post
-
+# taxonomies
 categories:
-- Tips Keto
-
+  - "Tips Keto"
+  
+# post tags
 tags:
-- keto
+  - "keto"
 
-type: post
-
+# post type
+type: "post"
 ---
-{{< img src="banner.png" alt="" >}}
+
+{{< img src="banner.png" alt="8 Tips Cara Memulai Diet Keto" >}}
 
 Tips memulai diet keto agar aman dan kesehatan tubuh tetap terjaga. Tubuh tidak merasa pusing dan tidak lemah sehingga tidak jatuh sakit.
 
