@@ -33,7 +33,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 51 Daftar nama sayuran untuk diet keto:
 
-{{< img src="assets/sayuran.png" alt="Sayuran" >}}
+{{< img src="sayuran.png" alt="Sayuran" >}}
 
 - Selada
 - Selada air
@@ -91,7 +91,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 8 Daftar nama sayuran yang harus di hindari untuk diet keto:
 
-{{< img src="assets/kentang.png" alt="kentang" >}}
+{{< img src="kentang.png" alt="kentang" >}}
 
 - Lobak putih
 - Wortel
@@ -106,7 +106,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 16 Daftar nama kacang-kacangan dan biji-bijian untuk diet keto:
 
-{{< img src="assets/biji-keto.png" alt="biji-bjian" >}}
+{{< img src="biji-keto.png" alt="biji-bjian" >}}
 
 - Kacang almond
 - Kedelai hitam
@@ -129,7 +129,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 14 Daftar nama kacang-kacangan dan biji-bijian yang harus dihindari untuk diet keto:
 
-{{< img src="assets/beras.png" alt="beras" >}}
+{{< img src="beras.png" alt="beras" >}}
 
 - Beras putih
 - Beras merah
@@ -150,7 +150,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 16 Daftar nama buah untuk diet keto:
 
-{{< img src="assets/buah-keto.png" alt="buah" >}}
+{{< img src="buah-keto.png" alt="buah" >}}
 
 - Alpukat
 - Tomat
@@ -171,7 +171,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 12 Daftar nama buah yang harus dihindari untuk diet keto:
 
-{{< img src="assets/pisang.png" alt="buah" >}}
+{{< img src="pisang.png" alt="buah" >}}
 
 - Pisang
 - Nanas
@@ -186,7 +186,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 8 Daftar nama tepung untuk diet keto:
 
-{{< img src="assets/tepung-dianjurkan.png" alt="tepung" >}}
+{{< img src="tepung-dianjurkan.png" alt="tepung" >}}
 
 - Tepung kacang almond
 - Tepung biji chia
@@ -199,7 +199,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 9 Daftar nama tepung yang harus dihindari untuk diet keto:
 
-{{< img src="assets/tepung-dilarang.png" alt="tepung" >}}
+{{< img src="tepung-dilarang.png" alt="tepung" >}}
 
 - Tepung terigu
 - Tepung beras
@@ -213,7 +213,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 24 Daftar nama gula dan produk pemanis untuk diet keto:
 
-{{< img src="assets/gula-sehat.png" alt="gula" >}}
+{{< img src="gula-sehat.png" alt="gula" >}}
 
 - Gula lakanto
 - Gula xylitol
@@ -244,7 +244,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 11 Daftar nama gula dan jenis produk yang harus dihindari untuk diet keto:
 
-{{< img src="assets/gula-jawa.png" alt="gula" >}}
+{{< img src="gula-jawa.png" alt="gula" >}}
 
 - Gula merah
 - Gula tebu
@@ -262,7 +262,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 6 Daftar nama minyak yang dianjurkan untuk diet keto:
 
-{{< img src="assets/minyak-zaitun.png" alt="minyak" >}}
+{{< img src="minyak-zaitun.png" alt="minyak" >}}
 
 - Minyak zaitun (virgin olive oil)
 - Minyak kelapa
@@ -275,7 +275,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 11 Daftar nama minyak yang harus di hindari untuk diet keto.
 
-{{< img src="assets/minyak-goreng.png" alt="minyak" >}}
+{{< img src="minyak-goreng.png" alt="minyak" >}}
 
 - Minyak jagung
 - Minyak goreng
@@ -292,7 +292,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 20 Daftar nama minuman yang dianjurkan untuk diet keto:
 
-{{< img src="assets/minuman-kopi.png" alt="kopi" >}}
+{{< img src="minuman-kopi.png" alt="kopi" >}}
 
 - Teh hijau tanpa gula
 - Kopi hitam tanpa gula
@@ -319,7 +319,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 21 Daftar nama minuman yang harus dihindari untuk diet keto:
 
-{{< img src="assets/minuman.png" alt="minuman" >}}
+{{< img src="minuman.png" alt="minuman" >}}
 
 - Jus tebu
 - Jus mangga
@@ -349,7 +349,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 24 Daftar keju untuk diet keto:
 
-{{< img src="assets/keju.png" alt="keju" >}}
+{{< img src="keju.png" alt="keju" >}}
 
 - Keju cedar
 - Keju feta
@@ -381,7 +381,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 17 Daftar nama daging dan tulang untuk diet keto:
 
-{{< img src="assets/daging-sapi.png" alt="daging" >}}
+{{< img src="daging-sapi.png" alt="daging" >}}
 
 - Daging merah
 - Hati
@@ -405,7 +405,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 15 Daftar nama ikan dan makanan untuk diet keto:
 
-{{< img src="assets/seafood.png" alt="seafood" >}}
+{{< img src="seafood.png" alt="seafood" >}}
 
 - Salmon
 - Tuna
@@ -427,7 +427,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 17 Daftar nama bumbu dan rempah untuk diet keto:
 
-{{< img src="assets/bumbu.png" alt="rempah-rempah" >}}
+{{< img src="bumbu.png" alt="rempah-rempah" >}}
 
 - Garam himalaya
 - Merica
@@ -449,7 +449,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 5 Daftar nama produk shirataki untuk keto:
 
-{{< img src="assets/shirataki-noodles.png" alt="mie" >}}
+{{< img src="shirataki-noodles.png" alt="mie" >}}
 
 - Shirataki pasta
 - Shirataki spageti
@@ -461,7 +461,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 12 Daftar nama produk lainnya untuk keto:
 
-{{< img src="assets/telur.png" alt="telur" >}}
+{{< img src="telur.png" alt="telur" >}}
 
 - Mayonaise
 - Guacamole
@@ -479,7 +479,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 ### 11 Daftar nama produk yang harus dihindari untuk diet keto:
 
-{{< img src="assets/jenis-saus-dilarang.png" alt="saus" >}}
+{{< img src="jenis-saus-dilarang.png" alt="saus" >}}
 
 - Mayonaise rendah lemak
 - Kecap manis
