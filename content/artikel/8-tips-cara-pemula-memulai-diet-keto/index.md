@@ -1,31 +1,20 @@
 ---
-title: "8 Tips Cara Pemula Memulai Diet Keto"
-date: "2021-04-26T13:43:40+00:00"
-draft: false
-
-# meta description
-description: "Cara diet keto agar kesehatan selalu tetap terjaga. Efektif menggapai penurunan berat badan yang ideal."
-
-# featured image
-image: "banner.png"
-
+title: 8 Tips Cara Pemula Memulai Diet Keto
+date: 2021-04-26T13:43:40+00:00
+description: Cara diet keto agar kesehatan selalu tetap terjaga. Efektif menggapai
+  penurunan berat badan yang ideal.
+image: banner.png
 resources:
- - name: post
- - params:
+- name: post
+- params:
     title: foo
-
-# taxonomies
 categories:
-  - "Tips Keto"
-
-# post tags
+- Tips Keto
 tags:
-  - "keto"
+- keto
+type: post
 
-# post type
-type: "post"
 ---
-
 {{< img src="banner.png" alt="" >}}
 
 8 Tips untuk pemula memulai diet keto agar aman dan kesehatan tubuh tetap terjaga. Tidak merasa pusing dan tidak lemah sehingga tidak jatuh sakit. Disini saya akan membahas bagaimana cara diet keto yang tepat.
@@ -37,14 +26,15 @@ Diet keto adalah diet yang mengkomsusi tinggih lemak dan rendah karbohidrat. Pol
 ## Kenapa harus diet keto?
 
 Karena diet keto dipercaya banyak manfaatnya yakni:
-- Dapat mendukung penurunan berat badan.
-- Data membantu menghilangkan jerawat.
-- Dapat mengurangi risiko kanker tertentu.
-- Dapat meningkatkan kesehatan jantung.
-- Dapat melindungi fungsi otak.
-- Berpotensi mengurangi epilepsi
-- Dapat melawan penyakit diabetes.
-- Memperbaiki gejala PCOS.
+
+* Dapat mendukung penurunan berat badan.
+* Dapat membantu menghilangkan jerawat.
+* Dapat mengurangi risiko kanker tertentu.
+* Dapat meningkatkan kesehatan jantung.
+* Dapat melindungi fungsi otak.
+* Berpotensi mengurangi epilepsi
+* Dapat melawan penyakit diabetes.
+* Memperbaiki gejala PCOS.
 
 ## 8 Tips cara pemula memulai diet keto.
 
@@ -86,7 +76,7 @@ Cheat day ini wajib dilakukan 1minggu 1x dalam jadwal diet keto bagi pemula. Ket
 
 Cheat day ini sangat dianjurkan untuk pemula. Agar latihan diet keto bisa berjalan lancar dan kesehatan tetap terjaga. Untuk tahap level selanjutnya tidak perlu meneggunakan cheat day.
 
-  >Diet keto aman dilakukan hanya dalam jangka pendek. Yakni dalam periode waktu: 3 minggu, 1 bulan, 3 bulan, 6 bulan dan maximal sampai 1 tahun. Setelah itu biasakan gaya hidup dan pola makan yang sehat.
+> Diet keto aman dilakukan hanya dalam jangka pendek. Yakni dalam periode waktu: 3 minggu, 1 bulan, 3 bulan, 6 bulan dan maximal sampai 1 tahun. Setelah itu biasakan gaya hidup dan pola makan yang sehat.
 
 Jangan khawatir soal cheat day, karena metode cheat day ini tidak akan merusak diet keto. Melainkan menyeimbangkan kembali metabolisme tubuh. Metode cheat day juga membantu menjaga tingkat leptin kita agar tetap seimbang. Jadi cheat juga sangat positif dan penting untuk dilakukan.
 
