@@ -1,6 +1,6 @@
 {{/* get file that matches the filename as specified as src="" in shortcode */}}
 {{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
-
+{{ if $src }}
 {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
 
 {{ $tinyw := default "330x" }}
@@ -50,3 +50,4 @@
     src="{{ $src.RelPermalink }}" 
   {{ end }}
   {{ with .Get "alt" }}alt="{{.}}"{{ else }}alt=""{{ end }}/>
+{{ end }}
