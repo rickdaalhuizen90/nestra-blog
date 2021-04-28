@@ -47,6 +47,7 @@ Nah tunggu apalagi yuk! simak bagaimana dan cara membuat shirataki noodles salmo
 {{< post-info prep="10 menit" cook="15 menit" total="25 menit" serving="2">}}
 
 __Bahan__
+
 - 400 gr  ikan salmon.
 - 2 bungkus shirataki noodles basah berat 400 gr
 - 12 batang asparagu

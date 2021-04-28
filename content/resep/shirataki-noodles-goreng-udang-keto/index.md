@@ -49,6 +49,7 @@ Nah tunggu apalagi yuk! Simak resep cara membuat shirataki noodles goreng udang 
 {{< post-info prep="15 menit" cook="10 menit" total="25 menit" serving="1">}}
 
 __Bahan__
+
 - 1 bungkus shirataki noodles basah berat 400gr
 - 100 gram udang kupas
 - 1 butir telur orak arik
@@ -61,6 +62,7 @@ __Bahan__
 - 2 sdm minyak zaitun untuk menumis
 
 __Bumbu halus__
+
 - 2 siung bawang putih
 - 2 siung bawang merah
 - 1 butir kemiri

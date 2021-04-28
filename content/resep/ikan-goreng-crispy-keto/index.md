@@ -59,6 +59,7 @@ __Bahan__
 - Air untuk merebus secukupnya
 
 __Bahan marinasi__
+
 - Garam himalaya sesuai selera
 - 1/2 sdt Merica hitam
 {{< /post-info>}}

@@ -75,6 +75,7 @@ Untuk membuat kaldu babi membutuhkan tulang leher, kaki dan ham hock.
 ## Bagaimana cara mengkomsumsi kaldu tulang?
 
 Berbagai cara untuk mengkomsumsi kaldu tulang yakni:
+
 - Untuk membuat pasta
 - Untuk membuat semur
 - Untuk menanak nasi
@@ -94,6 +95,7 @@ Sangat mudah membuat kaldu tulang. Anda bisa membuat kaldu tulang menggunakan tu
 {{< post-info prep="10 menit" cook="8 jam" total="8 jam 10 menit" serving="10 (2,5L)">}}
 
 __Bahan__
+
 - 2 kg potongan sendi tulang berdaging. (tulang betis)
 - 3 sdm cuka apel (boleh skip)
 - 5 siung bawang putih
