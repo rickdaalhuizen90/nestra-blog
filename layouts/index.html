@@ -20,8 +20,8 @@
     {{ range first 3 ( where .Site.RegularPages "Type" "featured" )}}
     <article class="featured-post__article" tabindex="-1">
       <a href="{{ .RelPermalink | absURL }}">
-        {{ if .Params.Image }}
-            {{ with .Resources.GetMatch (.Params.Image ) }}
+        {{ if .Params.Feature }}
+            {{ with .Resources.GetMatch (.Params.Feature ) }}
                 {{ $image := .Fill "360x500 Center" }}
                 <div class="featured-post__image" style="background-image: url('{{- $image.Permalink | absURL -}}');" width="360" height="500" /></div>
             {{ end }}
@@ -62,8 +62,8 @@
       {{ range first 3 (where .Site.RegularPages "Type" "post")}}
       <div class="col-lg-4 small-post-border">
         <article class="media">
-          {{ if .Params.Image }}
-              {{ with .Resources.GetMatch (.Params.Image ) }}
+          {{ if .Params.Feature }}
+              {{ with .Resources.GetMatch (.Params.Feature ) }}
                   {{ $image := .Fill "135x135 Center" }}
                   <div class="recent-post-thumb mr-3" style="background-image: url('{{- $image.Permalink | absURL -}}');"></div>
               {{ end }}
@@ -100,10 +100,10 @@
           {{ range $paginator.Pages }}
           <div class="col-md-6 mb-4 article">
             <article class="card">
-              {{ if .Params.Image }}
-                  {{ with .Resources.GetMatch (.Params.Image ) }}
+              {{ if .Params.Feature }}
+                  {{ with .Resources.GetMatch (.Params.Feature ) }}
                       {{ $image := .Fill "350x260 Center" }}
-                      <img src="{{- $image.Permalink | absURL -}}" class="card__img" alt="{{ .Title | markdownify }}" width="350" height="260">
+                      <img src="{{- $image.Permalink | absURL -}}" loading="lazy" class="card__img" alt="{{ .Title | markdownify }}" width="350" height="260">
                   {{ end }}
               {{ end }}
               <div class="card-body px-0">

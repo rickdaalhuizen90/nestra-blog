@@ -1,10 +1,10 @@
 ---
-title: <% tp.user.title() %>
-date: <% tp.file.creation_date() %>
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 draft: true
 
 # post thumb
-image: "images/"
+feature: "images/"
 
 # meta description
 description: ""
@@ -15,9 +15,4 @@ categories:
 
 # post type
 type: "post"
-
-# Is Recipe
-recipe: false
 ---
-
-# <% tp.user.title() %>

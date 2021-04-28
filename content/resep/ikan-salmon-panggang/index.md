@@ -4,13 +4,13 @@ date: "2021-04-21T13:43:40+00:00"
 draft: false
 
 # post thumb
-image: "images/post/ikan-salmon-panggang.jpg"
+feature: "images/post/ikan-salmon-panggang.jpg"
 
 # meta description
 description: "Resep ikan salmon panggang diet keto. kaya akan nutrisi yang banyak manfaatnya bagi kesehatan."
 
 # featured image
-image: "banner.png"
+feature: "banner.png"
 
 # taxonomies
 categories:
@@ -35,15 +35,13 @@ serving: 2
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Menu hidangan ikan salmon panggang ala diet keto ini sangat lezat. Perpaduan dari rasa daging salmon yang renyah empuk nan gurih. Asparagus yang lembut sangat sangat menggugah selera.
+Ikan salmon panggang ala diet keto ini sangat lezat. Rasa daging salmon yang empuk nan gurih sangat menggugah selera.
 
 ## Apa itu ikan salmon panggang?
 
-Ikan salmon panggang adalah ikan salmon filet yang di beri bumbu marinasi. Di panggang di atas panggangan atau wajan telfon anti lengket. Dimasak hingga berwarna kuning kecoklatan. Sehingga menghasilkan aroma yang gurih dan rasa yang lezat.
+Ikan salmon panggang adalah ikan salmon filet di beri bumbu marinasi lalu dipanggang. Dimasak hingga berwarna kuning kecoklatan, sehingga menghasilkan aroma gurih dan rasa yang lezat.
 
-## Apa manfaat ikan salmon?
-
-Ikan salmon banyak manfaatnya bagi tubuh untuk kesehatan yakni:
+## Manfaat ikan salmon
 
 - Baik untuk jantung
 - Baik untuk kulit dan rambut
@@ -55,16 +53,13 @@ Ikan salmon banyak manfaatnya bagi tubuh untuk kesehatan yakni:
 
 ## Mulai Memasak 
 
-
-Ikan salmon adalah ikan yang layak di komsumsi sehari-hari. Cara membuatnya sangat mudah dan cepat. Resep hidangan ini begitu lezat dan siap di nikmati dalam hitungan menit. 
-
-Berikut simak resepnya di bawah ini.
+Resep hidangan ini begitu lezat dan siap di nikmati dalam hitungan menit. Cara membuatnya sangat mudah dan cepat. 
 
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="2">}}
 
 __Bahan__
 
-- 500 gr filet ikan salmon,
+- 500 gr filet ikan salmon
 - 12 batang asparagus
 - 2 sdm air jeruk nipis
 - 1 siung bawang putih cincang halus
@@ -81,19 +76,19 @@ __Bahan marinasi__
 
 {{< steps title="Cara membuat">}}
 - Cuci asparagus,tiriskan.
-- Masukan air kedalam panci, nyalakan api rebus hingga mendidih.
+- Rebus air dalam panci hingga mendidih.
 - Masukan asparagus, rebus selama 3 menit lalu angkat tiriskan.
-- Cuci bersih ikan salmon. Potong menjadi 2 bagian lalu lumuri dengan perasan air jeruk nipis. Diamkan 5 menit dan bilas hingga bersih.
-- Keringkan ikan salmon dengan tisu atau lap bersih. Masukan ikan salmon ke dalam tepak.
-- Lumuri ikan salmon dengan bumbu marinasi sampai merata. Tutup rapat tepak masukan ke dalam kulkas selama 10 menit.
-- Ambil salmon dari kulkas. Panaskan wajan teflon masukan minyak zaitun.
-- Setelah panas masukan ikan salmon masak dengan api sedang/besar. Bolak balik ikan salmon di dua sisi. sMasak selama 3 menit sampai berwarna kuning kemasan.
-- Masukan bawang putih dan mentega masak hingga harum (sekitar 1menit). Angkat.
+- Cuci bersih ikan salmon, potong menjadi 2,  lumuri dengan perasan air jeruk nipis. Diamkan 5 menit dan bilas hingga bersih.
+- Keringkan ikan salmon dengan tisu atau lap bersih.
+- Lumuri ikan salmon dengan bumbu marinasi selama 10 menit.
+- Panaskan wajan teflon masukan minyak zaitun.
+- Masukan ikan salmon masak dengan api sedang/besar. Bolak balik salmon di dua sisi. Masak sampai berwarna kecoklatan.
+- Masukan bawang putih dan mentega masak hingga harum, angkat.
 - Tata asparagus dan salmon ke dalam piring. Hidangkan ketika masih hangat.
 {{< /steps>}}
 
->Sayur asparagus bisa di gantikan dengan brokoli, buncis atau bayam.
+> Sayur asparagus bisa di gantikan dengan brokoli, buncis atau bayam.
 
 Menu hidangan ini sangat cocok di hidangkan di malam hari. Dengan di sandingkan secangkir teh hijau bebas gula.
 
-Demikian resep ikan salmon goreng diet ala keto dari saya. Semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya dan jangan lupa di share ya:)
+Demikian resep ikan salmon goreng diet ala keto dari saya. Semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya:)

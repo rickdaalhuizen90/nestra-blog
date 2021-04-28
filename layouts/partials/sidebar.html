@@ -3,8 +3,8 @@
   <div class="widget">
     {{ with .Site.GetPage "/tentang" }}
     <h4 class="widget-title">{{ .Title | markdownify }}</h4>
-    {{ if .Params.Image }}
-        {{ with .Resources.GetMatch (.Params.Image ) }}
+    {{ if .Params.Feature }}
+        {{ with .Resources.GetMatch (.Params.Feature ) }}
             {{ $thumb := .Fill "165x165 Center" }}
             <img src="{{- $thumb.Permalink | absURL -}}" alt=""
                 class="img-fluid author-thumb-sm d-block mx-auto rounded-circle mb-4" width="165" height="165" />
@@ -29,8 +29,8 @@
       {{ range first 5 (where .Site.RegularPages "Type" "featured") }}
       <div class="sidebar__posts">
         <article class="sidebar__post">
-          {{ if .Params.Image }}
-              {{ with .Resources.GetMatch (.Params.Image ) }}
+          {{ if .Params.feature }}
+              {{ with .Resources.GetMatch (.Params.feature ) }}
                   {{ $thumb := .Fill "135x135 Center" }}
                   <div class="sidebar__post-thumb mr-3" style="background-image: url('{{- $thumb.Permalink  | absURL -}}');"></div>
               {{ end }}

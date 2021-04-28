@@ -7,7 +7,7 @@ draft: false
 description: "Resep rawon diet keto yang begitu sehat dan menggugah selera. Makanan keto yang lezat "
 
 # featured image
-image: "banner.png"
+feature: "banner.png"
 
 # taxonomies
 categories:
@@ -32,20 +32,17 @@ serving: 4
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Menu hidangan rawon yang sehat dan bergizi. Pada umumnya rawon menggunakan daging sapi dan menggunakan bumbu kluwek. Sehingga menghasilkan kuah berwarna hitam yang khas dan memiliki rasa yang lezat .
+Pada umumnya rawon menggunakan daging sapi dan menggunakan bumbu kluwek. Sehingga menghasilkan kuah berwarna hitam yang khas dan memiliki rasa yang lezat .
 
 ## Apa itu rawon?
 
-Rawon berasal dari kuliner khas Jawa Timur negara Indonesia.
-Rawon adalah olahan masakan daging berkuah kaldu yang berwarna hitam. Dengan menggunakan bumbu kluwek, masakan rawon memiliki aroma dan rasa yang khas. 
+Rawon berasal dari kuliner khas Jawa Timur negara Indonesia. Rawon adalah olahan daging berkuah warna hitam dan memiliki citarasa aroma yang khas.
 
 ## Mulai Memasak
 
-Resep rawon diet keto saya menggunakan daging sandung lamur. Jika ada lemak yang menempel di daging bisa di ambil dan di buang. Jangan mengkomsumsi lemak jahat karena tidak sehat. 
+Resep rawon diet keto saya menggunakan daging sandung lamur. Jika ada lemak yang menempel di daging bisa di ambil dan di buang. 
 
-Berikut simak resep dan cara membuat Rawon untuk diet Keto.
-
-{{< post-info prep="20 menit" cook="25 menit" total="45 menit" serving="4">}}
+{{< post-info prep="20 menit" cook="35 menit" total="55 menit" serving="4">}}
 
 __Bahan Rawon__
 
@@ -84,28 +81,24 @@ __Bahan Sambal__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
-- Blender bumbu halus hingga halus.
 - Rebus daging sapi selama 15 menit. Angkat daging siram dengan air dingin potong-potong sesuai selera, sisihkan
-- Buang air rebusan daging. Rebus air yang baru 2,5 liter. Masukan kaldu sapi dan daging. Masak sampai mendidih.
-- Siapkan wajan panaskan minyak. Masukan bumbu halus, sereh, laos, daun salam dan daun jeruk purut. Aduk-aduk sampe layu dan harum.
+- Buang air rebusan daging. Rebus air yang baru 2,5 liter bersama kaldu sapi dan daging.
+- Siapkan wajan panaskan minyak. Masukan bumbu halus, sereh, laos, daun salam dan daun jeruk purut. Aduk-aduk hingga harum.
 - Masukan bumbu ke dalam panci rebusan. Tambahkan garam merica, kaldu jamur, gula dan daun bawang.
 - Masak hingga empuk dan matang sempurna, tes rasa, angkat.
 {{< /steps>}}
 
 {{< steps title="Cara membuat sambal">}}
-- Rebus bawang putih dan cabe rawit hingga matang, angkat tiriskan.
-- Siapkan cobek. Ambil sejumput garam lalu masukan bawang putih dan cabe. Ulek sampai halus.
+- Rebus bawang putih dan cabe rawit hingga empuk, angkat tiriskan.
+- Siapkan cobek. Ambil sejumput garam lalu masukan bawang putih dan cabe. Haluskan.
 {{< /steps>}}
 
 {{< steps title="Cara penjanyajian">}}
- - Ambil semangkuk rawon sandingkan dengan sambal dan tauge. Hidangkan ketika masih hangat.
+ - Ambil semangkuk rawon hangat sandingkan dengan sambal dan tauge.
 {{< /steps>}}
 
 > Semangkuk Rawon keto bisa di sajikan dengan sebutir telur rebus atau telur asin
 
-
-Hidangan rawon ala diet keto ini sangat lezat dan menggugah selera. Perpaduan dari rasa daging yang empuk. Kuah yang gurih dan sambal tauge yang pedas dan segar. Membuat menu hidangan rawon ini begitu spesial.
-
 Menu hidangan ini sangat cocok dihidangkan di siang atau sore hari. Dengan disandingkan semangkuk nasi shirataki dan segelas teh hijau bebas gula.
 
-Demikian resep rawon diet ala keto dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa di share ya :)
+Demikian resep rawon diet ala keto dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like,komen dan share ya :)

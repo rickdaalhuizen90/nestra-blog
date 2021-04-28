@@ -7,10 +7,10 @@ draft: false
 description: "Resep rendang daging sapi yang sehat dan bergizi. Sangat ramah untuk diet keto."
 
 # featured image
-image: "banner.png"
+feature: "banner.png"
 
 # featured image
-image: "banner.png"
+feature: "banner.png"
 
 # taxonomies
 categories:
@@ -39,11 +39,15 @@ Menu hidangan masakan daging redang yang lezat. Dengan menggunakan anekah bumbu 
 
 ## Apa itu rendang daging?
 
-Rendang daging adalah makanan khas negara Indonesia, Minangkabau, Sumatra barat. Rendang daging ini berasal dari kata "Maradang" yang artinya proses memasak menghilangkan air. Rendang daging ini sangat populer di seluruh Indonesia maupun di seluruh dunia. Masakan ini juga cukup mudah ditemukan di restaurant Padang di seluruh penjuru Indonesia.
+Rendang daging adalah makanan khas Minangkabau, Indonesia, Sumatra barat. Rendang daging ini berasal dari kata "Maradang" artinya proses memasak menghilangkan air.
+
+Rendang daging ini sangat populer di seluruh Indonesia maupun di seluruh dunia. Masakan ini juga cukup mudah ditemukan di restaurant Padang di seluruh penjuru Indonesia.
 
 ## Mulai Memasak
 
- Membuat hidangan rendang daging, pililah daging khas dalam. Agar mudah empuk. Berikut simak resep dan cara membuat rendang sapi ala diet keto yang lezat dan simple.
+ Membuat hidangan rendang daging pililah daging khas dalam. Agar mudah empuk. 
+ 
+ Berikut simak resep dan cara membuat rendang sapi ala diet keto yang lezat dan simple.
 
 {{< post-info prep="10 menit" cook="50 menit" total="1 jam" serving="4">}}
 
@@ -73,23 +77,20 @@ __Bumbu halus__
 - 3 cm jahe kupas bakar
 - 1 sdt ketumbar sangrai
 - 3 cm kunyit bakar
-- 
+
 
 __Cara membuat__
 
 - Cuci daging dan potong-potong sesuai selera, tiriskan.
-- Blender bumbu halus hingga halus.
-- Siapkan wajan panaskan minyak zaitun. Masukan bumbu halus, salam, daun jeruk, sereh, laos dan daging. Masak sampai harum.
+- Siapkan wajan panaskan minyak. Masukan bumbu halus, salam, daun jeruk, sereh, laos dan daging. Masak sampai harum.
 - Masukan santan dan kaldu sapi. Aduk-aduk masak sampai mendidih dan kuah menyusut. Kecilkan api.
 - Masukan garam, gula dan kaldu jamur. Tes rasa, angkat.
-- Hidangkan daging rendang ketika hangat. Atau juga bisa dihidangkan dengan suhu ruang (dingin).
+- Hidangkan daging rendang ketika masih hangat.
 
 {{< /post-info>}}
 
 >Jika menggunakan daging biasa, tambahkan air masak hingga daging empuk.
 
-Menu hindangan rendang daging ini begitu lezat. Perpaduan rasa daging yang empuk dan bumbu rendang yang sedap sangat mengguggah selera.
-
 Hidangan rendang daging keto ini sangat cocok dihidangkan di siang maupun malam hari. Dengan di sandingkan dengan nasi shirataki dan secangkir teh hijau bebas gula.
 
-Demikian artikel resep dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa di share ya :)
+Demikian artikel resep dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

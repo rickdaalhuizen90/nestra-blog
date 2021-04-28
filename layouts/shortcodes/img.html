@@ -27,6 +27,7 @@
 
 <img
  	class="single-post__image"
+  loading="lazy"
   width="800"
   height="500"
   {{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 35em) 1200px, 100vw"{{ end }}

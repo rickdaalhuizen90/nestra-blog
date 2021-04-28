@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "2c8463e873fcd919",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5aee38ffde7e844",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet -keto/index.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e976198d308e42f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "artikel/8-tips-cara-memulai-diet-keto/index.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13bced53d57a4462",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8eff0ad12584334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f03f916b8258d76e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "86d3ef2fa545b69d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260
+  },
+  "right": {
+    "id": "c310a4d4ff100904",
+    "type": "split",
+    "children": [
+      {
+        "id": "664946074b0feece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "827cf7b037fe1502",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet -keto/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d5aee38ffde7e844",
+  "lastOpenFiles": [
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet -keto/index.md",
+    "artikel/8-tips-cara-memulai-diet-keto/index.md",
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet -keto/391006214_5e4cb3157b_o.jpg",
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet -keto/beras.png",
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet -keto/telur.png",
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet -keto/tepung-dianjurkan.png",
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet -keto/tepung-dilarang.png",
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet -keto/kentang.png",
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet -keto/jenis-saus-dilarang.png",
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet -keto/gula-sehat.png"
+  ]
+}

@@ -91,7 +91,7 @@
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
-<script src="{{ .URL | absURL }}" rel="dns-prefetch" defer></script>
+<script src="{{ .URL | absURL }}" rel="dns-prefetch" preload></script>
 {{ end }}
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
