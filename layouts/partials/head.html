@@ -8,6 +8,9 @@
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
 
+  {{ "<!-- coil -->" | safeHTML }}
+  <meta name="monetization" content="$ilp.uphold.com/PMDha7R3yZgG">
+
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .URL | absURL }} ">
