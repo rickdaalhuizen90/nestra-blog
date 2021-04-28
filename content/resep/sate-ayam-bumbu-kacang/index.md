@@ -7,7 +7,7 @@ draft: false
 description: "Resep sate ayam bumbu kacang yang gurih dan lezat. Sangat ramah untuk diet keto."
 
 # featured image
-image: "banner.png"
+feature: "banner.png"
 
 # taxonomies
 categories:
@@ -32,30 +32,26 @@ serving: 4
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Menu hidangan sate ayam bumbu kacang yang rendah karbohidrat. Sehingga aman di komsumsi untuk diet keto maupun penderita diabetes. Meskipun rendah karbohidrat menu hidangan ini tetap lezat dan gurih sangat menggugah selera.
+Menu hidangan sate ayam bumbu kacang yang rendah karbohidrat. Sehingga aman di komsumsi untuk diet keto maupun penderita diabetes.
 
 ## Apa itu sate ayam bumbu kacang?
 
-Sate ayam adalah olahan dada ayam filet yang dipotong dadu dan di marinasi. Lalu di tusuk sate dan di bakar/dipanggang. Sehingga menghasilkan aroma yang khas dan rasa yang gurih. Dengan di hidangkan bersama bumbu kacang yang membuat hidangan ini sangat lezat.
+Sate ayam adalah olahan dada ayam dipotong dadu dan di marinasi. Ditusuk sate dan di bakar ataun dipanggang. Dihidangkan bersama bumbu kacang yang membuat hidangan ini sangat lezat.
 
-## Apa manfaat sate ayam bumbu kacang?
-
-Sate ayam bumbu kacang ini banyak manfaatnya bagi tubuh. Salah satunya yakni:
+## Manfaat daging ayam
 
 - Mengandung vitamin dan mineral yang baik untuk tubuh.
-- Kaya akan protein.
-- Menurunkan berat badan.
-- Mengandung senyawa anti kanker.
-- Mengontrol tekanan darah.
+- Kaya akan protein
+- Menurunkan berat badan
+- Mengandung senyawa anti kanker
+- Mengontrol tekanan darah
 - Menguatkan tulang
 - Meningkatkan masa otot
-- Memperbaiki mood, dll.
+- Memperbaiki mood, dll
 
 ## Mulai Memasak
 
 Resep menu hidangan ini menggunakan bahan-bahan yang sehat. Sehingga menghasilkan rasa yang lezat dan juga sehat. 
-
-Berikut resep hidangan sate ayam bumbu kacang di bawah ini.
 
 {{< post-info prep="30 menit" cook="20 menit" total="50 menit" serving="4">}}
 
@@ -87,27 +83,25 @@ __Bumbu kacang__
 
 {{< steps title="Cara membuat kacang">}}
 - Panaskan wajan sangrai kacang, cabe merah dan bawang putih hingga matang. Sisihkan
-- Masukan air dalam blender. Blender kacang tanah, bawang putih dan cabe merah.
-- Panaskan wajan masukan bumbu kacang, gula jawa, kecap manis, kaldu jamur dan garam.
+- Haluskan kacang tanah, bawang putih dan cabe merah.
+- Panaskan wajan. Masukan bumbu kacang, gula jawa, kecap manis, kaldu jamur air dan garam.
 - Masak sampe mendidih sambil diaduk-aduk sampe kuah menyusut. Tes rasa, angkat.
 {{< /steps>}}
 
 {{< steps title="Cara membuat sate ayam">}}
-- Cuci ayam hingga bersih lalu lumuri ayam dengan perasan air jeruk nipis. Diamkan 10 menit bilas hingga bersih.
+- Cuci ayam hingga bersih lalu lumuri ayam dengan perasan air jeruk nipis. Diamkan 10 menit, bilas hingga bersih.
 - Keringkan ayam dengan tisu atau lap bersih lalu potong dadu sesuaikan sampe 20 tusuk.
 - Ambil wadah masukan potongan ayam dalam wadah. Masukan bumbu marinasi aduk-aduk sampai rata.
 - Ambil tusuk sate, tusukan ayam di tusuk sate. 
-- Bakar/panggang semua ayam bergantian di atas bara api. Sambil di bolak balik hingga matang, angkat.
+- Panggang semua ayam bergantian di atas bara api. Sambil di bolak balik hingga matang, angkat.
 {{< /steps>}}
 
 {{< steps title="Cara penyajian">}}
-- Ambil piring saji,  tata 10 tusuk sate ke dalam piring saji. Hidangkan sate ayam bersama bumbu kacang dan cabe rawit ketika masih hangat.
+- Tata 10 tusuk sate ke dalam piring. Hidangkan bersama bumbu kacang dan cabe rawit ketika masih hangat.
 {{< /steps>}}
 
 >Untuk membakar ayam bisa dipanggang di atas kompor yang sudah dipasang alat pangagangan. Juga bisa diatas teflon maupun di oven
 
-Menu hidangan sate ayam bumbu kacang ini sangat lezat dan menggugah selera. Perpaduan dari rasa ayam yang empuk dan bumbu kacang yang gurih.  Membuat hidangan ini sangat special.
-
 Menu hidangan ini sangat cocok di dihidangkan di sore hari. Dengan di sandingkan semangkuk nasi shirataki dan teh hijau bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dansalam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya:)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dansalam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya:)

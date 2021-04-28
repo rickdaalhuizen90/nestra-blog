@@ -7,7 +7,7 @@ draft: false
 description: "Resep sambal teri pete yang lezat dan tahan lama. cara membuatnya mudah dan ramah untuk diet keto."
 
 # featured image
-image: "banner.png"
+feature: "banner.png"
 
 # taxonomies
 categories:
@@ -32,17 +32,15 @@ serving: 4
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Menu hidangan sambal teri pete ini begitu gurih,lezat dan menggugah selera. Cara membuatnya sangat mudah dan bahannya ramah di kantong. Menu hidangan sambal ini sangat sehat dan ramah untuk diet keto.
+Hidangan sambal ini teri pete ini adalah menu favorit orang Indonesia. Menu hidangan sambal ini sangat gurih dan lezat.
 
 ## Apa itu sambal teri pete?
 
-Sambal teri pete adalah olahan sambal yang di goreng ditambahkan teri dan pete. Di bumbui di campur menjadi satu. Sehingga menghasilkan aroma pete yang khas dan lezat. Hidangan sambal ini adalah menu favorit orang Indonesia.
+Sambal teri pete adalah olahan sambal yang di goreng ditambahkan teri dan pete. Dibumbui di campur menjadi satu, sehingga menghasilkan aroma pete yang khas dan lezat. 
 
 ## Mulai Memasak
 
 Menu hidangan sambal yang simple dan sehat. Tak hanya rasanya yang lezat tapi sambal teri pete ini juga tahan lama. 
-
-Ayo simak resep sambal teri pete di bawah ini.
 
 {{< post-info prep="10 menit" cook="30 menit" total="40 menit" serving="4">}}
 
@@ -60,8 +58,8 @@ __Bahan__
 
 {{< steps title="Cara membuat">}}
 - Kupas pete sisihkan.
-- Petik tangkai cabe rawit dan cabe keriting. Lalu cuci bersih.
-- Masukan cabe rawit, cabe keriting dan minyak zaitun, ke dalam blender. Blender hingga halus.
+- Petik tangkai cabe rawit dan cabe keriting, cuci bersih.
+- Halsukan cabe rawit, cabe keriting dan minyak zaitun.
 - Cuci bersih tomat potong-potong sesuai selera.
 - Panaskan wajan, masukan minyak zaitun. Goreng ikan teri hingga kering, angkat, sisihkan.
 - Masih dengan wajan yang sama. Jangan buang minyaknya, masukan cabe dan tomat.
@@ -74,8 +72,6 @@ __Bahan__
 
 >Pastikan airnya sudah benar-benar menyusut dan kering ketika memasak sambal. Agar sambal bisa tahan lama.
 
-Menu hidangan sambal teri pete ini begitu lezat di mulut. Perpaduan dari rasa sambal yang pedas. Rasa pete dan ikan asin yang gurih. Membuat kombinasi hidangan ini begitu sempurna.
-
 Hidangan sambal ini sangat cocok di sandingkan dengan nasi shirataki. Dengan disandingkan secangkir teh hijau bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

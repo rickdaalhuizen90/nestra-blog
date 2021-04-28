@@ -7,7 +7,7 @@ draft: true
 description: "Resep sayur lodeh yang sehat dan lezat. Menu makanan vegan yang menggugah selera"
 
 # featured image
-image: "banner.png"
+feature: "banner.png"
 
 # taxonomies
 categories:
@@ -41,9 +41,7 @@ Sayur lodeh adalah sayur berkuah santan. Sayur lodeh mempunyai banyak variasi pa
 
 ## Mulai memasak
 
-Resep mengolah lodeh yang sehat. Tidak menggunakan minyak untuk menumis.
-
-Berikut simak resepnya di bawah ini.
+Resep mengolah lodeh yang sehat, tidak menggunakan minyak untuk menumis bumbu.
 
 {{< post-info prep="10 menit" cook="20 menit" total="30 menit" serving="3">}}
 
@@ -75,15 +73,13 @@ __Bumbu halus__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Blender bumbu halus hingga halus.
--   Cuci tahu putih potong-potong. Sisihkan
--   Cuci bersih terong potong-potong. Sisihkan.
--   Masukan bumbu halus dan air ke dalam panci, masak hingga mendidih.
--   Setelah mendidih masukan laos, daun bawang daun jeruk dan salam. Masak hingga bumbu matang.
+-   Cuci tahu dan terong, potong-potong. Sisihkan
+-   Masak air hingga mendidih lalu masuka bumbu halus.
+-   Masukan laos, daun bawang daun jeruk dan salam. Masak hingga harum.
 -   Masukan tahu, terong dan cabe rawit.
 -   Masukan santan, aduk-aduk masak hingga mendidih.
 -   Masukan garam, gula dan kaldu jamur. Masak sambil terus dia aduk hingga matang. Tes rasa, angkat.
--   Tuang sayur lodeh ke dalam mangkuk. Hidangkan ketika masih hangat.
+-   Hidangkan sayur lodeh ketika masih hangat.
 {{< /steps>}}
 
 > Aduk terus ketika memasak santan agar tidak pecah. Sehingga menghasilkan rasa gurih dan creamy.

@@ -68,3 +68,7 @@
 Header Set Access-Control-Allow-Origin "*"
 Header Set Access-Control-Allow-Credentials: true
 Header set Set-Cookie: "ACookieAvailableCrossSite; SameSite=Lax; Secure"
+
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]

@@ -7,7 +7,7 @@ draft: false
 description: "Resep cah kangkung bawang putih yang segar dan lezat. Menu makanan diet keto dan vegan ."
 
 # featured image
-image: "banner.png"
+feature: "banner.png"
 
 # taxonomies
 categories:
@@ -36,15 +36,13 @@ serving: 2
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Menu hidangan cah kangkung ala diet keto yang sehat dan bergizi. Sayur kangkung memiliki rasa yang sangat menggugah selera. Cah kangkung menjadi salah satu menu favorit orang Indonesia.
+Menu hidangan cah kangkung ala diet keto yang sehat dan bergizi. Cah kangkung adalah salah satu menu favorit orang Indonesia.
 
 ## Apa itu cah kangkung?
 
-Cah kangkung adalah olahan berbahan dari sayur kangkung. Kangkung diolah dibumbui dengan bawang merah dan bawang putih. Sehingga menghasilkan rasa yang gurih dan lezat. Khas citarasa cah kangkung ini cenderung asin, gurih dan tidak begitu pedas.
+Cah kangkung adalah olahan berbahan dari sayur kangkung. Kangkung diolah dibumbui dengan bawang merah dan bawang putih. Khas citarasa cah kangkung ini cenderung asin, gurih dan tidak begitu pedas.
 
-## Apa manfaat sayur kangkung?
-
-Sayur kangkung banyak manfaatnya bagi tubuh antara lain yakni:
+## Manfaat sayur kangkung?
 
 - Menjaga kesehatan mata
 - Mencegah anemia
@@ -55,7 +53,7 @@ Sayur kangkung banyak manfaatnya bagi tubuh antara lain yakni:
 - Mencegah diabetes
 
 ## Mulai Memasak
-Cara membuat cah kangkung ini begitu simple dan praktis. Bahannya minim dan ramah di kantong. Sangat cocok menjadi menu hidangan sehari-hari.
+Cara membuat cah kangkung ini begitu simple dan praktis. Bahannya juga minim dan ramah di kantong :D
 
 Berikut simak resep cah kangkung di bawah ini.
 
@@ -75,18 +73,16 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
-- Siangi kangkung, potong-potong, belah batangnya, lalu cuci bersih.
+- Siangi kangkung, potong-potong, belah batangnya, cuci bersih.
 - Panaskan wajan, masukan minyak zaitun.
 - Masukan bawang putih, bawang merah dan cabe rawit. tumis hingga harum.
 - Masukan kangkung dan air. Aduk-aduk masak dengan api besar hingga layu.
-- Kecilkan api masukan gula, kaldu jamur dan garam. Masak hingga matang, angkat.
+- Kecilkan api masukan gula, kaldu jamur dan garam. Masak dengan api sedang hingga matang, angkat.
 - Hidangkan cah kangkung ketika masih hangat.
 {{< /steps>}}
 
->Masak cah kangkung tidak lebih dari 3 menit.
-
-Menu hidangan cah kangkung ini sangat menggugah selera. Perpaduan dari rasa kangkung yang segar nan renyah. Bumbu bawang yang gurih nan sedap sangat menggugah selera.
+> Memasak cah kangkung tidak lebih dari 3 menit.
 
 Menu hidangan ini sangat cocok di hidangkan di siang maunpun sore hari. Dengan disandingkan semangkuk nasi shirataki dan seiris buah melon.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen, share ya :)

@@ -7,7 +7,7 @@ draft: false
 description: "Resep daging sapi bumbu bali yang sehat dan lezat. ramah untuk diet keto."
 
 # featured image
-image: "banner.png"
+feature: "banner.png"
 
 # taxonomies
 categories:
@@ -32,24 +32,24 @@ serving: 4
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Menu hidangan daging sapi bumbu bali yang lezat dan bergizi. Dibumbui aneka rempah-rempah yang kaya akan cita rasa dan mempunyai aroma yang khas. Hidangan ini sangat sehat dan layak menjadi menu hidangan diet sehari-hari.
+Daging sapi bumbu bali yang lezat bikin lidah ketagihan. Hidangan ini sangat sehat dan layak menjadi menu hidangan diet sehari-hari.
 
 ## Apa itu daging sapi bumbu bali?
 
-Daging sapi bumbu bali adalah olahan yang berbahan dasar dari daging sapi. Dibumbui dengan anekah rempah-rempah. Sehingga memiliki bau harum dan memiliki warna khas yang merah. Olahan daging sapi bumbu bali adalah makanan khas dari kota Bali Indonesia.
+Daging sapi bumbu bali adalah olahan berbahan dasar dari daging sapi. Dibumbui anekah rempah-rempah, sehingga memiliki bau harum dan memiliki warna khas yang merah. Olahan daging sapi bumbu bali adalah makanan khas dari kota Bali Indonesia.
 
-## Apa manfaat daging sapi bumbu bali untuk tubuh?
+## Manfaat daging sapi
 
-Daging sapi bumbu bali ini banyak manfaatnya bagi tubuh salah satunya yakni:
-
-- Mempertahankan masa otot.
-- Mencegah anemia.
-- Meningkatkan kinerja olahraga.
-- Mengenyangkan perut.
+- Meningkatkan masa otot
+- Mengatasi anemia
+- Meningkatkan stamina
+- Meningkatkan kekebalan tubuh
+- Menjaga berat badan
+- Kaya mineral
 
 ## Mulai Memasak
 
-Olahan daging sapi bumbu bali ini sangat menggugah selera. Kali ini saya membuat resep daging sapi bumbu bali yang lezat dan sehat di komsumi untuk diet keto. 
+Kali ini saya membuat resep daging sapi bumbu bali yang lezat dan sehat di komsumi untuk diet keto. 
 
 Yuk simak resep cara membuat daging bumbu bali ala diet keto di bawah ini.
 
@@ -88,11 +88,9 @@ __Bumbu halus__
 - Hidangkan daging sapi bumbu bali ketika masih hangat.
 {{< /steps>}}
 
->Jangan memotong daging terlalu tebal agar tekstur daging mudah empuk.
-
-Menu hidangan daging sapi bumbu bali ini sangat lezat di mulut. Perpaduan dari daging sapi yang empuk dan bumbu bali yang gurih dan sedap. Membuat hidangan ini terasa spesial.
+> Jangan memotong daging terlalu tebal agar tekstur daging mudah empuk.
 
 Menu hidangan ini sangat cocok di hidangkan di siang maupun sore hari. Dengan di sandingkan nasi shirataki dan segelas teh hijau bebas gula.
 
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

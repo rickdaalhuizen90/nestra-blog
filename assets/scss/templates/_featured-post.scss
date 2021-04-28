@@ -70,7 +70,9 @@
 		align-content: center;
 		padding: 1rem 0;
 		flex-wrap: wrap;
-  		gap: 0.75rem;
+    > * + * {
+      margin-left: .75rem;
+    }
 	}
 
 	&__title {

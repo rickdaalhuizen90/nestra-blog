@@ -7,7 +7,7 @@ draft: false
 description: "Resep mie ayam bawang yang segar dan lezat, menu makanan diet keto yang sehat."
 
 # featured image
-image: "banner.png"
+feature: "banner.png"
 
 # taxonomies
 categories:
@@ -32,27 +32,23 @@ serving: 1
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Hidangan mie ayam bawang ini mempunyai aroma segar dan rasanya begitu alami. Mie ayam bawang ini sangat cepat dan mudah dibuat. Menu hidangan ini mempunyai banyak nutrisi sehingga bisa menunda rasa lapar yang lama.
+Mie ayam bawang ini mempunyai aroma segar dan rasanya begitu alami. Menu hidangan ini mempunyai banyak nutrisi sehingga bisa menunda rasa lapar yang lama.
 
 ## Apa itu shirataki noodles ayam bawang?
 
 Shirataki noodles ayam bawang adalah olahan mie shirataki yang diolah dengan kaldu ayam. Di bumbui ditambahkan daging ayam filet dan sawi hijau. Sehingga menjadi hidangan mie kuah segar dengan aroma yang khas ayam bawang.
 
-## Apa manfaat shirataki noodles ayam bawang?
-
-Mie shirataki ayam bawang banyak manfaatnya bagi tubuh antara lain yakni:
+## Manfaat shirataki noodles
 
 - Membantu menurunkan berat badan.
 - Membantu menurunkan kolesterol.
 - Mencegah sembelit.
 - Aman untuk penderita diabetes.
-- Membuat rasa kenyang yang cukup lama. Sehingga tidak mudah lapar.
+- Membuat rasa kenyang bertahan lebih lama.
 
 ## Mulai Memasak
 
 Untuk penggemar makanan mie tidak usah khawatir tidak bisa makan mie ketika diet. Shirataki noodles ini solusinya, mie yang rendah karbohidrat dan ramah untuk diet keto. 
-
-Jadi tunggu apalagi yuk! simak bagaimana dan cara membuat shirataki ayam bawang ala diet keto.
 
 {{< post-info prep="10 menit" cook="10 menit" total="20 menit" serving="1">}}
 
@@ -73,19 +69,17 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
-- Ambil sarangan. Cuci shirataki noodles dengan air dingin yang mengalir sampai bersih, tiriskan.
-- Ambil sawi hijau cuci bersih potong sesuai selera tiriskan.
-- Ambil wajan panaskan minyak zaitun. Masukan bawang merah dan bawang putih masak hingga harum.
+- Cuci shirataki noodles dalam sarangan dengan air dingin sampai bersih, tiriskan.
+- Ambil sawi hijau cuci bersih potong sesuai selera, tiriskan.
+- Ambil wajan panaskan minyak. Masukan bawang merah dan bawang putih masak hingga harum.
 - Masukan kaldu ayam masak hingga mendidih.
-- Bila air sudah mendidih. Masukan irisan ayam, shirataki noodles, sawi hijau, kaldu jamur, merica bubuk dan garam. Masak selama 2,5menit, tes rasa, angkat.
-- Tuang mie shirataki kedalam mangkuk. Tambahkan telur dan taburan daun bawang. Hidangkan ketika masih hangat.
+- Masukan irisan ayam, shirataki noodles, sawi hijau, kaldu jamur, merica bubuk dan garam.
+- Masak selama 2,5menit, tes rasa, angkat.
+- Hidangkan mie ketika masih hangat bersma telur.
 {{< /steps>}}
 
->Agar tekstur dada ayam tetap empuk, masak dada ayam selama 2,5 menit.
-
-
-Menu hidangan shirataki noodles ini sangat sehat dan lezat. Perpaduan dari tekstur shirataki noodles yang kenyal. Kuah kaldu ayam yang gurih di mulut sangat menggugah selera. 
+> Gunakan sayuran dan bahan diet keto untuk membuat mie ayam bawang
 
 Menu hidangan ini sangat cocok disajikan di siang atau malam hari. Dengan di sandingkan secangkir teh hijau bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

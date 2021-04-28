@@ -1,7 +1,7 @@
 <div class="col-md-6 mb-4">
     <article class="card">
-        {{ if .Params.Image }}
-            {{ with .Resources.GetMatch (.Params.Image ) }}
+        {{ if .Params.Feature }}
+            {{ with .Resources.GetMatch (.Params.Feature ) }}
                 {{ $image := .Fill "350x260 Center" }}
                 <img src="{{- $image.Permalink | absURL -}}" class="card__img" alt="{{ .Title | markdownify }}" />
             {{ end }}

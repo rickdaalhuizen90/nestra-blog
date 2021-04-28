@@ -1,5 +1,5 @@
 ---
-title: "Ayam Goreng Tepung Crispy"
+title: "Ayam Goreng Crispy"
 date: "2021-04-25T13:43:40+00:00"
 draft: false
 
@@ -7,7 +7,7 @@ draft: false
 description: "Resep ayam goreng crispy rendah karbohidrat ala diet keto, Sehat dan bergizi."
 
 # featured image
-image: "banner.png"
+feature: "banner.png"
 
 # taxonomies
 categories:
@@ -32,25 +32,26 @@ serving: 4
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Menu hidangan ayam goreng crispy yang renyah di luar dan dagingnya lembut nan empuk di dalam. Tepung ayamnya terbuat dari tepung almond. Sehingga menjaga karbohidrat tetap rendah.
+Ayam goreng crispy yang renyah di luar dan dagingnya empuk di dalam. Tepungnya terbuat dari tepung almond, sehingga menjaga karbohidrat tetap rendah.
 
 ## Apa itu ayam goreng crispy?
 
-Ayam goreng crispy adalah olahan ayam yang di bumbui dan di balur dengan kocokan telur. Lalu dibalur tepung almond dan digoreng dengan minyak kelapa. Sehingga menghasilkan ayam yang renyah di luar dan empuk didalam.
+Ayam goreng crispy adalah olahan ayam di bumbui dan di balur dengan kocokan telur dan tepung. Digoreng dengan minyak kelapa, sehingga menghasilkan ayam goreng yang renyah dan lezat.
 
-## Apa manfaat ayam goreng crispy?
+## Manfaat dada ayam
 
-Ayam goreng crispy banyak manfaatnya bagi tubuh yakni:
-
-- sebagai sumber protein yang baik bagi otot
-- menurunkan berat badan.
-- mengontrol tekanan darah.
-- makanan rendah kolesterol.
-- mengobati flu dan ramah untuk diet keto.
+- Membantu menurunkan berat badan
+- Meningkatkan metabolisme tubuh
+- Menghasilkan energy
+- Mengurangi tekanan darah tinggih
+- Menurunkan jumlah kolesterol.
+- Sumber vitamin
 
 ## Mulai Memasak
 
-Sangat mudah membuat ayam goreng crispy ala diet keto ini. Bahan-bahannya simple dan hasilnya sangat memuaskan. yuk simak resepnya di bawah ini.
+Sangat mudah membuat ayam goreng crispy ala diet keto ini. Bahan-bahannya simple dan hasilnya sangat memuaskan.
+
+Yuk! simak resepnya di bawah ini.
 
 {{< post-info prep="15 menit" cook="10 menit" total="25 menit" serving="4">}}
 
@@ -67,23 +68,21 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
-- Cuci dada ayam, keringkan dengan tisu atau lap bersih. Potong-potong dada ayam menjadi bagian yang sama.
-- Masukan ayam kendalam wadah balur ayam dengan merica bubuk dan garam.
-- Pecahkan telur  ke dalam mangkuk. Masukan krim kental lalu kocok lepas.
+-  Potong dada ayam menjadi bagian yang sama. Cuci bersih, keringkan dengan tisu atau lap bersih.
+- Marinasi ayam dengan merica hitam dan garam.
+- Masukan krim kental dan telur ke dalam wadah, kocok lepas.
 - Ambil piring masukan tepung almond ke dalam piring.
 - Ambil loyang alasi dengan kertas roti.
-- Ambil 1 bagian ayam balurkan ke tepung almond. Bolak balik angkat balurkan ke adonan telur bolak balik. Angkat, balurkan lagi ke tepung almond bolak balik angkat taruh di atas loyang.
+- Ambil 1 bagian ayam balurkan ke tepung almond. Angkat, balurkan ke adonan telur. Angkat, balurkan lagi ke tepung almond, angkat taruh di atas loyang.
 - Ulangi sampai adonan ayam habis.
 - Ambil wajan, panaskan minyak kelapa (sampai ayam tenggelam).
-- Masukan ayam, goreng hingga berwarna coklat tua (selama 5 menit) . Ulangi  menggoreng sampai adonan ayam habis. Angkat tiriskan.
-- Tata ayam dalam piring. Hidangkan bersama saus mayonaise ketika masih hangat.
+- Masukan ayam, goreng dengan api sedang hingga berwarna coklat tua (selama 5 menit). Ulangi menggoreng sampai adonan ayam habis. Angkat tiriskan.
+- Tata ayam dalam piring, hidangkan bersama saus mayonaise ketika masih hangat.
 {{< /steps>}}
 
 
->Goreng ayam dalam suhu sekitar 190°C(minyak panas). Perlu diingat bawah suhu akan menurun ketika memasukan ayam ke dalam minyak. Pastikan untuk menaikan sedikit volume api untuk mengimbanginya. Ketika sudah seimbang api bisa dikecilkan.
-
-Menu hidangan ayam goreng crispy ini sangat lezat. Perpaduan dari rasa daging ayam yang lembut. Tepung almond yang crispy sangat menggugah selera.
+> Perlu diingat bawah suhu akan menurun ketika memasukan ayam ke dalam minyak. Pastikan untuk menaikan sedikit volume api agar seimbang. Ketika sudah seimbang api bisa dikecilkan.
 
 Menu hidangan ini sangat cocok di hidangkan di siang maupun malam hari. Dengan disandingkan secangkir teh hijau bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like,komen dan share ya :)

@@ -7,7 +7,7 @@ draft: false
 description: "Resep tumis kangkung yang segar dan lezat. Layak menjadi menu hidangan sehari-hari ."
 
 # featured image
-image: "banner.png"
+feature: "banner.png"
 
 # taxonomies
 categories:
@@ -31,15 +31,13 @@ serving: 2
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Menu hidangan tumis kangkung saus tiram yang  lezat. Rasa khas dari saus tiram yang asin gurih sangat menggugah selera. Tumis kangkung ini masakan terkenal di seluruh Indonesia.
+Menu hidangan tumis kangkung saus tiram yang  lezat. Rasa khas dari saus tiram yang asin gurih sangat menggugah selera.
 
 ## Apa itu tumis kangkung?
 
-Tumis kangkung adalah olahan berbahan dari sayur kangkung. Kangkung diolah dibumbui dengan bawang putih dan saus tiram. Sehingga menghasilkan rasa yang gurih dan lezat. Khas citarasa tumis kangkung ini asin cenderung manis.
+Tumis kangkung adalah olahan berbahan dari sayur kangkung. Kangkung diolah dibumbui dengan bawang putih dan saus tiram. Khas citarasa tumis kangkung ini asin cenderung manis.
 
-## Apa manfaat sayur kangkung?
-
-Sayur kangkung banyak manfaatnya bagi tubuh antara lain yakni:
+## Manfaat sayur kangkung?
 
 - Menjaga kesehatan mata
 - Mencegah anemia
@@ -51,8 +49,6 @@ Sayur kangkung banyak manfaatnya bagi tubuh antara lain yakni:
 
 ## Mulai Memasak
 Cara membuat tumis kangkung ini begitu simple dan praktis. Bahannya minim dan ramah di kantong. Sangat cocok menjadi menu hidangan sehari-hari.
-
-Berikut simak resep tumis kangkung di bawah ini.
 
 {{< post-info prep="10 menit" cook="5 menit" total="15 menit" serving="2">}}
 
@@ -80,8 +76,6 @@ __Bahan__
 {{< /steps>}}
 
 >Masak cah kangkung tidak lebih dari 3 menit.
-
-Menu hidangan tumis  kangkung ini sangat menggugah selera. Perpaduan dari rasa kangkung yang segar nan renyah. Saus tiram dan kecap yang gurih dan manis sangat menggugah selera.
 
 Menu hidangan ini sangat cocok di hidangkan di siang maunpun sore hari. Dengan disandingkan semangkuk nasi shirataki dan seiris buah semangka.
 
