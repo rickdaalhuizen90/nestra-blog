@@ -48,6 +48,7 @@ Rendang daging adalah makanan khas negara Indonesia, Minangkabau, Sumatra barat.
 {{< post-info prep="10 menit" cook="50 menit" total="1 jam" serving="4">}}
 
 __Bahan__
+
 - 500 gr Daging sapi khas dalam
 - 200 ml santan dari 1 butir kelapa
 - 200 ml kaldu sapi

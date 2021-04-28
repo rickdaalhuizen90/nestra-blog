@@ -56,6 +56,7 @@ Yuk simak resep cara membuat daging bumbu bali ala diet keto di bawah ini.
 {{< post-info prep="15 menit" cook="30 menit" total="45 menit" serving="4">}}
 
 __Bahan__
+
 - 500 gr daging sapi khas dalam
 - 400 ml air kaldu sapi
 - 1 batang sereh memarkan
