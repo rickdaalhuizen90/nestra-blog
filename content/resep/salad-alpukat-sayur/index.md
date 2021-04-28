@@ -45,6 +45,7 @@ Salad alpukat sayur adalah makanan dari bahan timun, tauge, alpukat dan daun ruc
 ## Apa manfaat salad alpukat sayur?
 
 Banyak sekali manfaat buah dan daun rucola ini antara lain yakni:
+
 - Mempunyai banyak vitamin dan sehat untuk kulit.
 - Baik untuk diet dan mengontrol berat badan.
 - Mencegah kanker.

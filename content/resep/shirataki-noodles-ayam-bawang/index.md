@@ -41,6 +41,7 @@ Shirataki noodles ayam bawang adalah olahan mie shirataki yang diolah dengan kal
 ## Apa manfaat shirataki noodles ayam bawang?
 
 Mie shirataki ayam bawang banyak manfaatnya bagi tubuh antara lain yakni:
+
 - Membantu menurunkan berat badan.
 - Membantu menurunkan kolesterol.
 - Mencegah sembelit.

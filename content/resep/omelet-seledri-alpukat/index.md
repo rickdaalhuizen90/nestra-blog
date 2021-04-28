@@ -48,6 +48,7 @@ Hidangan omelet seledri dan alpukat adalah olahan telur. Dibumbui dan di kocok l
 ## Apa manfaat omelet seledri alpukat?
 
 Omelet ini mengandung banyak lemak baik, vitamin dan kaya akan serat. Menu hidangan ini banyak manfaatnya bagi tubuh salah satunya yakni:
+
 - Membantu menurunkan berat badan.
 - Mencegah osteoporosis.
 - Menjaga kesehatan pencernaan.

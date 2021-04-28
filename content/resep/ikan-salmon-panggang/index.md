@@ -44,6 +44,7 @@ Ikan salmon panggang adalah ikan salmon filet yang di beri bumbu marinasi. Di pa
 ## Apa manfaat ikan salmon?
 
 Ikan salmon banyak manfaatnya bagi tubuh untuk kesehatan yakni:
+
 - Baik untuk jantung
 - Baik untuk kulit dan rambut
 - Menjaga kesehatan tulang

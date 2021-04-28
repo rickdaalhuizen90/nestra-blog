@@ -41,6 +41,7 @@ Daging sapi bumbu bali adalah olahan yang berbahan dasar dari daging sapi. Dibum
 ## Apa manfaat daging sapi bumbu bali untuk tubuh?
 
 Daging sapi bumbu bali ini banyak manfaatnya bagi tubuh salah satunya yakni:
+
 - Mempertahankan masa otot.
 - Mencegah anemia.
 - Meningkatkan kinerja olahraga.

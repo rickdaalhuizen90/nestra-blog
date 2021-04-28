@@ -41,6 +41,7 @@ Sup ikan dori adalah olahan dari ikan dori filet yang di potong-potong dibumbui.
 ## Apa manfaat sup ikan dori?
 
 Manfaat ikan dori bagi tubuh yakni:
+
 - Mendorong pertumbuhan sel otak.
 - Menurunkan tekanan hypertensi.
 - Menghindarkan dari resiko penyakit jantung.

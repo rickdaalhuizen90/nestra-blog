@@ -42,6 +42,7 @@ Omelet daun bayam adalah hidangan berbahan telur ayam. Dibumbui lalu di kocok le
 ## Apa manfaat omelet daun bawang?
 
 Menu hidangan omelet ini sangat baik untuk tubuh. Apalagi di sandingkan dengan semangkuk bayam yang segar, sehat dan bergizi. Sayur bayam ini banyak manfaatnya bagi tubuh salah satunya yakni:
+
 - Mencegah anemia
 - Memperkuat kesehatan tulang.
 - Memelihara kesehatan mata.

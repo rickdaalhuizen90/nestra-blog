@@ -41,11 +41,12 @@ Ayam goreng crispy adalah olahan ayam yang di bumbui dan di balur dengan kocokan
 ## Apa manfaat ayam goreng crispy?
 
 Ayam goreng crispy banyak manfaatnya bagi tubuh yakni:
--sebagai sumber protein yang baik bagi otot
--menurunkan berat badan.
--mengontrol tekanan darah.
--makanan rendah kolesterol.
--mengobati flu dan ramah untuk diet keto.
+
+- sebagai sumber protein yang baik bagi otot
+- menurunkan berat badan.
+- mengontrol tekanan darah.
+- makanan rendah kolesterol.
+- mengobati flu dan ramah untuk diet keto.
 
 ## Mulai Memasak
 

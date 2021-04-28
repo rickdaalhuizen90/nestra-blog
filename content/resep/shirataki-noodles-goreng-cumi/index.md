@@ -41,6 +41,7 @@ Shirataki noodles goreng cumi adalah makanan yang sehat. Olahan ini di buat dari
 ## Apa manfaat shirataki noodles goreng cumi untuk tubuh?
 
 Cumi-cumi mempunyai banyak manfaat bagi tubuh manusia antara lain yakni:
+
 - Baik untuk jantung.
 - Membangun otot.
 - Menurunkan kolesterol.

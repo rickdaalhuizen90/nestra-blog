@@ -43,6 +43,7 @@ Telur orak arik adalah makanan dari bahan telur yang di kocok lepas. Di tuang ke
 ## Apa manfaat telur?
 
 Telur orak arik ini banyak manfaatnya bagi tubuh yakni:
+
 - Makanan yang bergizi tinggih.
 - Menurunkan resiko penyakit jantung.
 - Mencerdaskan otak.

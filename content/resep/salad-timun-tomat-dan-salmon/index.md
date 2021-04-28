@@ -41,6 +41,7 @@ Hidangan salad segar ini terdiri dari potongan timun, tomat dan ikan salmon asap
 ## Manfaat salad keto timun, tomat dan salmon.
 
 Salad diet keto timun, tomat dan salmon ini sangat baik untuk kesehatan. Salah satu  manfaatnya bagi tubuh yakni:
+
 - Untuk menyimpan cadangan energy dalam tubuh.
 - Membantu menyerap vitamin yang masuk kedalam tubuh.
 - Menjaga suhu tubuh.

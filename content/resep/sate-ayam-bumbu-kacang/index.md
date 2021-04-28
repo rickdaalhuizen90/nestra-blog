@@ -41,6 +41,7 @@ Sate ayam adalah olahan dada ayam filet yang dipotong dadu dan di marinasi. Lalu
 ## Apa manfaat sate ayam bumbu kacang?
 
 Sate ayam bumbu kacang ini banyak manfaatnya bagi tubuh. Salah satunya yakni:
+
 - Mengandung vitamin dan mineral yang baik untuk tubuh.
 - Kaya akan protein.
 - Menurunkan berat badan.

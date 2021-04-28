@@ -63,6 +63,7 @@ __Bahan__
 - Garam himalaya secukupnya
 
 __Bumbu halus__
+
 - 5 siung bawang putih
 - 10 siung bawang merah
 - 10 biji cabe keriting

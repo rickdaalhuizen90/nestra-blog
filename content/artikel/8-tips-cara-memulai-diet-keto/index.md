@@ -1,17 +1,23 @@
 ---
-title: 8 Tips Cara Pemula Memulai Diet Keto
-date: 2021-04-26T13:43:40+00:00
-description: Cara diet keto agar kesehatan selalu tetap terjaga. Efektif menggapai
-  penurunan berat badan yang ideal.
-image: banner.png
+title: "8 Tips Cara Memulai Diet Keto"
+date: "2021-04-26T13:43:40+00:00"
+draft: false
+
+# meta description
+description: "Cara diet keto agar kesehatan selalu tetap terjaga. Efektif menggapai penurunan berat badan yang ideal."
+
+# featured image
+image: "banner.png"
+
 resources:
 - name: post
-- params:
-    title: foo
+
 categories:
 - Tips Keto
+
 tags:
 - keto
+
 type: post
 
 ---
@@ -36,7 +42,7 @@ Karena diet keto dipercaya banyak manfaatnya yakni:
 * Dapat melawan penyakit diabetes.
 * Memperbaiki gejala PCOS.
 
-## 8 Tips cara pemula memulai diet keto.
+## 8 Tips cara memulai diet keto.
 
 Hingga saat ini masih banyak sekali perdebatan tentang diet keto. Meski banyak pro & kontra, tapi beberapa studi mengatakan diet keto masih tergolong aman. Diet keto semakin populer di kalangan anak remaja dan orang tua. Karena, diet keto di percaya efektif menurunkan berat badan.
 

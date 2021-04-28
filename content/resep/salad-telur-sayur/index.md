@@ -43,11 +43,14 @@ Di iris-iris yang dan buncis yang di potong-potong lalu di rebus dan juga telur 
 ## Apa manfaat salad telur sayur?
 
 Salad berbahan kol ungu, buncis dan telur ini banyak manfaatnya bagi tubuh. Telur kaya akan protein, vitamin dan omega 3. Manfaat dari sayur kol ungu yakni:
+
 - Untuk menjaga kesehatan tulang.
 - Sehat untuk jantung.
 - Menurunkan peradangan.
 - Melindungi tubuh dari jenis kangker tertentu.
+
 Sayur buncis juga bermanfaat untuk:
+
 - Menjaga kesehatan jantung.
 - Melancarkan saluran pencernaan
 - Menjaga sistem kekebalan tubuh.
