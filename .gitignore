@@ -3,4 +3,4 @@
 /**/*.log
 /public/
 /content/.obsidian/cache
-#/resources/_gen
+/resources/_gen
