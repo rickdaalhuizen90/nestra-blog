@@ -18,14 +18,15 @@
 		&__category {
 			color: $primary-color !important;
 			padding: .375rem .625rem;
-		    background-color: $primary-color-light;
-		    border-radius: 4px;
-		    text-transform: uppercase;
-		    font-size: .75rem;
-		    font-weight: 700;
-		    -webkit-transition: all .1s linear;
-		    -o-transition: all .1s linear;
-		    transition: all .1s linear;
+      background-color: $primary-color-light;
+      border-radius: 4px;
+      text-transform: uppercase;
+      font-size: .75rem;
+      font-weight: 700;
+      -webkit-transition: all .1s linear;
+      -o-transition: all .1s linear;
+      transition: all .1s linear;
+      margin-bottom: 4px;
 		}
 	}
 

@@ -13,13 +13,9 @@ feature: "banner.png"
 categories:
   - "Tips Diet Keto"
   - "Pola Hidup Sehat"
-  
-# post tags
-tags:
-  - "keto"
 
 # post type
-type: "post"
+type: "trending"
 ---
 
 {{< img src="banner.png" alt="8 Tips Cara Memulai Diet Keto" >}}

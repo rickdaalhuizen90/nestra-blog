@@ -11,13 +11,10 @@ description: "Tips cara membuat pentol bakso halus anti gagal. Pelajari selengka
 
 # taxonomies
 categories:
-  - "Tips Membuat Pentol"
+  - "Membuat Pentol"
 
 # post tags
 tags:
-  - "Pentol"
-  - "Meat Ball"
-
 
 # post type
 type: "post"

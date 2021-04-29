@@ -17,15 +17,15 @@
   </div>
   <div class="featured-post__articles slider">
     <!-- slider item -->
-    {{ range first 3 ( where .Site.RegularPages "Type" "featured" )}}
+    {{ range first 3 (where .Site.RegularPages "Type" "featured")}}
     <article class="featured-post__article" tabindex="-1">
       <a href="{{ .RelPermalink | absURL }}">
-        {{ if .Params.Feature }}
-            {{ with .Resources.GetMatch (.Params.Feature ) }}
+          {{ with .Resources.GetMatch (.Params.Feature ) }}
+           
                 {{ $image := .Fill "360x500 Center" }}
                 <div class="featured-post__image" style="background-image: url('{{- $image.Permalink | absURL -}}');" width="360" height="500" /></div>
-            {{ end }}
-        {{ end }}
+ 
+          {{ end }}
       </a>
       <div class="featured-post__content">
         <div class="featured-post__tags">
@@ -107,10 +107,12 @@
                   {{ end }}
               {{ end }}
               <div class="card-body px-0">
-                {{ range .Params.Categories }}
-                <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"
-                  class="card__category">{{ . | title | humanize }}</a>
-                {{ end }}
+                <div class="car-body__categories">
+                  {{ range .Params.Categories }}
+                  <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"
+                    class="card__category badge">{{ . | title | humanize }}</a>
+                  {{ end }}
+                </div>
                 <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>
                 <div class="mb-3 post-meta">
                   {{ if eq .Params.Recipe true }}

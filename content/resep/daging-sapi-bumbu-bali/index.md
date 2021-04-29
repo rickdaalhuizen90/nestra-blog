@@ -24,7 +24,7 @@ tags:
   - "diary-free"
 
 # post type
-type: "featured"
+type: "trending"
 
 # prep time
 time: "45mnt"

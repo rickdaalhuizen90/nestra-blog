@@ -26,7 +26,7 @@
   <div class="widget">
     <h4 class="widget-title">Trending</h4>
     <div class="list-inline">
-      {{ range first 5 (where .Site.RegularPages "Type" "featured") }}
+      {{ range first 5 (where .Site.RegularPages "Type" "trending") }}
       <div class="sidebar__posts">
         <article class="sidebar__post">
           {{ if .Params.feature }}

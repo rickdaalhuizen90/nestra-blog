@@ -12,13 +12,9 @@ feature: "banner.png"
 # taxonomies
 categories:
   - "Bahan Makanan"
-  
-# post tags
-tags:
-  - "keto"
 
 # post type
-type: "post"
+type: "trending"
 ---
 
 {{< img src="banner.png" alt="sayuran" >}}

@@ -6,8 +6,6 @@ draft: false
 # meta description
 description: "Resep mie goreng udang yang sehat dan lezat. Sangat ramah untuk diet keto."
 
-feature: "banner.png"
-
 # featured image
 feature: "banner.png"
 
@@ -26,7 +24,7 @@ tags:
   - "diary-free"
 
 # post type
-type: "featured"
+type: "post"
 
 # prep time
 time: "25mnt"
