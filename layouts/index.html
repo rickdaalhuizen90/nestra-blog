@@ -21,10 +21,8 @@
     <article class="featured-post__article" tabindex="-1">
       <a href="{{ .RelPermalink | absURL }}">
           {{ with .Resources.GetMatch (.Params.Feature ) }}
-           
-                {{ $image := .Fill "360x500 Center" }}
-                <div class="featured-post__image" style="background-image: url('{{- $image.Permalink | absURL -}}');" width="360" height="500" /></div>
- 
+              {{ $image := .Fill "360x500 Center" }}
+              <div class="featured-post__image" style="background-image: url('{{- $image.Permalink | absURL -}}');" width="360" height="500" /></div>
           {{ end }}
       </a>
       <div class="featured-post__content">
