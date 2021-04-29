@@ -14,6 +14,11 @@ categories:
   - "Resep Keto"
   - "Resep Vegan"
   - "Resep Vegetarian"
+  - "Masakan Rumahan"
+  - "Cara Membuat"
+  - "Masakan Bergizi"
+  - "Makanan Rendah Kalori"
+  - "Tumis Kangkung"
   
 # post tags
 tags:

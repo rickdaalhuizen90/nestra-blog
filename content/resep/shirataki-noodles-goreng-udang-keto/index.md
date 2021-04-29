@@ -14,6 +14,10 @@ feature: "banner.png"
 # taxonomies
 categories:
   - "Resep Keto"
+  - "Masakan Rumahan"
+  - "Cara Membuat"
+  - "Makanan Bergizi"
+  - "Mie Goreng"
   
 # post tags
 tags:
@@ -75,7 +79,6 @@ __Bumbu halus__
 - Masukan kecap asin, kecap manis, merica, minyak wijen, kaldu jamur dan garam. 
 - Aduk-aduk sampai rata dengan api sedang, masak sampai matang, tes rasa, angkat.
 - Hidangkan shirataki noodles goreng udang ketika masih hangat.
-
 {{< /steps>}}
 
 > Hidangan shirataki noodles bisa ditambahkan dengan topping parutan keju ketika masih panas.

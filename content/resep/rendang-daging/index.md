@@ -15,6 +15,11 @@ feature: "banner.png"
 # taxonomies
 categories:
   - "Resep Keto"
+  - "Masakan Rumahan"
+  - "Cara Membuat"
+  - "Makanan Bergizi"
+  - "Masak Daging Sapi"
+  - "Resep Rendang"
   
 # post tags
 tags:

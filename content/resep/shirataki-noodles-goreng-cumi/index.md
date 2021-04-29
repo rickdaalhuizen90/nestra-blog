@@ -12,6 +12,11 @@ feature: "banner.png"
 # taxonomies
 categories:
   - "Resep Keto"
+  - "Masakan Rumahan"
+  - "Cara Membuat"
+  - "Makanan Bergizi"
+  - "Mie Goreng"
+  - "Masak Cumi"
   
 # post tags
 tags:

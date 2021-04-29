@@ -12,6 +12,11 @@ feature: "banner.png"
 # taxonomies
 categories:
   - "Resep Keto"
+  - "Masakan Rumahan"
+  - "Tumis Kangkung"
+  - "Cara Membuat"
+  - "Makanan Bergizi"
+  - "Makanan Rendah Kalori"
   
 # post tags
 tags:
@@ -19,7 +24,6 @@ tags:
   - "gluten-free"
   - "diary-free"
   - "vegetarian"
-  - "vegan"
 
 # post type
 type: "post"

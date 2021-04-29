@@ -11,7 +11,8 @@ feature: "banner.png"
 
 # taxonomies
 categories:
-  - "Tips Keto"
+  - "Tips Diet Keto"
+  - "Pola Hidup Sehat"
   
 # post tags
 tags:

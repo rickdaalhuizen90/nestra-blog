@@ -11,7 +11,7 @@ feature: "banner.png"
 
 # taxonomies
 categories:
-  - "Tips Keto"
+  - "Bahan Makanan"
   
 # post tags
 tags:

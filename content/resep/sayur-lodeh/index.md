@@ -12,6 +12,10 @@ feature: "banner.png"
 # taxonomies
 categories:
   - "Resep Keto"
+  - "Masakan Rumahan"
+  - "Cara Membuat"
+  - "Makanan Bergizi"
+  - "Sayur Lodeh"
   
 # post tags
 tags:

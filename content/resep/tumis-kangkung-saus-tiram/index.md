@@ -11,7 +11,11 @@ feature: "banner.png"
 
 # taxonomies
 categories:
-  - "Makanan"
+  - "Resep Keto"
+  - "Masakan Rumahan"
+  - "Cara Membuat"
+  - "Makanan Bergizi"
+  - "Makanan Rendah Kalori"
   
 # post tags
 tags:
