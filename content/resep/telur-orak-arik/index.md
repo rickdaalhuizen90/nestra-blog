@@ -83,4 +83,4 @@ __Bahan__
 
 Menu hidangan telur orak arik ini sangat cocok di sajikan di pagi hari atau sarapan. Dengan disandingkan bersama segelas susu rendah karbohidrat.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencobadan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

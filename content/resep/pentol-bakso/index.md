@@ -36,11 +36,11 @@ serving: 12-16
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Menu hidangan pentol bakso yang sangat di gemari masyarakat Indonesia. Rasanya yang begitu kenyal membuat lidah ketagihan.
+Menu hidangan pentol bakso yang sangat digemari masyarakat Indonesia. Rasanya yang begitu kenyal membuat lidah ketagihan.
 
 ## Apa itu pentol bakso?
 
-Pentol bakso adalah Olahan daging dan tepung dibumbui. Di bentuk bulat, dimasukan dalam air panas. Penyajian pentol bakso pada umumnya disajikan bersama kuah. Atau di tusuk pentolnya langsung di makan bersama saus.
+Pentol bakso adalah olahan daging dan tepung dibumbui. Di bentuk bulat, dimasukan dalam air panas. Penyajian pentol bakso pada umumnya disajikan bersama kuah. Atau di tusuk pentolnya langsung di makan bersama saus.
 
 ## Mulai memasak
 
@@ -79,6 +79,6 @@ __Bahan__
 
 > Menggiling daging bisa menggunakan belender atau food processor. Juga bisa menggunakan mesin penggilingan lainnya yang tersedia.
 
-Menu hidangan ini sangat cocok di sajikan di sore maupun di malam hari. Dengan di sandingkan bersama mie, tahu rebus atau dengan lontong, sesuai seleramu :)
+Menu hidangan ini sangat cocok di sajikan di sore maupun di malam hari. Dengan di sandingkan bersama mie, tahu rebus atau dengan lontong, sesuai selera :)
 
 Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like,komen dan share ya :)

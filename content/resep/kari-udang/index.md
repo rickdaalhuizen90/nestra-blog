@@ -54,7 +54,7 @@ Kari udang adalah olahan udang santan berwarna kuning. Bahanya dari udang yang d
 
 ## Mulai memasak
 
-Cara membuat kare udang ini mudah dan cepat. Hasilnya maximal dan sangat pas dijadikan menu sehari-hari
+Cara membuat kare udang ini mudah dan cepat. Hasilnya maximal dan sangat pas dijadikan menu sehari-hari.
 
 Berikut simak resepnya di bawah ini.
 
@@ -90,11 +90,11 @@ __Bumbu halus__
 {{< steps title="Cara membuat">}}
 -   Buang bonggol sawi, cuci bersih, tiriskan. 
 -   Panaskan wajan, masukan minyak kelapa. 
--   Masukan bumbu halus, sereh, daun salam, daun jeruk, dan lengkuas. Tumis hingga harum.  
+-   Masukan bumbu halus, sereh, salam, daun jeruk, dan lengkuas. Tumis hingga harum.  
 -   Masukan udang aduk-aduk. Masak hingga udang berubah warna.
 -   Masukan santan, lada, kaldu jamur, gula dan garam.
 -   Masak hingga mendidih sambil diaduk-aduk. Masak hingga matang.
--   Masukan sawi, tomat dan kecmabah masak sebentar, tes rasa, angkat. 
+-   Masukan sawi, tomat dan kecambah masak sebentar, tes rasa, angkat. 
 -   Hidangkan kari udang ketika masih hangat.
 {{< /steps>}}
 	

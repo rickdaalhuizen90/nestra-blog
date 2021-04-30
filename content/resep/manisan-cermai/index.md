@@ -1,7 +1,7 @@
 ---
 title: "Manisan Cermai"
-date: 2021-04-27T12:10:38+02:00
-draft: true
+date: 2021-05-01T09:30:38+02:00
+draft: false
 
 # post thumb
 feature: "banner.png"
@@ -74,7 +74,6 @@ __Bahan__
 
 > Manisan cermai bisa langsung di komsumsi atau dicampur dengan bumbu rujak manis.
 
-Simpan manisan cermai dalam kulkas dengan ditutup rapat, bisa bertahan 2-3 bulan.
-Jika ingin mengkomsumi manisan cermai, ambil manisan ke dalam mangkuk lalu tutup kembali. Masukan lagi Manisan cermai ke dalam kulkas.
+Simpan manisan cermai dalam kulkas dengan ditutup rapat, bisa bertahan 2-3 bulan. Jika ingin mengkomsumi manisan cermai, ambil manisan ke dalam mangkuk lalu tutup kembali. Masukan lagi Manisan cermai ke dalam kulkas.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
