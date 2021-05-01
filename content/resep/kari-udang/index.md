@@ -58,7 +58,7 @@ Cara membuat kari udang ini mudah dan cepat. Hasilnya maximal dan sangat pas dij
 
 Berikut simak resepnya di bawah ini.
 
-{{< post-info prep="15" cook="10" total="25" serving="4">}}
+{{< post-info prep="15 menit" cook="10 menit" total="25 menit" serving="4">}}
 
 __Bahan__
 

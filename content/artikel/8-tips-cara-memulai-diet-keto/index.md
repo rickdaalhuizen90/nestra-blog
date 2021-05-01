@@ -37,6 +37,8 @@ Mengganti kebiasaan membeli bahan makanan. Belilah makanan dan produk sehat yang
 
 Mendapatkan berat badan yang ideal tak cukup hanya dari diet. Imbangi dengan olahraga yang teratur setidaknya minimal 30 menit perhari.
 
+{{< ad >}}
+
 ### 3. Membiasakan tubuh pada diet keto.
 
 Konsumsi menu diet keto secara perlahan agar tubuh mengenali ketika memulai diet keto. Sehingga tubuh kita tidak shock.

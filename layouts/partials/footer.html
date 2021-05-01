@@ -89,6 +89,10 @@
   var indexURL = '{{ "index.json" | absURL }}'
 </script>
 
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .URL | absURL }}" rel="dns-prefetch" preload></script>

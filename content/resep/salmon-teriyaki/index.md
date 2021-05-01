@@ -18,7 +18,6 @@ categories:
 
 # post tags
 tags:
-  
 
 # post type
 type: "post"
@@ -46,7 +45,7 @@ Salmon teriyaki adalah masakan jepang berbahan ikan salmon. Ikan di marinasi den
 
 Sudahkah kamu memasak salmon teriyaki? Disini saya membuat salmon teriyaki yang simple dan lezat. 
 
-{{< post-info prep="20" cook="10" total="30" serving="4">}}
+{{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="4">}}
 
 __Bahan__
 

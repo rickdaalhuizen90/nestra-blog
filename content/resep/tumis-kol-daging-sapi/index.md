@@ -60,7 +60,7 @@ Tumis kol daging sapi adalah olahan berbahan dan daging sapi. Di tumis di tambah
 
 Resep tumis kol daging sapi ini sangat mudah dan cepat. Bahannya minim tapi hasilnya maximal.
 
-{{< post-info prep="10" cook="" total="15" serving="4">}}
+{{< post-info prep="10 menit" cook="5 menit" total="15 menit" serving="4">}}
 
 __Bahan__
 

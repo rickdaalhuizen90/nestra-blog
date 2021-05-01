@@ -45,7 +45,7 @@ Mie goreng adalah olahan mie yang dibumbui, dicampur dengan telur, sayuran dan d
 
 Mie goreng udang ini menjadi salah satu favorit orang Indonesia. Cara membuatnya mudah dan tidak memakan waktu yang lama.
 
-{{< post-info prep="10" cook="10" total="20" serving="2">}}
+{{< post-info prep="10 menit" cook="10 menit" total="20 menit" serving="2">}}
 
 __Bahan__
 

@@ -47,7 +47,7 @@ Cara membuat nasi goreng udang ini mudah dan cepat. Banyak juga variasi sayur da
 
 Berikut simak resep nasi goreng udang di bawah ini.
 
-{{< post-info prep="" cook="" total="" serving="">}}
+{{< post-info prep="10 menit" cook="10 menit" total="20 menit" serving="2">}}
 
 __Bahan__
 

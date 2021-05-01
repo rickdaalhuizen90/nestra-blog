@@ -85,6 +85,8 @@ Jika pentol sudah mengapung segera angkat, siram/rendam dengan air es. Hal ini u
 
 > Pentol bakso yang sudah dingin bisa dimasak lagi. Dimasak dengan kuah bakso atau dikukus sesuai selera.
 
+{{< ad >}}
+
 ## Penutupan
 
 Pentol bakso bisa disimpan di dalam freezer dan bertahan sampai 6 bulan. Dengan cara masukan pentol ke dalam tupperware atau tempat kedap udara. Tutup rapat lalu masukan kedalam freezer.

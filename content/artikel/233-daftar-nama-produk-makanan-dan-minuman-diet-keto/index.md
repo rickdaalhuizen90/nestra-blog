@@ -100,6 +100,8 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh dikonsumsi da
 
 >Semua jenis umbi-umbian harus dihindari karena mengandung banyak karbohidrat.
 
+{{< ad >}}
+
 ### 16 Daftar nama kacang-kacangan dan biji-bijian untuk diet keto:
 
 {{< img src="biji-keto.png" alt="biji-bjian" >}}
