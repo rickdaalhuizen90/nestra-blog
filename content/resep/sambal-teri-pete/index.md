@@ -39,7 +39,7 @@ Hidangan sambal ini teri pete ini adalah menu favorit orang Indonesia. Menu hida
 
 ## Apa itu sambal teri pete?
 
-Sambal teri pete adalah olahan sambal yang di goreng ditambahkan teri dan pete. Dibumbui di campur menjadi satu, sehingga menghasilkan aroma pete yang khas dan lezat. 
+Sambal teri pete adalah olahan sambal yang digoreng ditambahkan teri dan pete. Dibumbui dicampur menjadi satu, sehingga menghasilkan aroma pete yang khas dan lezat. 
 
 ## Mulai Memasak
 
@@ -62,7 +62,7 @@ __Bahan__
 {{< steps title="Cara membuat">}}
 - Kupas pete sisihkan.
 - Petik tangkai cabe rawit dan cabe keriting, cuci bersih.
-- Halsukan cabe rawit, cabe keriting dan minyak zaitun.
+- Haluskan cabe rawit, cabe keriting dan minyak zaitun.
 - Cuci bersih tomat potong-potong sesuai selera.
 - Panaskan wajan, masukan minyak zaitun. Goreng ikan teri hingga kering, angkat, sisihkan.
 - Masih dengan wajan yang sama. Jangan buang minyaknya, masukan cabe dan tomat.
@@ -77,4 +77,4 @@ __Bahan__
 
 Hidangan sambal ini sangat cocok di sandingkan dengan nasi shirataki. Dengan disandingkan secangkir teh hijau bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

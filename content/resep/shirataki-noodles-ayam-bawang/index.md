@@ -40,7 +40,7 @@ Mie ayam bawang ini mempunyai aroma segar dan rasanya begitu alami. Menu hidanga
 
 ## Apa itu shirataki noodles ayam bawang?
 
-Shirataki noodles ayam bawang adalah olahan mie shirataki yang diolah dengan kaldu ayam. Di bumbui ditambahkan daging ayam filet dan sawi hijau. Sehingga menjadi hidangan mie kuah segar dengan aroma yang khas ayam bawang.
+Shirataki noodles ayam bawang adalah olahan mie shirataki yang diolah dengan kaldu ayam. Dibumbui ditambahkan daging ayam fillet dan sawi hijau. Sehingga menjadi hidangan mie kuah segar dengan aroma yang khas ayam bawang.
 
 ## Manfaat shirataki noodles
 
@@ -60,7 +60,7 @@ __Bahan__
 
 - 1 bungkus mie shirataki basah 400gr
 - 400 ml kaldu ayam (dari rebusan tulang ayam)
-- 100 gr dada ayam filet iris tipis
+- 100 gr dada ayam fillet iris tipis
 - 2 bonggol sawi hijau
 - 2 siung bawang putih cincang halus
 - 1 siung bawang merah cincang halus
@@ -78,12 +78,12 @@ __Bahan__
 - Ambil wajan panaskan minyak. Masukan bawang merah dan bawang putih masak hingga harum.
 - Masukan kaldu ayam masak hingga mendidih.
 - Masukan irisan ayam, shirataki noodles, sawi hijau, kaldu jamur, merica bubuk dan garam.
-- Masak selama 2,5menit, tes rasa, angkat.
-- Hidangkan mie ketika masih hangat bersma telur.
+- Masak selama 2,5 menit, tes rasa, angkat.
+- Hidangkan mie ketika masih hangat bersama telur.
 {{< /steps>}}
 
 > Gunakan sayuran dan bahan diet keto untuk membuat mie ayam bawang
 
-Menu hidangan ini sangat cocok disajikan di siang atau malam hari. Dengan di sandingkan secangkir teh hijau bebas gula.
+Menu hidangan ini sangat cocok disajikan di siang atau malam hari. Dengan disandingkan secangkir teh hijau bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

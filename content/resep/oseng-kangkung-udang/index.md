@@ -80,12 +80,12 @@ __Bahan__
 - Masukan bawang putih, bawang merah dan cabe rawit. tumis hingga harum.
 - Masukan udang masak hingga berubah warna (merah).
 - Masukan kangkung dan air. Aduk-aduk masak dengan api besar hingga layu.
-- Kecilkan api masukan gula, kaldu jamur dan garam. Masak dengan api sedan hingga matang, angkat.
+- Kecilkan api masukan gula, kaldu jamur dan garam. Masak dengan api sedang hingga matang, angkat.
 - Hidangkan oseng kangkung ketika masih hangat.
 {{< /steps>}}
 
 >Masak cah kangkung tidak lebih dari 3 menit.
 
-Menu hidangan ini sangat cocok di hidangkan di siang maunpun sore hari. Dengan disandingkan semangkuk nasi shirataki dan segelas jus tomat bebas gula.
+Menu hidangan ini sangat cocok dihidangkan di siang maupun sore hari. Dengan disandingkan semangkuk nasi shirataki dan segelas jus tomat bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

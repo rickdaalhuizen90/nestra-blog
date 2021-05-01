@@ -73,12 +73,12 @@ __Bahan__
 -   Rebus air hingga mendidih, matikan api.
 -   Bentuk bulatan pentol lalu masukan ke dalam panci air panas.
 -   Angkat pentol yang sudah mengapung. Siram atau rendam dengan air es hingga dingin.
--   Masak lagi pentol bakso dengan kuah bakso atau di kukus sesuai selera.
+-   Masak lagi pentol bakso dengan kuah bakso atau dikukus sesuai selera.
 -   Hidangkan ketika masih panas.
 {{< /steps>}}
 
-> Menggiling daging bisa menggunakan belender atau food processor. Juga bisa menggunakan mesin penggilingan lainnya yang tersedia.
+> Menggiling daging bisa menggunakan blender atau food processor. Juga bisa menggunakan mesin penggilingan lainnya yang tersedia.
 
-Menu hidangan ini sangat cocok di sajikan di sore maupun di malam hari. Dengan di sandingkan bersama mie, tahu rebus atau dengan lontong, sesuai selera :)
+Menu hidangan ini sangat cocok di sajikan di sore maupun di malam hari. Dengan disandingkan bersama mie, tahu rebus atau dengan lontong, sesuai selera :)
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like,komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like,komen dan share ya :)

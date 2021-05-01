@@ -49,13 +49,13 @@ Olahan ini di buat dari bahan dasar mie shirataki dan cumi-cumi yang di bumbui. 
 - Membangun otot.
 - Menurunkan kolesterol.
 - Melancarkan pencernaan.
-- Rendah mercuri dan kaya akan vitamin. 
+- Rendah merkuri dan kaya akan vitamin. 
 - Membantu menurunkan berat badan.
 - Membuat rasa kenyang bertahan lebih lama.
 
 ## Mulai Memasak 
 
-Menu hidangan shirataki noodles goreng cumi ini mudah untuk di buat. Sangat baik dan sehat untuk di komsumi sehari-hari.
+Menu hidangan shirataki noodles goreng cumi ini mudah untuk di buat. Sangat baik dan sehat untuk dikonsumsi sehari-hari.
 
 {{< post-info prep="15 menit" cook="10 menit" total="25 menit" serving="2">}}
 
@@ -75,13 +75,13 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
-- Bersihkan cumi-cumi buang kantong tintahnya, potong-potong.
+- Bersihkan cumi-cumi buang kantong tintah nya, potong-potong.
 - Lumuri cumi-cumi dengan air jeruk nipis. Diamkan selama 10 menit, cuci hingga bersih, sisihkan.
 - Cuci bersih shirataki noodles dengan air mengalir, tiriskan.
 - Ambil wajan panaskan minyak. Masukan bawang merah dan bawang putih masak hingga harum.
 - Masukan cumi-cumi, kecap manis, garam, merica hitam dan garam. Aduk-aduk.
 -  Masukan shirataki noodles masak dengan api sedang.
-- Aduk-aduk selama 3menit, tes rasa, angkat.
+- Aduk-aduk selama 3 menit, tes rasa, angkat.
 - Hidangkan shirataki noodles ketika masih hangat.
 {{< /steps>}}
 
@@ -89,4 +89,4 @@ __Bahan__
 
 Menu hidangan ini sangat cocok di hidangkan di siang maupun di malam hari. Dengan disandingkan susu rendah karbohidrat.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

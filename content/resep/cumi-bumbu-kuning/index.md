@@ -1,6 +1,6 @@
 ---
 title: "Cumi Bumbu Kuning"
-date: 2021-05-02T18:48:22+02:00
+date: 2021-05-01T18:48:22+02:00
 draft: false
 
 # post thumb
@@ -54,7 +54,7 @@ Cara membuat cumi bumbu kuning yang mudah dan lezat. Berikut simak resepnya di b
 __Bahan__
 
 -   500 gr cumi
--   2 batang sereh memarkan
+-   2 batang serai memarkan
 -   2 daun jeruk purut
 -   5 buah cabe rawit iris-iris
 -   1 ruas laos memarkan
@@ -75,13 +75,13 @@ __Bumbu halus__
 
 Cara membuat
 
--   Cuci bersih kepiting ambil tintahnya potong-potong.
+-   Cuci bersih kepiting ambil tintah nya potong-potong.
 -   Lumuri cumi-cumi dengan air jeruk diamkan selama 15 menit. Bilas hingga bersih.
 -   Panaskan wajan masukan minyak zaitun. Tumis bumbu halus, sereh, salam, laos dan cabe hingga harum.
 -   Masukan cumi-cumi, lada, kaldu jamur dan garam. Aduk rata masak selama 3 menit, angkat.
 -   Hidangkan cumi bumbu kuning ketika masih panas.
 
-> Masak cumi dengan api sendang selama 3 menit sambil terus diaduk. Jangan memasak cumi terlalu lama agar tidak alot.
+> Masak cumi dengan api sedang selama 3 menit sambil terus diaduk. Jangan memasak cumi terlalu lama agar tidak alot.
 
 Menu hidangan cumi bumbu kuning sangat cocok dihidangkan di malam hari. Dengan disandingkan semangkuk nasi shirataki dan es jeruk nipis.
 

@@ -23,7 +23,7 @@ type: "trending"
 Tips memulai diet keto agar aman dan kesehatan tubuh tetap terjaga. Tubuh tidak merasa pusing dan tidak lemah sehingga tidak jatuh sakit.
 
 ## Apa itu diet keto?
-Diet keto adalah diet mengkomsusi tinggih lemak&rendah karbohidrat agar tubuh menggapai ketosis. Ketosis ini berkerja membakar lemak didalam tubuh dan menggantikan lemak sebagai sumber energy.
+Diet keto adalah diet mengkonsumsi tinggi lemak & rendah karbohidrat agar tubuh menggapai ketosis. Ketosis ini bekerja membakar lemak didalam tubuh dan menggantikan lemak sebagai sumber energy.
 
 ## 8 Tips cara memulai diet keto.
 
@@ -35,11 +35,11 @@ Mengganti kebiasaan membeli bahan makanan. Belilah makanan dan produk sehat yang
 
 ### 2. Olahraga teratur.
 
-Mendapatkan berat badan yang ideal tak cukup hanya dari diet. Imbangi juga dengan olahraga yang teratur setidaknya minim 30 menit perhari.
+Mendapatkan berat badan yang ideal tak cukup hanya dari diet. Imbangi dengan olahraga yang teratur setidaknya minimal 30 menit perhari.
 
 ### 3. Membiasakan tubuh pada diet keto.
 
-Komsusi menu diet keto secara perlahan agar tubuh mengenali ketika memulai diet keto. Sehingga tubuh kita tidak shock.
+Konsumsi menu diet keto secara perlahan agar tubuh mengenali ketika memulai diet keto. Sehingga tubuh kita tidak shock.
 
 ### 4. Memulai diet keto Secara perlahan.
 
@@ -47,7 +47,7 @@ Di 3 hari senin, selasa dan rabu, mulailah mengurangi porsi makan nasi. Gantikan
 
 ### 5. Mengganti menu makanan menjadi menu makanan diet keto.
 
-Di hari kamis, jumat dan sabtu, biasakan hanya makan nasi di waktu siang hari. Jadi di pagi dan malam hari sudah memulai mengkomsumsi menu diet keto.
+Di hari kamis, jumat dan sabtu, biasakan hanya makan nasi di waktu siang hari. Jadi di pagi dan malam hari sudah mulai mengkonsumsi menu diet keto.
 
 ### 6. cheat day/istirahat.
 
@@ -55,7 +55,7 @@ Di hari minggu bisa cheat day/istirahat. Di hari cheat day bebas makan menu apa 
 
 ### 7. Menjalankan diet full keto.
 
-Di minggu ke-2 sudah lakukan diet full keto selama 6 hari. Dari hari senin sampai hari sabtu, jadi menu di pagi, siang dan malam hari mengkomsumsi menu keto.
+Di minggu ke-2 sudah lakukan diet full keto selama 6 hari. Dari hari senin sampai hari sabtu, jadi menu di pagi, siang dan malam hari mengkonsumsi menu keto.
 
 ### 8. Pada hari minggu selalu cheat day.
 
@@ -65,9 +65,8 @@ Hal ini menyebabkan tubuh kita membakar lebih banyak kalori. Akhirnya tubuh bisa
 
 > Diet keto aman dilakukan hanya dalam jangka pendek. Yakni dalam periode waktu: 3 minggu, 1 bulan, 3 bulan, 6 bulan dan maximal sampai 1 tahun. Setelah itu biasakan gaya hidup dan pola makan yang sehat.
 
-
 ## Penutupan
 
 Metode cheat day membantu menjaga tingkat leptin kita agar tetap seimbang. Jadi cheat juga sangat positif dan penting untuk dilakukan.
 
-Demikian artikel tips dari saya. Semoga bermanfaat bagi teman-teman semuanya. Selamat mecoba. Salam sehat selalu dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel tips dari saya. Semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

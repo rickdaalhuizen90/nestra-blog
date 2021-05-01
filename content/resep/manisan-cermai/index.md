@@ -1,13 +1,13 @@
 ---
 title: "Manisan Cermai"
-date: 2021-05-01T09:30:38+02:00
+date: 2021-05-02T09:30:38+02:00
 draft: false
 
 # post thumb
 feature: "banner.png"
 
 # meta description
-description: "Cara membuat manisan cerme basah yang renyah, segar dan tahan lama. Camilan segar di siang hari"
+description: "Cara membuat manisan cermai basah yang renyah, segar dan tahan lama. Camilan segar di siang hari"
 
 # taxonomies
 categories:
@@ -40,7 +40,7 @@ Manisan cermai ini ada 2 macam yaitu manisan kering dan manisan basah. Manisan c
 
 ## Apa itu buah cermai?
 
-Buah cerme biasa kita jumpai didesa, Kampung dan diperumahan. Buah cerme itu tidak begitu enak jika langsung dimakan. Rasanya sepat dan asam. Buah cerme bisa dibuat rujak, dimakan dengan garam atau dibuat manisan.
+Buah cermai biasa kita jumpai di desa, Kampung dan diperumahan. Buah cerme itu tidak begitu enak jika langsung dimakan. Rasanya sepat dan asam. Buah cermai bisa dibuat rujak, dimakan dengan garam atau dibuat manisan.
 
 ## Mulai Membuat
 
@@ -60,10 +60,10 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Bersihkan Buah Cermai, tiriskan.    
+-   Bersihkan buah cermai, tiriskan.    
 -   Cincang cabai kering sisihkan.  
--   Memarkan buah cermai, masukan ke dalam baskom. Lumuri dengan garam diamkan selama 15 menit.
--   Cuci buah cerme dan tiriskan. Masukan lagi ke dalam baskom.
+-   Memarkan cermai, masukan ke dalam baskom. Lumuri dengan garam diamkan selama 15 menit.
+-   Cuci buah cermai dan tiriskan. Masukan lagi ke dalam baskom.
 -   Masukan air ke dalam panci. Rebus hingga mendidih.
 -   Siram buah cermai dengan air panas. Aduk-aduk, diamkan 1 menit, angkat tiriskan.
 -   Masukan buah cermai, cabe kering dan gula ke dalam tupperware. Aduk hingga rata dan biarkan dingin.
@@ -72,8 +72,8 @@ __Bahan__
 -   Setelah 8 jam manisan cermai siap untuk dinikmati.
 {{< /steps>}}
 
-> Manisan cermai bisa langsung di komsumsi atau dicampur dengan bumbu rujak manis.
+> Manisan cermai bisa langsung dikonsumsi atau dicampur dengan bumbu rujak manis.
 
-Simpan manisan cermai dalam kulkas dengan ditutup rapat, bisa bertahan 2-3 bulan. Jika ingin mengkomsumi manisan cermai, ambil manisan ke dalam mangkuk lalu tutup kembali. Masukan lagi Manisan cermai ke dalam kulkas.
+Simpan manisan cermai dalam kulkas dengan ditutup rapat, bisa bertahan 2-3 bulan. Jika ingin mengkonsumsi manisan cermai, ambil manisan ke dalam mangkuk lalu tutup kembali. Masukan lagi Manisan cermai ke dalam kulkas.
 
 Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

@@ -40,14 +40,14 @@ Ayam goreng crispy yang renyah di luar dan dagingnya empuk di dalam. Tepungnya t
 
 ## Apa itu ayam goreng crispy?
 
-Ayam goreng crispy adalah olahan ayam di bumbui dan di balur dengan kocokan telur dan tepung. Digoreng dengan minyak kelapa, sehingga menghasilkan ayam goreng yang renyah dan lezat.
+Ayam goreng crispy adalah olahan ayam dibumbui dan di balur dengan kocokan telur dan tepung. Digoreng dengan minyak kelapa, sehingga menghasilkan ayam goreng yang renyah dan lezat.
 
 ## Manfaat dada ayam
 
 - Membantu menurunkan berat badan
 - Meningkatkan metabolisme tubuh
 - Menghasilkan energy
-- Mengurangi tekanan darah tinggih
+- Mengurangi tekanan darah tinggi
 - Menurunkan jumlah kolesterol.
 - Sumber vitamin
 
@@ -68,7 +68,7 @@ __Bahan__
 - 1 sdt garam.
 - 1/2 sdt bubuk merica hitam.
 - Minyak kelapa secukupnya untuk menggoreng.
-- Mayonaise secukupnya.
+- Mayones secukupnya.
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
@@ -89,4 +89,4 @@ __Bahan__
 
 Menu hidangan ini sangat cocok di hidangkan di siang maupun malam hari. Dengan disandingkan secangkir teh hijau bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like,komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like,komen dan share ya :)

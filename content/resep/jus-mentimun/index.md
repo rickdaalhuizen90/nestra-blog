@@ -1,6 +1,6 @@
 ---
 title: "Jus Mentimun"
-date: 2021-05-01T16:47:22+02:00
+date: 2021-05-02T16:47:22+02:00
 draft: false
 
 # post thumb
@@ -41,7 +41,7 @@ serving: 2
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Jus mentimun yang segar, sangat cocok di komsumsi setiap hari. Minuman terbaik bagi penderita tekanan darah tinggih.
+Jus mentimun yang segar, sangat cocok dikonsumsi setiap hari. Minuman terbaik bagi penderita tekanan darah tinggi.
 
 ## Apa itu jus mentimun?
 
@@ -55,7 +55,7 @@ Jus mentimun adalah minuman segar yang berbahan dari timun. Timun di jus bersama
 -   Menurunkan kolesterol
 -   Mengontrol tekanan darah
 -   Membantu penurunan berat badan
--   Meredahkan nyeri sendi dan encok
+-   Meredakan nyeri sendi dan encok
 
 ## Mulai membuat
 
@@ -77,8 +77,8 @@ Cara membuat
 -   Masukan gula, jeruk nipis garam dan air, blender hingga halus.
 -   Tuang jus mentimun ke dalam gelas dan siap untuk dinikmati.
 
-> Jika tidak untuk diet bisa menambahkam es batu sesuai selera.
+> Jika tidak untuk diet bisa menambahkan es batu sesuai selera.
 
-Jus mentimun ini adalah minuman yang segar. Sangat pas dinimum di siang hari dibawah teriknya sinar matahari.
+Jus mentimun ini adalah minuman yang segar. Sangat pas diminum di siang hari dibawah teriknya sinar matahari.
 
 Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

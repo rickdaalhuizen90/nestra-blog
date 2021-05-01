@@ -4,7 +4,7 @@ date: "2021-04-11T13:43:40+00:00"
 draft: false
 
 # meta description
-description: "Menu hidangan salad diet keto yang segar dan seha. Layak dijadikan menu hidangan sehari-hari."
+description: "Menu hidangan salad diet keto yang segar dan sehat. Layak dijadikan menu hidangan sehari-hari."
 
 # featured image
 feature: "banner.png"
@@ -36,7 +36,7 @@ serving: 1
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Salad salmon ini merupakan makanan sehat dan lezat. Untuk gaya hidup yang sehat beralilah mengkomsumsi salad diet sehat setiap hari.
+Salad salmon ini merupakan makanan sehat dan lezat. Untuk gaya hidup yang sehat beralihlah mengkonsumsi salad diet sehat setiap hari.
 
 ## Apa itu salad salmon?
 
@@ -51,11 +51,11 @@ Hidangan salad segar ini terdiri dari potongan timun, tomat dan ikan salmon. Di 
 - Melawan proses peradangan
 - Membantu mengatasi kesulitan tidur
 - Menjaga kesehatan mata
-- Sumber vit B yang baik
+- Sumber vitamin B yang baik
 
 ## Mulai Memasak
 
-Cara membuat salad salmon ini sangat mudah dan praktis. Bahan yang di butuhkan juga sangat terjangkau dan ramah di dapur kita.
+Cara membuat salad salmon ini sangat mudah dan praktis. Bahan yang dibutuhkan juga sangat terjangkau dan ramah di dapur kita.
 
 {{< post-info prep="5 menit" cook="5 menit" total="10 menit" serving="1">}}
 
@@ -78,6 +78,6 @@ __Bahan__
 
 >Keju feta bisa diganti dengan keju biasa tapi tambahkan sejumput garam himalaya.
 
-Menu hidangan salad ini sangat cocok dihidangkan di pagi hari maupun sore hari. Dengan di sandingkan segelas susu rendah karbohidrat atau secangkir kaldu sapi.
+Menu hidangan salad ini sangat cocok dihidangkan di pagi hari maupun sore hari. Dengan disandingkan segelas susu rendah karbohidrat atau secangkir kaldu sapi.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

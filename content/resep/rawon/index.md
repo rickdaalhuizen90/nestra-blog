@@ -55,7 +55,7 @@ __Bahan Rawon__
 - 1 batang serai memarkan
 - 3 cm lengkuas memarkan
 - 2 lembar daun salam
-- 3 lembar daun jeruk puruk
+- 3 lembar daun jeruk purut
 - 1/2 sdt merica
 - 1 sdt kaldu jamur
 - 1 sdt gula tropicana slim
@@ -97,12 +97,12 @@ __Bahan Sambal__
 - Siapkan cobek. Ambil sejumput garam lalu masukan bawang putih dan cabe. Haluskan.
 {{< /steps>}}
 
-{{< steps title="Cara penjanyajian">}}
+{{< steps title="Cara penyajian">}}
  - Ambil semangkuk rawon hangat sandingkan dengan sambal dan tauge.
 {{< /steps>}}
 
-> Semangkuk Rawon keto bisa di sajikan dengan sebutir telur rebus atau telur asin
+> Semangkuk Rawon keto bisa dihidangkan dengan sebutir telur rebus atau telur asin
 
 Menu hidangan ini sangat cocok dihidangkan di siang atau sore hari. Dengan disandingkan semangkuk nasi shirataki dan segelas teh hijau bebas gula.
 
-Demikian resep rawon diet ala keto dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like,komen dan share ya :)
+Demikian artikel  resep dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like,komen dan share ya :)

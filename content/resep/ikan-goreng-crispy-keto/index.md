@@ -60,12 +60,12 @@ Nah, tunggu apalagi yuk simak resepnya di bawah ini.
 
 __Bahan__
 
-- 4 lonjor ikan dori filet
+- 4 lonjor ikan dori fillet
 - 300 gr Tepung almond
 - 2 butir Telur kocok lepas
 - 4 sdm jeruk nipis
 - Minyak kelapa (sampai ikan tenggelam)
-- Mayonaise secukupnya
+- Mayones secukupnya
 
 __Bahan marinasi__
 
@@ -81,12 +81,12 @@ __Bahan marinasi__
 - Panaskan minyak di wajan/teflon.
 - Ambil ikan balurkan dalam tepung almond. Angkat, balurkan ikan dalam adonan telur. Angkat, balurkan lagi dalam tepung almond.
 - Bila minyak sudah panas langsung masukan ikan ke dalam wajan/teflon.
-- Goreng ikan sampai berwarna kuning ke emasan. Lalu angkat ikan, tiriskan. Ulangi menggoreng sampai adonan ikan habis.
+- Goreng ikan sampai berwarna kuning keemasan. Lalu angkat ikan, tiriskan. Ulangi menggoreng sampai adonan ikan habis.
 - Hidangkan ikan goreng crispy ketika masih hangat bersama saus mayonaise.
 {{< /steps>}}
 
-> Agar ikan mudah dibalurkan kedalam tepung, potong menjadi 2 agar tidak terlalu panjang.
+> Agar ikan mudah dibalurkan ke dalam tepung, potong menjadi 2 agar tidak terlalu panjang.
 
 Menu hidangan ini sangat cocok di hidangkan di siang maupun sore hari. Dengan disandingkan secangkir teh hijau bebas gula.
 
-Demikian artikel resep dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

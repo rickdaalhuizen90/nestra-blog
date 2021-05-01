@@ -37,7 +37,7 @@ serving: 3
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Meu hidangan lodeh yang segar dan menggugah selera. Bahannya bisa disesuaikan dengan sayur yang ada dirumah.
+Menu hidangan lodeh yang segar dan menggugah selera. Bahannya bisa disesuaikan dengan sayur yang ada di rumah.
 
 ## Apa itu sayur lodeh?
 
@@ -56,7 +56,7 @@ __Bahan__
 -   2 batang daun pre iris
 -   2 lembar daun salam
 -   2 lembar daun jeruk
--   1ruas laos memarkan
+-   1 ruas laos memarkan
 -   500 ml liter santan dari 1/2 butir kelapa
 -   10 cabe rawit merah hijau
 -   1 sdt Gula tropicana slim
@@ -78,11 +78,11 @@ __Bumbu halus__
 
 {{< steps title="Cara membuat">}}
 -   Cuci tahu dan terong, potong-potong. Sisihkan
--   Masak air hingga mendidih lalu masuka bumbu halus.
+-   Masak air hingga mendidih lalu masukan bumbu halus.
 -   Masukan laos, daun bawang daun jeruk dan salam. Masak hingga harum.
 -   Masukan tahu, terong dan cabe rawit.
 -   Masukan santan, aduk-aduk masak hingga mendidih.
--   Masukan garam, gula dan kaldu jamur. Masak sambil terus dia aduk hingga matang. Tes rasa, angkat.
+-   Masukan garam, gula dan kaldu jamur. Masak sambil terus diaduk hingga matang. Tes rasa, angkat.
 -   Hidangkan sayur lodeh ketika masih hangat.
 {{< /steps>}}
 
@@ -90,4 +90,4 @@ __Bumbu halus__
 
 Jika ingin membuat lodeh diet keto, jangan gunakan tahu/tempe. Gunakan bahan sayuran yang lainnya. Contohnya seperti kacang panjang, daun melinjo, atau labu siam.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

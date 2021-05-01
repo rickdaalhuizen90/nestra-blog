@@ -23,9 +23,9 @@ type: "trending"
 
 ## Daftar nama produk makanan dan minum diet keto.
 
-Diet keto adalah diet yang mengkomsumsi tinggih lemak dan rendah karbohidrat. Diet keto tidak mengkomsumsi semua jenis makanan dan semua jenis minuman. Banyak makanan dan minuman yang di anjurkan dan banyak pula yang harus dihindari. 
+Diet keto adalah diet yang mengkonsumsi tinggi lemak dan rendah karbohidrat. Diet keto tidak mengkonsumsi semua jenis makanan dan semua jenis minuman. Banyak makanan dan minuman yang dianjurkan dan banyak pula yang harus dihindari. 
 
-Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi dan dihindari ketika memulai diet keto.
+Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh dikonsumsi dan dihindari ketika memulai diet keto.
 
 ### 51 Daftar nama sayuran untuk diet keto:
 
@@ -77,7 +77,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Lobak merah bulat (radish)
 - Kelapa
 - Cabai merah
-- Cabe merah kriting
+- Cabe merah keriting
 - Cabai rawit
 - Cabe hijau
 - Jalapeno
@@ -85,7 +85,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 >Semua jenis sayuran hijau adalah sayuran terbaik untuk diet keto.
 
-### 8 Daftar nama sayuran yang harus di hindari untuk diet keto:
+### 8 Daftar nama sayuran yang harus dihindari untuk diet keto:
 
 {{< img src="kentang.png" alt="kentang" >}}
 
@@ -98,7 +98,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Bawang bombay
 - Edamame
 
->Semua jenis umbi-umbian harus dihindari karna mengandung banyak karbohidrat.
+>Semua jenis umbi-umbian harus dihindari karena mengandung banyak karbohidrat.
 
 ### 16 Daftar nama kacang-kacangan dan biji-bijian untuk diet keto:
 
@@ -109,7 +109,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Kacang hijau
 - Kacang tanah
 - Kacang pikan
-- Kacang halzenut
+- Kacang hazelnut
 - Kacang macadamia
 - Kacang kenari
 - Kacang pistasi
@@ -121,7 +121,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Biji wijen
 - Biji bunga matahari
 
->Kacang dan biji-bijian sehat untuk jantung. Tinggih serat dan membantu proses penuaan lebih sehat.
+>Kacang dan biji-bijian sehat untuk jantung. Tinggi serat dan membantu proses penuaan lebih sehat.
 
 ### 14 Daftar nama kacang-kacangan dan biji-bijian yang harus dihindari untuk diet keto:
 
@@ -133,7 +133,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Beras hitam
 - Beras coklat
 - Beras jagung
-- Beras quiona
+- Beras quinoa
 - Gandum
 - Kacang kedelai
 - Kacang mente
@@ -189,7 +189,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Tepung biji rami
 - Tepung kacang
 - Tepung kacang kenari
-- Tepung halzenut
+- Tepung hazelnut
 - Tepung kelapa
 - Tepung konjak
 
@@ -236,7 +236,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Syrup tropicana slim (semua jenis)
 - Maple syrup rendah kalori
 
->Ketika membeli gula, pilihlah gula rendah kalori, karbohidrat, dan glikemik indek.
+>Ketika membeli gula, pilihlah gula rendah kalori, karbohidrat, dan glikemik indeks.
 
 ### 11 Daftar nama gula dan jenis produk yang harus dihindari untuk diet keto:
 
@@ -254,7 +254,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Gula jawa
 - Susu kental manis
 
->Semua jenis gula tinggih kalori dan karbohidrat harus hindari.
+>Semua jenis gula tinggi kalori dan karbohidrat harus hindari.
 
 ### 6 Daftar nama minyak yang dianjurkan untuk diet keto:
 
@@ -269,7 +269,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
  >Minyak kelapa membantu meningkatkan produksi keton. Membantu meningkatkan laju metabolisme dan membantu penurunan berat badan maupun lemak di perut.
 
-### 11 Daftar nama minyak yang harus di hindari untuk diet keto.
+### 11 Daftar nama minyak yang harus dihindari untuk diet keto.
 
 {{< img src="minyak-goreng.png" alt="minyak" >}}
 
@@ -300,7 +300,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Coconut milk beverage (minuman santan)
 - Susu kacang macadamia
 - Susu kedelai keto
-- Susu kacang mente
+- Susu kacang mete
 - Susu vitayang hi-protein
 - Jus seledri (tanpa gula)
 - Jus brokoli (tanpa gula)
@@ -331,8 +331,8 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Sirup beras
 - Sirup beras merah
 - Sirup mentega
-- Sirup jagung fruktosa tinggih
-- Sirup jagung maltosa tinggih
+- Sirup jagung fruktosa tinggi
+- Sirup jagung maltosa tinggi
 - Karamel
 - Sirup maple
 - Soda
@@ -360,14 +360,14 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Keju mascarpone
 - Keju mozzarella
 - Keju muenster
-- Keju parmensan
+- Keju parmesan
 - Keju peper jack
-- Keju provalone
+- Keju provolone
 - Keju romano
 - Keju swiss
 - Keju kambing (goat cheese)
 - Keju string (string cheese)
-- Keju conttage (cotagge cheese)
+- Keju cottage (cottage cheese)
 - Keju crim (cream cheese)
 - Keju biru (blue cheese)
 - Cream kental (heavy cream)
@@ -387,7 +387,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Sandung lamur (brisket)
 - Daging babi asap (bacon)
 - Dada ayam filet
-- Kulit dipaha dan kaki ayam
+- Kulit di paha dan kaki ayam
 - Sosis keto
 - Daging ayam kalkun
 - Tulang ayam (untuk membuat kaldu)
@@ -407,7 +407,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Tuna
 - Makarel
 - Sardine
-- Ikan filet berwana putih
+- Ikan fillet berwarna putih
 - Ikan kering (ikan asin)
 - Scallops
 - Kerang
@@ -419,7 +419,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Kepiting
 - Udang karang
 
->Kerang memiliki berbagai jenis karbohidrat yang berbeda-beda. Penting untuk memperhitungkan karbohidrat sebelum mengkomsumi kerang.
+>Kerang memiliki berbagai jenis karbohidrat yang berbeda-beda. Penting untuk memperhitungkan karbohidrat sebelum mengkonsumsi kerang.
 
 ### 17 Daftar nama bumbu dan rempah untuk diet keto:
 
@@ -433,7 +433,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Laos
 - Jintan
 - Kemiri
-- Keluwek
+- Kluwek
 - Ketumbar
 - Sereh
 - Kapulaga
@@ -448,7 +448,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 {{< img src="shirataki-noodles.png" alt="mie" >}}
 
 - Shirataki pasta
-- Shirataki spageti
+- Shirataki spaghetti
 - Shirataki noodles (mie shirataki)
 - Shirataki tofu (tahu shirataki)
 - Shirataki rice (beras shirataki)
@@ -463,7 +463,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 - Guacamole
 - Aioli
 - Mustard
-- Tobasco (saus pedas)
+- Tabasco (saus pedas)
 - Telur (mengandung omega 3)
 - Telur puyuh
 - kecap manis tropicana slim
@@ -477,7 +477,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 
 {{< img src="jenis-saus-dilarang.png" alt="saus" >}}
 
-- Mayonaise rendah lemak
+- Mayones rendah lemak
 - Kecap manis
 - Saus tiram
 - Saus raja rasa
@@ -495,6 +495,6 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh di komsumi da
 ## Penutupan
 Selalu perhatikan label yang tertera pada produk kemasan ketika berbelanja. Berlaku untuk semua produk kemasan.
 
-Produk kemasan harus lebih di perhatikan daripada bahan alami yang di beli di pasar. Karena produk kemasan sudah diolah dan sudah berubah kandungan gizinya.
+Produk kemasan harus lebih diperhatikan daripada bahan alami yang di beli di pasar. Karena produk kemasan sudah diolah dan sudah berubah kandungan gizinya.
 
-Demikian artikel bahan makanan dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel bahan makanan dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

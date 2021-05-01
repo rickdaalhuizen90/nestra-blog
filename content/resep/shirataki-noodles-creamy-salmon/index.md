@@ -39,7 +39,7 @@ Menu hidangan shirataki noodles salmon creamy ini begitu kenyal dan creamy. Menu
 
 ## Apa itu shirataki noodles salmon creamy?
 
-Shirataki noodles salmon creamy adalah olahan masakan dari mie shirataki dan ikan salmon. Di masak, di bumbui dengan krim keju dan asparagus, sehingga rasanya begitu gurih dan creamy.
+Shirataki noodles salmon creamy adalah olahan masakan dari mie shirataki dan ikan salmon. Di masak, dibumbui dengan krim keju dan asparagus, sehingga rasanya begitu gurih dan creamy.
 
 ## Mulai Memasak
 
@@ -73,8 +73,8 @@ __Bahan__
 - Hidangkan shirataki noodles creamy ketika masih hangat.
 {{< /steps>}}
 
->Ikan salmon bisa di ganti dengan ikan dori atau semua jenis ikan filet berwarna putih. Untuk sayuran bisa menggunakan asparagus,baby buncis atau brokoli.
+>Ikan salmon bisa diganti dengan ikan dori atau semua jenis ikan fillet berwarna putih. Untuk sayuran bisa menggunakan asparagus,baby buncis atau brokoli.
 
-Menu hidangan ini sangat cocok di hidangkan di siang atau sore hari. Dengan di sandingkan seiris buah semangka yang segar dan ten hijau bebas gula.
+Menu hidangan ini sangat cocok di hidangkan di siang atau sore hari. Dengan disandingkan seiris buah semangka yang segar dan teh hijau bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

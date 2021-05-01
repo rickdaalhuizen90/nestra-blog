@@ -4,7 +4,7 @@ date: "2021-04-20T13:43:40+00:00"
 draft: false
 
 # meta description
-description: "Resep Kaldu tulang sapi yang sehat dan bergizi. Sangat baik dikomsumsi setiap hari."
+description: "Resep Kaldu tulang sapi yang sehat dan bergizi. Sangat baik dikonsumsi setiap hari."
 
 # featured image
 feature: "banner.png"
@@ -37,13 +37,13 @@ serving: 10
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Kaldu tulang sapi mengandung kaya akan protein sehat dan bergizi tinggih. Aroma dan rasa dari masakan kaldu tulang sapi ini begitu gurih dan lezat.
+Kaldu tulang sapi mengandung kaya akan protein sehat dan bergizi tinggi. Aroma dan rasa dari masakan kaldu tulang sapi ini begitu gurih dan lezat.
 
 ## Apa itu kaldu tulang?
 
-Kaldu tulang adalah cairan yang tersisa setelah tulang direbus untuk waktu yang lama. Tulang di rebus dengan rempah-rempah dan bahan asam seperti cuka apel. Sehingga dari rebusan tulang berdaging tadi terciptalah cairan kaldu yang kaya akan protein.
+Kaldu tulang adalah cairan yang tersisa setelah tulang direbus untuk waktu yang lama. Tulang direbus dengan rempah-rempah dan bahan asam seperti cuka apel. Sehingga dari rebusan tulang berdaging tadi terciptalah cairan kaldu yang kaya akan protein.
 
-## Apa perbedaan antara kaldu instant dan kaldu tulang?
+## Apa perbedaan antara kaldu instan dan kaldu tulang?
 
 Kaldu instant terbuat dari rebusan daging sekitar 30 menit dan rasanya yang ringan. Kaldu tulang terbuat dari rebusan tulang dalam waktu lebih lama sekitar 8-12 jam.
 
@@ -56,7 +56,7 @@ Kaldu instant terbuat dari rebusan daging sekitar 30 menit dan rasanya yang ring
 - Menyehatkan kulit.
 - Menambah energi.
 
-## Tulang jenis apa saja yang di butuhkan untuk membuat kaldu?
+## Tulang jenis apa saja yang dibutuhkan untuk membuat kaldu?
 
 ### Tulang sapi, rusa, domba dan kuda.
 
@@ -71,7 +71,7 @@ Membutuhkan tulang kerangka kalkun, kerangka punggung, ujung sayap dan kaki.
 ### Tulang babi.
 Untuk membuat kaldu babi membutuhkan tulang leher, kaki dan ham hock.
 
-## Bagaimana cara mengkomsumsi kaldu tulang?
+## Bagaimana cara mengkonsumsi kaldu tulang?
 
 - Meminumnya langsung
 - Untuk membuat pasta
@@ -81,7 +81,7 @@ Untuk membuat kaldu babi membutuhkan tulang leher, kaki dan ham hock.
 - Untuk membuat saus
 - Untuk membuat rawon
 - Untuk membuat bubur
-- Untukmembuat rendang
+- Untuk membuat rendang
 - Untuk menumis sayur
 - Untuk memasak mie, dll.
 
@@ -109,7 +109,7 @@ __Bahan__
 - Panaskan oven dengan suhu 205°C
 - Siapkan loyang alasi dengan kertas roti. Tata tulang sapi dan bawang putih ke loyang. 
 - Masukan tulang kedalam oven panggang selama 30 menit (bila tidak ada oven bisa skip)
-- Ambil japitan pindahkan tulang sapi dan bawang putih ke dalam panci.
+- Ambil jepitan pindahkan tulang sapi dan bawang putih ke dalam panci.
 - Tambahkan cuka apel, daun salam, garam dan merica hitam. Masukan air nyalakan kompor dengan api besar sampai mendidih.
 - Setelah mendidih kecilkan api. Singkirkan buih/busa yang naik ke atas permukaan kaldu. Rebus selama 8 jam.
 - Buka tutup panci untuk menyingkirkan buih/busa yang muncul di atas permukaan kaldu. Tutup kembali dan ulangi setiap 30 menit, begitu seterusnya.
@@ -124,6 +124,6 @@ __Tips__
 
 - Merebus tulang ayam atau tulang ukuran kecil lainnya membutuhkan waktu yang sedikit. Merebus tulang sapi ukuran besar membutuhkan waktu yang lebih lama.
 - Kaldu bisa di simpan di dalam kulkas dan bisa bertahan sampai 3-6 bulan. Dengan cara tuang kaldu ke dalam stoples kaca dan biarkan dingin. Sebelum ditutup berikan ruang minimal 2 inci.
-- Sebelum mengkomsumsi kaldu, ambil gumpalan kaldu yang muncul di permukaan terlebih dahulu.
+- Sebelum mengkonsumsi kaldu, ambil gumpalan kaldu yang muncul di permukaan terlebih dahulu.
 
-Demikian artikel resep dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mecoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

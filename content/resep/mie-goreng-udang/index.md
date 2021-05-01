@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep mie goreng udang lezat sanggat menggugah selera. Menu spesial untuk keluarga."
+description: "Resep mie goreng udang lezat sangat menggugah selera. Menu spesial untuk keluarga."
 
 # taxonomies
 categories:
@@ -64,7 +64,7 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Panaskan wajan/telflon masukan minyak, tumis bawang putih hingga harum.
+-   Panaskan wajan/teflon masukan minyak, tumis bawang putih hingga harum.
 -   Masukan udang, daging, lada dan saus tiram aduk-aduk sampai udang berubah warna.
 -   Masukan kecap manis, minyak wijen, kaldu jamur dan garam, aduk-aduk.
 -   Masukan mie, aduk semua hingga tercampur rata.
@@ -75,6 +75,6 @@ __Bahan__
 > Perhatikan volume api ketika menggoreng mie. Ketika memasukan bahan kecilkan api. Ketika menggoreng sambil diaduk-aduk besarkan api.
     
 
-Menu hidangan mie goreng ini sangat cocok di sajikan di malam hari. Dengan di sandingkan segelas es jeruk nipis.
+Menu hidangan mie goreng ini sangat cocok di sajikan di malam hari. Dengan disandingkan segelas es jeruk nipis.
 
 Demikian artikel resep dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

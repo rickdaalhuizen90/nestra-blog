@@ -71,7 +71,7 @@ __Saus teriyaki__
 -   Masukan salmon ke dalam bumbu marinasi.
 -   Balur hingga rata diamkan selama 15 menit.
 -   Panaskan teflon masukan minyak zaitun dan salmon, masak dengan api sedang.
--   Bolak balik didua sisi selama 3-4 menit, angkat, tata ke dalam piring.
+-   Bolak balik di dua sisi selama 3-4 menit, angkat, tata ke dalam piring.
 -   Masukan sisa saus teriyaki ke dalam teflon.
 -   Masak hingga mendidih lalu tuangkan di atas salmon.
 -   Hidangkan salmon teriyaki ketika masih panas.
@@ -81,4 +81,4 @@ __Saus teriyaki__
 
 Menu makan malam ini sangat cocok dihidangkan bersama keluarga. Dengan disandingkan nasi lembut yang hangat dan jus mentimun.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

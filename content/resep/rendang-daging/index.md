@@ -40,7 +40,7 @@ serving: 4
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Menu hidangan masakan daging redang yang lezat. Dengan menggunakan anekah bumbu rempah-rempah dan santan. Sehingga mempunyai kaya akan cita rasa dan aroma yang khas, sangat menggugah selera.
+Menu hidangan masakan daging rendang yang lezat. Dengan menggunakan aneka bumbu rempah-rempah dan santan. Sehingga mempunyai kaya akan cita rasa dan aroma yang khas, sangat menggugah selera.
 
 ## Apa itu rendang daging?
 
@@ -50,7 +50,7 @@ Rendang daging ini sangat populer di seluruh Indonesia maupun di seluruh dunia. 
 
 ## Mulai Memasak
 
- Membuat hidangan rendang daging pililah daging khas dalam. Agar mudah empuk. 
+ Membuat hidangan rendang daging pilihlah daging khas dalam. Agar mudah empuk. 
  
  Berikut simak resep dan cara membuat rendang sapi ala diet keto yang lezat dan simple.
 

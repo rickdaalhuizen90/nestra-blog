@@ -36,18 +36,18 @@ serving: 4
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Cah brokoli daging sapi yang lezat dan sehat. Aman di komsumsi bagi yang menjalankan diet keto maupun penderita diabetes.
+Cah brokoli daging sapi yang lezat dan sehat. Aman dikonsumsi bagi yang menjalankan diet keto maupun penderita diabetes.
 
 ## Apa itu cah brokoli daging sapi?
 
  Cah brokoli daging sapi adalah olahan berbahan dasar brokoli dan daging sapi segar. Diolah dibumbui di berikan sedikit kuah kaldu dan kecap manis. Sehingga olahan ini mempunyai warna coklat kehitaman dan sedikit berkuah.
  
 ## Manfaat brokoli
-- Mencegah kangker
-- Meningkatkan kesehatn tulang
+- Mencegah kanker
+- Meningkatkan kesehatan tulang
 - Meningkatkan daya tahan tubuh
 - Menyehatkan kulit
-- Melncarkan pencernaan
+- Melancarkan pencernaan
 - Mengurangi peradangan
 - Mengurangi resiko diabetes
 
@@ -71,7 +71,7 @@ __Bahan__
 - 1 sdt kaldu jamur
 - 2 sdm minyak zaitun
 - 200 ml air kaldu sapi untuk menumis
-- 500 ml air untuk merbus brokoli
+- 500 ml air untuk merebus brokoli
 - Sejumput garam himalaya
 {{< /post-info>}}
 
@@ -83,12 +83,12 @@ __Bahan__
 - Siapkan wajan panaskan minyak zaitun. Masukan bawang putih dan jahe masak. hingga harum.
 - Masukan kecap manis, lada, kaldu sapi, garam dan minyak wijen. Masak sampai mendidih.
 - Masukan daging sapi masak selama 2,5 menit sambil diaduk-aduk dengan api sedang.
-- Masukan brokoli aduk-aduk hingga merata selama 30detik, tes rasa, angkat.
+- Masukan brokoli aduk-aduk hingga merata selama 30 detik, tes rasa, angkat.
 - Hidangkan cah brokoli daging sapi ketika masih hangat.
 {{< /steps>}}
 
 > Masak daging sapi khas dalam jangan lebih dari 3 menit. Agar tekstur daging tetap empuk.
 
-Hidangan cah brokoli daging sapi ini sangat cocok disandingakan dengan nasi shirataki. Sangat pas di hidangkan di siang maupun di malam hari.
+Hidangan cah brokoli daging sapi ini sangat cocok disandingkan dengan nasi shirataki. Sangat pas dihidangkan di siang maupun di malam hari.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

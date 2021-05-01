@@ -43,7 +43,7 @@ serving: 4
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Hidangan omelet memberikan energy bagi tubuh sehingga tubuh kuat dan bertenaga. Menu hidangan ini sangat baik di komsumsi setiap hari.
+Hidangan omelet memberikan energi bagi tubuh sehingga tubuh kuat dan bertenaga. Menu hidangan ini sangat baik dikonsumsi setiap hari.
 
 ## Apa itu hidangan omelet seledri alpukat?
 
@@ -58,7 +58,7 @@ Omelet seledri dan alpukat adalah olahan telur dikocok lepas dengan daun seledri
 - Mencegah dehidrasi
 
 ## Mulai Memasak
-Menu hidangan diet ini kaya akan cita rasa dan nutrisi. Cara mebuatnya mudah dan tidak memakan waktu yang lama.
+Menu hidangan diet ini kaya akan cita rasa dan nutrisi. Cara membuatnya mudah dan tidak memakan waktu yang lama.
 
 {{< post-info prep="10 menit" cook="10 menit" total="20 menit" serving="2">}}
 
@@ -78,7 +78,7 @@ __Bahan__
 - Cuci paprika potong dadu, sisihkan.
 - Kupas buah alpukat lalu potong dadu, sisihkan.
 - Kocok lepas telur bersama irisan seledri, garam dan lada.
-- Ambil telfon nyalakan api masukan 2 sdm metega hingga mencair.
+- Ambil teflon nyalakan api masukan 2 sdm mentega hingga mencair.
 - Masukan setengah kocokan telur. Masak bolak balik hingga berwarna coklat, masukan telur ke dalam piring.
 -  Ulangi menggoreng sisa adonan telur.
 - Hidangkan omelet ketika masih hangat dengan topping alpukat dan paprika.
@@ -86,4 +86,4 @@ __Bahan__
 
 Menu hidangan ini sangat cocok dihidangkan di waktu sarapan. Dengan disandingkan segelas susu rendah karbohidrat bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

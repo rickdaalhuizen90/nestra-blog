@@ -4,7 +4,7 @@ date: "2021-04-03T13:43:40+00:00"
 draft: false
 
 # meta description
-description: "Resep sup ikan dori ala diet keto cepat saji. Rasanya begitu segar sanggat menggugah selera."
+description: "Resep sup ikan dori ala diet keto cepat saji. Rasanya begitu segar sangat menggugah selera."
 
 # featured image
 feature: "banner.png"
@@ -40,7 +40,7 @@ Menu hidangan sup ikan dori dengan aroma yang segar dan rasa yang lezat. Layak m
 
 ## Apa itu sup ikan dori?
 
-Sup ikan dori adalah olahan dari ikan dori filet yang di potong-potong dibumbui. Ditambahakan tomat, cabe rawit utuh, direbus bersama ke dalam panci. Sehingga olahan ini menghasilkan aroma yang khas dan rasa yang begitu lezat.
+Sup ikan dori adalah olahan dari ikan dori fillet yang di potong-potong dibumbui. Ditambahkan tomat, cabe rawit utuh, direbus bersama ke dalam panci. Sehingga olahan ini menghasilkan aroma yang khas dan rasa yang begitu lezat.
 
 ## Mulai Memasak
 
@@ -83,4 +83,4 @@ __Bahan__
 
 Menu hidangan ini cocok di sajikan di siang maupun malam hari. Dengan disandingkan semangkuk nasi shirataki.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

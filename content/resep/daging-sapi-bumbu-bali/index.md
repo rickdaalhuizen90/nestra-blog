@@ -53,7 +53,7 @@ Daging sapi bumbu bali adalah olahan berbahan dasar dari daging sapi. Dibumbui a
 
 ## Mulai Memasak
 
-Kali ini saya membuat resep daging sapi bumbu bali yang lezat dan sehat di komsumi untuk diet keto. 
+Kali ini saya membuat resep daging sapi bumbu bali yang lezat dan sehat dikonsumsi untuk diet keto. 
 
 Yuk simak resep cara membuat daging bumbu bali ala diet keto di bawah ini.
 
@@ -63,7 +63,7 @@ __Bahan__
 
 - 500 gr daging sapi khas dalam
 - 400 ml air kaldu sapi
-- 1 batang sereh memarkan
+- 1 batang serai memarkan
 - 3 cm lengkuas memarkan
 - 1 buah tomat cincang kasar
 - 3 lembar daun jeruk
@@ -94,7 +94,7 @@ __Bumbu halus__
 
 > Jangan memotong daging terlalu tebal agar tekstur daging mudah empuk.
 
-Menu hidangan ini sangat cocok di hidangkan di siang maupun sore hari. Dengan di sandingkan nasi shirataki dan segelas teh hijau bebas gula.
+Menu hidangan ini sangat cocok di hidangkan di siang maupun sore hari. Dengan disandingkan nasi shirataki dan segelas teh hijau bebas gula.
 
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

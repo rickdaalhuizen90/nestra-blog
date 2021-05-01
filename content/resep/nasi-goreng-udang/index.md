@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep nasi goreng udang yang lezat. Hidangan special yang sangat menggugah selera"
+description: "Resep nasi goreng udang yang lezat. Hidangan spesial yang sangat menggugah selera"
 
 # taxonomies
 categories:
@@ -79,6 +79,6 @@ __Bahan__
 
 >   Perhatikan volume api ketika menggoreng nasi. Ketika memasukan bahan kecilkan api. Ketika menggoreng sambil diaduk-aduk besarkan api.
     
-Menu hidangan ini sangat cocok dihidangkan di malam hari. Dengan di sandingkan segelas es teh manis.
+Menu hidangan ini sangat cocok dihidangkan di malam hari. Dengan disandingkan segelas es teh manis.
 
 Demikian artikel resep dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

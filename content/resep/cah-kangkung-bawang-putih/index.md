@@ -88,6 +88,6 @@ __Bahan__
 
 > Memasak cah kangkung tidak lebih dari 3 menit.
 
-Menu hidangan ini sangat cocok di hidangkan di siang maunpun sore hari. Dengan disandingkan semangkuk nasi shirataki dan seiris buah melon.
+Menu hidangan ini sangat cocok di hidangkan di siang maupun sore hari. Dengan disandingkan semangkuk nasi shirataki dan seiris buah melon.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen, share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen, share ya :)

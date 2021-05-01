@@ -1,6 +1,6 @@
 ---
 title: "Es Jeruk Nipis"
-date: 2021-05-01T17:08:19+02:00
+date: 2021-05-02T17:08:19+02:00
 draft: false
 
 # post thumb
@@ -41,11 +41,11 @@ serving: 1
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Es jeruk nipis minuman segar dan sehat. Sangat cocok dinimum setiap hari.
+Es jeruk nipis minuman segar dan sehat. Sangat cocok diminum setiap hari.
 
 ## Apa itu es jeruk nipis?
 
-Eh jeruk nipis adalah minum segar dari berbahan jeruk nipis. Jeruk nipis di peras di tambahkan garam, gula dan air lalu di larutkan. Sehingga menghasilkan minuman segar yang kaya akan rasa.
+Eh jeruk nipis adalah minum segar dari berbahan jeruk nipis. Jeruk nipis di peras di tambahkan garam, gula dan air lalu dilarutkan. Sehingga menghasilkan minuman segar yang kaya akan rasa.
 
 ## Manfaat jeruk nipis
 
@@ -60,7 +60,7 @@ Eh jeruk nipis adalah minum segar dari berbahan jeruk nipis. Jeruk nipis di pera
 -   Menyeimbangkan PH tubuh
 -   Mengoptimalkan kinerja otak
 -   Mencegah penuaan dini
--   Mengobati pradangan kulit
+-   Mengobati peradangan kulit
 -   Menurunkan gula darah
 -   Memberantas pertumbuhan kuman
 -   Memperkuat sendi

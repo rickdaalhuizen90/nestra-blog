@@ -41,7 +41,7 @@ Menu hidangan salad yang segar dan sangat menggugah selera. Salad diet ini membu
 
 ## Apa itu salad telur sayur? 
 
-Salad sayur dan telur adalah campuran dari kol ungu segar, buncis dan telur ebus. Bahan dipotong-potong di campur menjadi satu dan di hidangankan dalam suhu ruang.
+Salad sayur dan telur adalah campuran dari kol ungu segar, buncis dan telur rebus. Bahan dipotong-potong dicampur menjadi satu dan dihidangkan dalam suhu ruang.
 
 ## Manfaat buncis
 
@@ -81,4 +81,4 @@ Menu hidangan ini sangat lezat di mulut. Perpaduan dari rasa kol ungu dan buncis
 
 Menu hidangan ini sangat cocok di hidangkan di pagi maupun malam hari. Dengan disandingkan secangkir kaldu sapi.
 
-Demikian artikel resep dari saya, semoga bermanfaat untuk teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya, semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share:)

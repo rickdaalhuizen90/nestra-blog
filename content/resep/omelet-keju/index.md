@@ -4,7 +4,7 @@ date: "2021-04-19T13:43:40+00:00"
 draft: false
 
 # meta description
-description: "Resep omelet alpukat keju yang simple dan sehat. Sangat ramah untuk diet ketos."
+description: "Resep omelet keju yang simple dan sehat. Sangat ramah untuk diet ketos."
 
 # featured image
 feature: "banner.png"
@@ -38,9 +38,9 @@ serving: 1
 
 Menu hidangan omelet yang gurih, lembut dan lezat di mulut. Menu hidangan omelet diet ini sangat sehat dan bergizi.
 
-## Apa itu omelet alpukat keju?
+## Apa itu omelet keju?
 
-Omelet alpukat keju adalah olahan dari berbahan telur yang di kocok lepas. Di bumbui dan di goreng dengan mentega lalu di tambahkan alpukat dan topping keju. Sehingga hidangan ini mempunyai aroma yang gurih dan lezat.
+Omelet alpukat keju adalah olahan dari berbahan telur yang dikocok lepas. Di bumbui dan di goreng dengan mentega lalu di tambahkan alpukat dan topping keju. Sehingga hidangan ini mempunyai aroma yang gurih dan lezat.
 
 ## Manfaat alpukat
 
@@ -63,7 +63,7 @@ __Bahan__
 
 -   2 butir telur
 -   1 buah alpukat
--   100 gr Keju parut
+-   200 gr Keju parut
 -   Sejumput Garam himalaya
 -   2 sdm Mentega
 {{< /post-info>}}
@@ -71,14 +71,14 @@ __Bahan__
 {{< steps title="Cara membuat">}}
 -   Pecahkan telur kedalam wadah, masukan sejumput garam kocok lepas.
 -   Kupas buah alpukat dan iris-iris.
--   Panaskan wajan telfon. Masukan mentega hingga cair.
+-   Panaskan wajan teflon. Masukan mentega hingga cair.
 -   Masukan telur masak dengan sedang, jika sudah setengah matang kecilkan api.
--   Masukan alpukatdan keju, tata di atas telur. Masak dengan api kecil hingga matang. Angkat
+-   Masukan alpukat dan keju, tata di atas telur. Masak dengan api kecil hingga matang. Angkat
 -   Hidangkan omelet alpukat keju ketika masih hangat.
 {{< /steps>}}
 
 >Ketika menggoreng telur tidak usah di bolak balik. Biarkan telur tetap begitu hingga matang.
 
-Menu hidangan ini cocok di sajikan di waktu sarapan. Dengan di sandingkan segelas susu rendah karbohidrat atau secangkir kaldu sapi.
+Menu hidangan ini cocok di sajikan di waktu sarapan. Dengan disandingkan segelas susu rendah karbohidrat atau secangkir kaldu sapi.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

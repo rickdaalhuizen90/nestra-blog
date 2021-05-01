@@ -47,14 +47,14 @@ Kari udang adalah olahan udang santan berwarna kuning. Bahanya dari udang yang d
 
 ## Manfaat udang
 
--   Membantu pembetukan sel dan jaringan tubuh
+-   Membantu pembentukan sel dan jaringan tubuh
 -   Membantu produksi hormon tiroid
 -   Menjaga kesehatan tulang dan gigi
 -   Menyehatkan jantung
 
 ## Mulai memasak
 
-Cara membuat kare udang ini mudah dan cepat. Hasilnya maximal dan sangat pas dijadikan menu sehari-hari.
+Cara membuat kari udang ini mudah dan cepat. Hasilnya maximal dan sangat pas dijadikan menu sehari-hari.
 
 Berikut simak resepnya di bawah ini.
 
@@ -66,7 +66,7 @@ __Bahan__
 -   1 bonggol sawi hijau
 -   Segenggam kecambah
 -   1 batang serai memarkan
--   1 ruas lengkuas memarkan
+-   1 ruas laos memarkan
 -   2 lbr daun salam
 -   3 lbr daun jeruk (robek-robek)
 -   1/2 sdt lada bubuk
@@ -90,7 +90,7 @@ __Bumbu halus__
 {{< steps title="Cara membuat">}}
 -   Buang bonggol sawi, cuci bersih, tiriskan. 
 -   Panaskan wajan, masukan minyak kelapa. 
--   Masukan bumbu halus, sereh, salam, daun jeruk, dan lengkuas. Tumis hingga harum.  
+-   Masukan bumbu halus, sereh, salam, daun jeruk, dan laos. Tumis hingga harum.  
 -   Masukan udang aduk-aduk. Masak hingga udang berubah warna.
 -   Masukan santan, lada, kaldu jamur, gula dan garam.
 -   Masak hingga mendidih sambil diaduk-aduk. Masak hingga matang.
@@ -100,6 +100,6 @@ __Bumbu halus__
 	
 > Aduk terus ketika memasukan santan supaya santan tidak pecah.
  
-Menu hidangan ini sangat baik di hidangkan di sore hari. Dengan disandingkan semangkuk nasi shirataki dan teh bebas gula.
+Menu hidangan ini sangat baik dihidangkan di sore hari. Dengan disandingkan semangkuk nasi shirataki dan teh bebas gula.
 
 Demikian artikel resep dari saya, semoga bermanfaat untuk teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

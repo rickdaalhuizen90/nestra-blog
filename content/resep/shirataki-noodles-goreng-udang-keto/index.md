@@ -83,4 +83,4 @@ __Bumbu halus__
 
 Menu hidangan ini sangat cocok dihidangkan di siang maupun di malam hari. Dengan disandingkan teh hijau bebas gula
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

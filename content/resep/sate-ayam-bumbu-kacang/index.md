@@ -35,11 +35,11 @@ serving: 4
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Menu hidangan sate ayam bumbu kacang yang rendah karbohidrat. Sehingga aman di komsumsi untuk diet keto maupun penderita diabetes.
+Menu hidangan sate ayam bumbu kacang yang rendah karbohidrat. Sehingga aman dikonsumsi untuk diet keto maupun penderita diabetes.
 
 ## Apa itu sate ayam bumbu kacang?
 
-Sate ayam adalah olahan dada ayam dipotong dadu dan di marinasi. Ditusuk sate dan di bakar ataun dipanggang. Dihidangkan bersama bumbu kacang yang membuat hidangan ini sangat lezat.
+Sate ayam adalah olahan dada ayam dipotong dadu dan di marinasi. Ditusuk sate dan dibakar atau dipanggang. Dihidangkan bersama bumbu kacang yang membuat hidangan ini sangat lezat.
 
 ## Manfaat daging ayam
 
@@ -88,23 +88,23 @@ __Bumbu kacang__
 - Panaskan wajan sangrai kacang, cabe merah dan bawang putih hingga matang. Sisihkan
 - Haluskan kacang tanah, bawang putih dan cabe merah.
 - Panaskan wajan. Masukan bumbu kacang, gula jawa, kecap manis, kaldu jamur air dan garam.
-- Masak sampe mendidih sambil diaduk-aduk sampe kuah menyusut. Tes rasa, angkat.
+- Masak sampai mendidih sambil diaduk-aduk sampai kuah menyusut. Tes rasa, angkat.
 {{< /steps>}}
 
 {{< steps title="Cara membuat sate ayam">}}
 - Cuci ayam hingga bersih lalu lumuri ayam dengan perasan air jeruk nipis. Diamkan 10 menit, bilas hingga bersih.
-- Keringkan ayam dengan tisu atau lap bersih lalu potong dadu sesuaikan sampe 20 tusuk.
+- Keringkan ayam dengan tisu atau lap bersih lalu potong dadu sesuaikan sampai 20 tusuk.
 - Ambil wadah masukan potongan ayam dalam wadah. Masukan bumbu marinasi aduk-aduk sampai rata.
 - Ambil tusuk sate, tusukan ayam di tusuk sate. 
-- Panggang semua ayam bergantian di atas bara api. Sambil di bolak balik hingga matang, angkat.
+- Panggang semua ayam bergantian di atas bara api. Sambil dibolak balik hingga matang, angkat.
 {{< /steps>}}
 
 {{< steps title="Cara penyajian">}}
 - Tata 10 tusuk sate ke dalam piring. Hidangkan bersama bumbu kacang dan cabe rawit ketika masih hangat.
 {{< /steps>}}
 
->Untuk membakar ayam bisa dipanggang di atas kompor yang sudah dipasang alat pangagangan. Juga bisa diatas teflon maupun di oven
+>Untuk membakar ayam bisa dipanggang di atas kompor yang sudah dipasang alat panggangan. Juga bisa diatas teflon maupun di oven
 
 Menu hidangan ini sangat cocok di dihidangkan di sore hari. Dengan di sandingkan semangkuk nasi shirataki dan teh hijau bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dansalam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya:)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya:)

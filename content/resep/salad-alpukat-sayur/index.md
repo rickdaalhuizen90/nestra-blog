@@ -40,7 +40,7 @@ serving: 2
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Hidangan salad diet ini kaya akan serat dan vitamin. Sangat cocok untuk gaya hidup yang sehat dan layak untuk di komsumsi sehari-hari.
+Hidangan salad diet ini kaya akan serat dan vitamin. Sangat cocok untuk gaya hidup yang sehat dan layak untuk dikonsumsi sehari-hari.
 
 ## Apa itu salad alpukat dan sayur?
 
@@ -48,14 +48,14 @@ Salad alpukat sayur adalah makanan segar dari bahan timun, alpukat dan. Dipotong
 
 ## Apa manfaat salad alpukat sayur?
 
-- Memnyehatkan kulit dan rambut
+- Menyehatkan kulit dan rambut
 - Mengontrol kadar gula darah
 - Membantu penurunan berat badan.
 - Melawan kanker.
 - Mengurangi sakit kepala dan mabuk
 - Menurunkan kolesterol
 - Mengontrol tekanan darah
-- Meredahkan nyeri sendi dan encok
+- Meredakan nyeri sendi dan encok
 
 ## Cara membuat
 
@@ -83,8 +83,8 @@ __Bahan__
 - Hidangkan salad dengan suhu ruang.
 {{< /steps>}}
 
-> Selada bisa di ganti dengan daun bayam atau daun kangkung.
+> Selada bisa diganti dengan daun bayam atau daun kangkung.
 
-Menu hidangan ini sangat cocok di sajikan di pagi maupun sore hari. Dengan di sandingkan secangkir susu rendah karbohidrat atau secangkir kaldu sapi.
+Menu hidangan ini sangat cocok di sajikan di pagi maupun sore hari. Dengan disandingkan secangkir susu rendah karbohidrat atau secangkir kaldu sapi.
 
-Demikian artikel dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+Demikian artikel dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)

@@ -1,6 +1,6 @@
 ---
 title: "Tumis Kol Daging Sapi"
-date: 2021-05-02T09:26:08+02:00
+date: 2021-05-01T09:26:08+02:00
 draft: false
 
 # post thumb
@@ -87,8 +87,8 @@ __Bahan__
 -   Hidangkan tumis kol daging sapi ketika masih panas.
 {{< /steps>}}
 
-> Daging sapi bisa diganti dengan filet dada ayam tanpa kulit.
+> Daging sapi bisa diganti dengan dada ayam fillet tanpa kulit.
 
-Menu hidangan ini sangat baik di komsumi di siang maupun malam hari. Dengan disandingkan teh hijau bebas gula.
+Menu hidangan ini sangat baik dihidangkan di siang maupun malam hari. Dengan disandingkan teh hijau bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

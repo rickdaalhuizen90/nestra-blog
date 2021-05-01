@@ -42,7 +42,7 @@ Ikan salmon panggang ala diet keto ini sangat lezat. Rasa daging salmon yang emp
 
 ## Apa itu ikan salmon panggang?
 
-Ikan salmon panggang adalah ikan salmon filet di beri bumbu marinasi lalu dipanggang. Dimasak hingga berwarna kuning kecoklatan, sehingga menghasilkan aroma gurih dan rasa yang lezat.
+Ikan salmon panggang adalah ikan salmon fillet diberi bumbu marinasi lalu dipanggang. Dimasak hingga berwarna kuning kecoklatan, sehingga menghasilkan aroma gurih dan rasa yang lezat.
 
 ## Manfaat ikan salmon
 
@@ -52,17 +52,17 @@ Ikan salmon panggang adalah ikan salmon filet di beri bumbu marinasi lalu dipang
 - Menunjang perkembangan otak pada anak-anak
 - Mengatasi depresi.
 - Mengandung banyak vitamin dan mineral untuk tubuh
-- Sumber protein berkualitas tinggih dan asam lemak omega 3.
+- Sumber protein berkualitas tinggi dan asam lemak omega 3.
 
 ## Mulai Memasak 
 
-Resep hidangan ini begitu lezat dan siap di nikmati dalam hitungan menit. Cara membuatnya sangat mudah dan cepat. 
+Resep hidangan ini begitu lezat dan siap dinikmati dalam hitungan menit. Cara membuatnya sangat mudah dan cepat. 
 
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="2">}}
 
 __Bahan__
 
-- 500 gr filet ikan salmon
+- 500 gr fillet ikan salmon
 - 12 batang asparagus
 - 2 sdm air jeruk nipis
 - 1 siung bawang putih cincang halus
@@ -90,8 +90,8 @@ __Bahan marinasi__
 - Tata asparagus dan salmon ke dalam piring. Hidangkan ketika masih hangat.
 {{< /steps>}}
 
-> Sayur asparagus bisa di gantikan dengan brokoli, buncis atau bayam.
+> Sayur asparagus bisa digantikan dengan brokoli, buncis atau bayam.
 
-Menu hidangan ini sangat cocok di hidangkan di malam hari. Dengan di sandingkan secangkir teh hijau bebas gula.
+Menu hidangan ini sangat cocok di hidangkan di malam hari. Dengan disandingkan secangkir teh hijau bebas gula.
 
-Demikian resep ikan salmon goreng diet ala keto dari saya. Semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya:)
+Demikian artikel resep dari saya. Semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya:)

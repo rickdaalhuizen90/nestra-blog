@@ -39,20 +39,20 @@ serving: 2
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Menu hidangan telur orak-arik yang empuk, lezat dan menggugah selera. Juga bergizi tinggih yang membuat tubuh bertenaga.
+Menu hidangan telur orak-arik yang empuk, lezat dan menggugah selera. Juga bergizi tinggi yang membuat tubuh bertenaga.
 
 ## Apa itu telur orak arik?
 
-Telur orak arik adalah olahan dari bahan telur yang di kocok lepas. Di tuang ke dalam wajan yang sudah di panaskan bersama mentega. Diaduk secara perlahan dengan api kecil, sehingga menghasilkan telur yang lembut dan creamy.
+Telur orak arik adalah olahan dari bahan telur yang dikocok lepas. Di tuang ke dalam wajan yang sudah dipanaskan bersama mentega. Diaduk secara perlahan dengan api kecil, sehingga menghasilkan telur yang lembut dan creamy.
 
 ## Manfaat telur
 
-- Makanan yang bergizi tinggih.
+- Makanan yang bergizi tinggi.
 - Menurunkan resiko penyakit jantung.
 - Mencerdaskan otak.
 - Baik untuk kesehatan mata.
 - Mengurangi nafsu makan.
-- Membantu menurunkaan berat badan.
+- Membantu menurunkan berat badan.
 - Meningkatkan daya imun tubuh.
 - Mempercantik kulit dan rambut.
 - Mencegah stres.
@@ -83,4 +83,4 @@ __Bahan__
 
 Menu hidangan telur orak arik ini sangat cocok di sajikan di pagi hari atau sarapan. Dengan disandingkan bersama segelas susu rendah karbohidrat.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
