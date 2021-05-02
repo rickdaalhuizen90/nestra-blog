@@ -98,4 +98,4 @@ __Cara membuat__
 
 Hidangan rendang daging keto ini sangat cocok dihidangkan di siang maupun malam hari. Dengan di sandingkan dengan nasi shirataki dan secangkir teh hijau bebas gula.
 
-Demikian artikel resep dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

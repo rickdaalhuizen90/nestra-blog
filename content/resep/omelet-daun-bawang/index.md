@@ -82,4 +82,4 @@ __Bahan__
 
 Menu hidangan ini sangat cocok dihidangkan di pagi hari atau di waktu sarapan. Dengan disandingkan dengan segelas susu rendah karbohidrat bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan salam sehat selalu. Sampai jumpa di artikel selanjutnya dan jangan lupa like,komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

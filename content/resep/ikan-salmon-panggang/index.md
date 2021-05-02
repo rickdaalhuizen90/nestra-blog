@@ -94,4 +94,4 @@ __Bahan marinasi__
 
 Menu hidangan ini sangat cocok di hidangkan di malam hari. Dengan disandingkan secangkir teh hijau bebas gula.
 
-Demikian artikel resep dari saya. Semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya:)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

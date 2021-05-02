@@ -1,6 +1,6 @@
 ---
 title: "Manisan Cermai"
-date: 2021-05-02T09:30:38+02:00
+date: "2021-05-03T09:30:38+02:00"
 draft: false
 
 # post thumb
@@ -76,4 +76,4 @@ __Bahan__
 
 Simpan manisan cermai dalam kulkas dengan ditutup rapat, bisa bertahan 2-3 bulan. Jika ingin mengkonsumsi manisan cermai, ambil manisan ke dalam mangkuk lalu tutup kembali. Masukan lagi Manisan cermai ke dalam kulkas.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba, Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

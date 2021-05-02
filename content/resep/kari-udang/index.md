@@ -1,6 +1,6 @@
 ---
 title: "Kari Udang"
-date: 2021-04-29ST15:08:38+02:00
+date: "2021-04-29T09:30:38+02:00"
 draft: false
 
 # post thumb
@@ -102,4 +102,4 @@ __Bumbu halus__
  
 Menu hidangan ini sangat baik dihidangkan di sore hari. Dengan disandingkan semangkuk nasi shirataki dan teh bebas gula.
 
-Demikian artikel resep dari saya, semoga bermanfaat untuk teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

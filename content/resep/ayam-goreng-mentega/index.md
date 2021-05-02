@@ -1,6 +1,6 @@
 ---
 title: "Ayam Goreng Mentega"
-date: 2021-04-29T10:11:12+02:00
+date: "2021-04-29T10:11:12+02:00"
 draft: false
 
 # post thumb
@@ -90,4 +90,4 @@ __Bahan__
 
 Menu hidangan ini sangat cocok dihidangkan di siang maupun sore hari. Dengan disandingkan semangkuk nasi shirataki dan teh hijau bebas gula.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan smpai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

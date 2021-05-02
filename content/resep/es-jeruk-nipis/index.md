@@ -1,6 +1,6 @@
 ---
 title: "Es Jeruk Nipis"
-date: 2021-05-02T17:08:19+02:00
+date: "2021-05-02T17:08:19+02:00"
 draft: false
 
 # post thumb
@@ -69,7 +69,7 @@ Eh jeruk nipis adalah minum segar dari berbahan jeruk nipis. Jeruk nipis di pera
 
 Cara membuat es jeruk ala diet keto ini sangat mudah. Bahannya minim dan hasilnya maksimal.
 
-{{< post-info prep="2 menit" cook="3" total="5 menit" serving="1">}}
+{{< post-info prep="3 menit" cook="2" total="5 menit" serving="1">}}
 
 __Bahan__
 
@@ -89,4 +89,4 @@ __Bahan__
 
 Minuman es jeruk ala diet keto ini sangat pas diteguk dikala matahari terik.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

@@ -1,6 +1,6 @@
 ---
 title: "Jus Mentimun"
-date: 2021-05-02T16:47:22+02:00
+date: "2021-05-02T16:47:22+02:00"
 draft: false
 
 # post thumb
@@ -65,7 +65,7 @@ Cara membuat jus timun ini begitu simple dan praktis. Bahannya minim dan selalu 
 
 __Bahan__
 
--   1 buah mentimun besar
+-   1 buah mentimun besar (pilih yang muda)
 -   2 sdm gula tropicana slim
 -   2 sdm air jeruk nipis
 -   Sejumput garam himalaya
@@ -81,4 +81,4 @@ Cara membuat
 
 Jus mentimun ini adalah minuman yang segar. Sangat pas diminum di siang hari dibawah teriknya sinar matahari.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

@@ -105,4 +105,4 @@ __Bahan Sambal__
 
 Menu hidangan ini sangat cocok dihidangkan di siang atau sore hari. Dengan disandingkan semangkuk nasi shirataki dan segelas teh hijau bebas gula.
 
-Demikian artikel  resep dari saya, semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like,komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

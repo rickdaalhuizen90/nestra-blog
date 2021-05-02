@@ -91,4 +91,4 @@ __Bahan__
 
 Hidangan cah brokoli daging sapi ini sangat cocok disandingkan dengan nasi shirataki. Sangat pas dihidangkan di siang maupun di malam hari.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

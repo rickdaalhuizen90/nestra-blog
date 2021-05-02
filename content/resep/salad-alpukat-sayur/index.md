@@ -87,4 +87,4 @@ __Bahan__
 
 Menu hidangan ini sangat cocok di sajikan di pagi maupun sore hari. Dengan disandingkan secangkir susu rendah karbohidrat atau secangkir kaldu sapi.
 
-Demikian artikel dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

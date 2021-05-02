@@ -96,5 +96,4 @@ __Bumbu halus__
 
 Menu hidangan ini sangat cocok di hidangkan di siang maupun sore hari. Dengan disandingkan nasi shirataki dan segelas teh hijau bebas gula.
 
-
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

@@ -1,6 +1,6 @@
 ---
 title: "Pentol Bakso Halus"
-date: 2021-04-28T12:09:26+02:00
+date: "2021-04-28T12:09:26+02:00"
 draft: false
 
 # post thumb
@@ -81,4 +81,4 @@ __Bahan__
 
 Menu hidangan ini sangat cocok di sajikan di sore maupun di malam hari. Dengan disandingkan bersama mie, tahu rebus atau dengan lontong, sesuai selera :)
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like,komen dan share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

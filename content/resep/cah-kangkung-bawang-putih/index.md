@@ -90,4 +90,4 @@ __Bahan__
 
 Menu hidangan ini sangat cocok di hidangkan di siang maupun sore hari. Dengan disandingkan semangkuk nasi shirataki dan seiris buah melon.
 
-Demikian artikel resep dari saya semoga bermanfaat bagi teman-teman semuanya. Selamat mencoba dan sampai jumpa di artikel selanjutnya. Jangan lupa like, komen, share ya :)
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
