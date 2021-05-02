@@ -1,6 +1,6 @@
 ---
 title: "Nasi Goreng Udang"
-date: 2021-04-30T09:35:31+02:00
+date: "2021-04-30T13:43:40+00:00"
 draft: false
 
 # post thumb
@@ -26,7 +26,7 @@ type: "post"
 recipe: true
 
 # prep time
-time: "20"
+time: "20 menit"
 
 # serving
 serving: 2

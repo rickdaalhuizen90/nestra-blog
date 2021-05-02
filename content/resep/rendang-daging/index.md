@@ -31,7 +31,7 @@ tags:
 type: "post"
 
 # prep time
-time: "1jam"
+time: "1 jam"
 
 # serving
 serving: 4

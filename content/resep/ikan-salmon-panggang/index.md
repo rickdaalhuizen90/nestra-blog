@@ -29,7 +29,7 @@ tags:
 type: "post"
 
 # prep time
-time: "30mnt"
+time: "30 menit"
 
 # serving
 serving: 2

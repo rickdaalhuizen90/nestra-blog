@@ -1,6 +1,6 @@
 ---
 title: "Cumi Bumbu Kuning"
-date: "2021-05-01T13:48:22+02:00"
+date: "2021-05-01T13:43:40+00:00"
 draft: false
 
 # post thumb

@@ -1,6 +1,6 @@
 ---
 title: "Salmon Teriyaki"
-date: 2021-05-01T13:33:24+02:00
+date: "2021-05-01T13:43:40+00:00"
 draft: false
 
 # post thumb
@@ -26,7 +26,7 @@ type: "post"
 recipe: true
 
 # prep time
-time: "30"
+time: "30 menit"
 
 # serving
 serving: 4

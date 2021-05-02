@@ -1,6 +1,6 @@
 ---
 title: "Ayam Goreng Ungkep"
-date: "2021-05-02T22:06:39+02:00"
+date: "2021-05-02T13:43:40+00:00"
 draft: false
 
 # post thumb

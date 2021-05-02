@@ -1,6 +1,6 @@
 ---
 title: "Es Jeruk Nipis"
-date: "2021-05-02T17:08:19+02:00"
+date: "2021-05-02T13:43:40+00:00"
 draft: false
 
 # post thumb
@@ -32,7 +32,7 @@ type: "post"
 recipe: true
 
 # prep time
-time: ""
+time: "5 menit"
 
 # serving
 serving: 1

@@ -27,7 +27,7 @@ tags:
 type: "post"
 
 # prep time
-time: "10mnt"
+time: "10 menit"
 
 # serving
 serving: 1

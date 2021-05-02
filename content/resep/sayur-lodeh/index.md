@@ -1,7 +1,7 @@
 ---
 title: "Sayur Lodeh"
 date: "2021-04-08T13:43:40+00:00"
-draft: true
+draft: false
 
 # meta description
 description: "Resep sayur lodeh yang sehat dan lezat. Menu makanan vegan yang menggugah selera"
@@ -28,7 +28,7 @@ tags:
 type: "post"
 
 # prep time
-time: "30mnt"
+time: "30 menit"
 
 # serving
 serving: 3

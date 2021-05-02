@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/kari-udang/index.md",
+            "file": "zbelom-selesai/ayam-kecap/index.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "draft true",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/kari-udang/index.md",
+                "file": "zbelom-selesai/ayam-kecap/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "100cff3729a86d3c",
   "lastOpenFiles": [
-    "resep/kari-udang/index.md",
+    "zbelom-selesai/ayam-kecap/index.md",
+    "resep/sayur-lodeh/index.md",
+    "resep/kaldu-tulang-sapi/index.md",
+    "resep/rendang-daging/index.md",
+    "resep/ikan-salmon-panggang/index.md",
+    "resep/cah-brokoli-daging-sapi/index.md",
     "resep/ayam-goreng-mentega/index.md",
-    "resep/manisan-cermai/index.md",
-    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/index.md",
-    "resep/jus-mentimun/index.md",
-    "resep/es-jeruk-nipis/index.md",
-    "resep/ayam-goreng-ungkep/index.md",
-    "resep/ayam-goreng-ungkep/7168488391_46e348c4ee_o.jpg",
-    "resep/ayam-goreng-crispy/banner.png",
-    "resep/ayam-goreng-crispy/index.md"
+    "resep/daging-sapi-bumbu-bali/index.md",
+    "resep/ikan-goreng-crispy-keto/index.md",
+    "resep/pentol-bakso/index.md"
   ]
 }

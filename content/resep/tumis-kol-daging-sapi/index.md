@@ -1,6 +1,6 @@
 ---
 title: "Tumis Kol Daging Sapi"
-date: "2021-05-01T09:26:08+02:00"
+date: "2021-05-01T13:43:40+00:00"
 draft: false
 
 # post thumb

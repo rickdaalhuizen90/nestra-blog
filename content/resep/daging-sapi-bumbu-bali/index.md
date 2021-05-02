@@ -27,7 +27,7 @@ tags:
 type: "featured"
 
 # prep time
-time: "45mnt"
+time: "45 menit"
 
 # serving
 serving: 4

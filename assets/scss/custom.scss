@@ -19,3 +19,9 @@
 @import 'templates/recipe-tags';
 @import 'templates/sidebar';
 @import 'templates/steps';
+@import 'templates/social-share';
+
+// @todo remove when active
+.adsbygoogle {
+	display: none !important;
+}

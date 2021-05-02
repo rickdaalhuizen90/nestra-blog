@@ -28,7 +28,7 @@ type: "post"
 
 
 # prep time
-time: "8jam 10mnt"
+time: "8 jam 10 menit"
 
 # serving
 serving: 10

@@ -116,17 +116,22 @@ expire_days = 2
 [[params.social]]
 title = "Pinterest"
 icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
-link = "https://nl.pinterest.com/ineztraphun/"
+link = "http://pinterest.com/neztraa/"
+
+[[params.social]]
+title = "Twitter"
+icon = "ti-twitter" # themify icon : https://themify.me/themify-icons
+link = "http://twitter.com/neztraa/"
 
 [[params.social]]
 title = "Instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "https://www.instagram.com/nestra_phun/"
+link = "https://www.instagram.com/neztraa1/"
 
 [[params.social]]
 title = "Facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/nestra.phun"
+link = "http://facebook.com/neztraa/"
 
 #[[params.social]]
 #title = "linkedin"

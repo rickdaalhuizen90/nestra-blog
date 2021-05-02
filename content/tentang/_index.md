@@ -6,6 +6,9 @@ draft: false
 # image
 feature: "author.jpg"
 
+# thumb
+thumbnail: "author.jpg"
+
 # meta description
 description: "Saya seorang pecinta kuliner yang suka menulis tentang makanan, kesehatan, dan hal-hal menarik lainnya."
 

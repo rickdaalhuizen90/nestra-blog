@@ -3,8 +3,8 @@
   <div class="widget">
     {{ with .Site.GetPage "/tentang" }}
     <h4 class="widget-title">{{ .Title | markdownify }}</h4>
-    {{ if .Params.Feature }}
-        {{ with .Resources.GetMatch (.Params.Feature ) }}
+    {{ if .Params.Thumbnail }}
+        {{ with .Resources.GetMatch (.Params.Thumbnail ) }}
             {{ $thumb := .Fill "165x165 Center" }}
             <img src="{{- $thumb.Permalink | absURL -}}" alt=""
                 class="img-fluid author-thumb-sm d-block mx-auto rounded-circle mb-4" width="165" height="165" />

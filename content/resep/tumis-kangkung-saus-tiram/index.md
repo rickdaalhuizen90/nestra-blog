@@ -1,6 +1,6 @@
 ---
-title: "Nasi Goreng Udang"
-date: "2021-04-01T09:35:31+02:00"
+title: "Tumis Kangkung Saus Tiram"
+date: "2021-04-01T13:43:40+00:00"
 draft: false
 
 # post thumb
@@ -27,7 +27,7 @@ type: "post"
 recipe: true
 
 # prep time
-time: "15"
+time: "15 menit"
 
 # serving
 serving: 2
