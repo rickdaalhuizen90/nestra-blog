@@ -12,49 +12,52 @@
   <meta name=”robots” content="index, follow">
 
   <!-- Start of Open Graph -->
-    <meta property="og:title" content="{{ .Title }}">
-    {{ if .IsPage }}
-    <meta property="og:type" content="article">
-    <meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
-    {{ else }}
-    <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ .Title }}">
+  {{ if .IsPage }}
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
+  {{ else }}
+  <meta property="og:type" content="website">
+  {{ end }}
+  <meta property="og:description" content="{{ .Description }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  {{ if .Params.feature }}
+    {{ with .Resources.GetMatch (.Params.Feature ) }}
+        {{ $image := .Fill "1500x1500 Center" }}
+        <meta property="og:image" content="{{- $image.Permalink | absURL -}}">
     {{ end }}
-    <meta property="og:description" content="{{ .Description }}">
-    <meta property="og:url" content="{{ .Permalink }}">
-    <meta property="og:site_name" content="{{ .Site.Title }}">
-    {{ if .Params.feature }}
-      {{ with .Resources.GetMatch (.Params.Feature ) }}
-          {{ $image := .Fill "1500x1500 Center" }}
-          <meta property="og:image" content="{{- $image.Permalink | absURL -}}">
+  {{ else }}
+  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.feature }}">
+  {{ end }}
+  {{ range .Params.tags }}
+  <meta property="og:tags" content="{{ . }}">
+  {{ end }}
+  <!-- End of Open Graph -->
+  <!-- Start of Twitter -->
+  {{ if .Site.Params.twitter_card_whitelisted }}
+      {{ if .Params.twitter_summary }}
+  <meta property="twitter:card" content="{{ .Params.twitter_summary }}">
+      {{ else if .Description }}
+  <meta property="twitter:card" content="{{ .Description }}">
+      {{ else }}
+  <meta property="twitter:card" content="{{ .Title }}">
       {{ end }}
-    {{ else }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.feature }}">
+  {{ end }}
+  <meta property="twitter:description" content="{{ .Description }}">
+  <meta property="twitter:title" content="{{ .Title }}">
+  {{ if .Params.feature }}
+    {{ with .Resources.GetMatch (.Params.Feature ) }}
+        {{ $image := .Fill "1500x1500 Center" }}
+        <meta property="twitter:image" content="{{- $image.Permalink | absURL -}}">
     {{ end }}
-    {{ range .Params.tags }}
-    <meta property="og:tags" content="{{ . }}">
-    {{ end }}
-    <!-- End of Open Graph -->
-    <!-- Start of Twitter -->
-    {{ if .Site.Params.twitter_card_whitelisted }}
-        {{ if .Params.twitter_summary }}
-    <meta property="twitter:card" content="{{ .Params.twitter_summary }}">
-        {{ else if .Description }}
-    <meta property="twitter:card" content="{{ .Description }}">
-        {{ else }}
-    <meta property="twitter:card" content="{{ .Title }}">
-        {{ end }}
-    {{ end }}
-    <meta property="twitter:description" content="{{ .Description }}">
-    <meta property="twitter:title" content="{{ .Title }}">
-    {{ if .Params.feature }}
-      {{ with .Resources.GetMatch (.Params.Feature ) }}
-          {{ $image := .Fill "1500x1500 Center" }}
-          <meta property="twitter:image" content="{{- $image.Permalink | absURL -}}">
-      {{ end }}
-    {{ else }}
-    <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.feature }}">
-    {{ end }}
-    <!-- End of Twitter -->
+  {{ else }}
+  <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.feature }}">
+  {{ end }}
+  <!-- End of Twitter -->
+
+  <!-- Pinterest -->
+  <meta name="p:domain_verify" content="99466190fdc57e04e2fac559832478b3"/>
 
   {{ "<!-- coil -->" | safeHTML }}
   <meta name="monetization" content="$ilp.uphold.com/PMDha7R3yZgG">
