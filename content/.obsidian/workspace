@@ -7,21 +7,9 @@
         "id": "100cff3729a86d3c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "resep/ayam-kecap/index.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e35761d8427a985d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "resep/mie-goreng-udang/index.md",
-            "mode": "source"
+            "file": "resep/tumis-kacang-panjang/banner.png"
           }
         }
       }
@@ -59,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/mie-goreng-udang/index.md",
+                "file": "resep/tumis-kacang-panjang/banner.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +85,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e35761d8427a985d",
+  "active": "100cff3729a86d3c",
   "lastOpenFiles": [
-    "resep/mie-goreng-udang/index.md",
-    "resep/ayam-goreng-mentega/index.md",
-    "resep/salmon-teriyaki/index.md",
-    "resep/es-jeruk-nipis/index.md",
-    "resep/kari-udang/index.md",
-    "resep/salad-telur-sayur/index.md",
-    "resep/omelet-seledri-alpukat/index.md",
-    "resep/ayam-goreng-crispy/index.md",
-    "resep/daging-sapi-bumbu-bali/index.md",
-    "resep/ayam-kecap/index.md"
+    "resep/tumis-kacang-panjang/banner.png",
+    "resep/tumis-kangkung-saus-tiram/banner.png",
+    "resep/tumis-kangkung-saus-tiram/index.md",
+    "resep/tumis-kacang-panjang/index.md",
+    "resep/manisan-cermai/banner.png",
+    "resep/manisan-cermai/index.md",
+    "artikel/7-tips-membuat-pentol-bakso/index.md",
+    "artikel/7-tips-membuat-pentol-bakso/banner.png",
+    "artikel/7-tips-membuat-pentol-bakso/baking.png.jpeg",
+    "artikel/7-tips-membuat-pentol-bakso/air-panas.png"
   ]
 }

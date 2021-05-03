@@ -20,7 +20,7 @@ tags:
 type: "post"
 ---
 
-{{< img src="pentol-rebus.png" alt="" >}}
+{{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
 Pentol bakso adalah salah satu menu favorit masyarakat Indonesia. Makanan ini juga terkenal di berbagai negara di Asia Tenggara.
@@ -46,13 +46,13 @@ Pilih daging segar yang benar seperti di bawah ini:
 
 ### 2. Cara memilih tepung
 
-{{< img src="tapioca.png" alt="tepung" >}}
+{{< img src="tepung-tapioca.png" alt="tepung" >}}
 
 Gunakan tepung tapioka atau tepung sagu. Tepung ini bisa mengikat air dalam adonan, sehingga tekstur pentol menjadi kenyal.
 
 ### 3. Gunakan bahan pengenyal
 
-{{< img src="baking-powder.png" alt="baking powder" >}}
+{{< img src="baking.png" alt="baking powder" >}}
 
 Gunakan baking powder,STTP atau bahan pengenyal lainnya. Agar pentol mengembang, padat dan kenyal.
 
@@ -79,7 +79,7 @@ Rebus air hingga mendidih. Setelah mendidih matikan api, lalu masukan bulatan pe
 
 ### 7. Siram dengan air es
 
-{{< img src="pentol-hidangan.png" alt="pentol" >}}
+{{< img src="siram.png" alt="pentol" >}}
 
 Jika pentol sudah mengapung segera angkat, siram/rendam dengan air es. Hal ini untuk menghentikan proses memasak pada pentol dan menjaga kepadatannya.
 
