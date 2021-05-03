@@ -13,6 +13,9 @@
           {{ else if (eq $name "vegetarian" ) }}
             <div class="recipe-tags__logo" data-tag="{{$name}}">VG</div>
             {{ $name | humanize }}
+          {{ else if (eq $name "vegan" ) }}
+            <div class="recipe-tags__logo" data-tag="{{$name}}">VE</div>
+            {{ $name | humanize }}
           {{ else if (eq $name "gluten-free" ) }}
             <div class="recipe-tags__logo" data-tag="{{$name}}">BG</div>
             {{ "bebas gula" | humanize }}
@@ -20,7 +23,7 @@
             <div class="recipe-tags__logo" data-tag="{{$name}}">KT</div>
             {{ $name | humanize }}
           {{ else }}
-            <div class="recipe-tags__logo" data-tag="{{$name}}">{{ substr $name 0 2 | upper }}</div>
+            <div class="recipe-tags__logo" data-tag="default">{{ substr $name 0 2 | upper }}</div>
             {{ $name | humanize }}
           {{ end }}
         </a>

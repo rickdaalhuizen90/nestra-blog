@@ -24,7 +24,7 @@ tags:
   - "diary-free"
 
 # post type
-type: "featured"
+type: "post"
 
 # prep time
 time: "45 menit"

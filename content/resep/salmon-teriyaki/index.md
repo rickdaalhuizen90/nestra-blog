@@ -18,9 +18,10 @@ categories:
 
 # post tags
 tags:
+  - "Kuliner"
 
 # post type
-type: "post"
+type: "featured"
 
 # Is Recipe
 recipe: true

@@ -1,13 +1,13 @@
 ---
 title: "Ayam Kecap"
-date: "2021-05-03T22:06:47+02:00"
-draft: true
+date: "2021-05-02T22:06:47+02:00"
+draft: false
 
 # post thumb
 feature: "banner.png"
 
 # meta description
-description: ""
+description: "Resep cara membuat ayam kecap yang lezat. Cocok menjadi menu andalan sehari-hari."
 
 # taxonomies
 categories:
@@ -18,12 +18,8 @@ categories:
 
 # post tags
 tags:
-  - "keto"
-  - "vegan"
-  - "gluten-free"
-  - "vegetarian"
-  - "diary-free"
-
+ - Kuliner
+ 
 # post type
 type: "post"
 
@@ -31,10 +27,10 @@ type: "post"
 recipe: true
 
 # prep time
-time: ""
+time: "40 menit"
 
 # serving
-serving: 1
+serving: 8-9
 ---
 
 {{< img src="banner.png" alt="" >}}
@@ -44,20 +40,18 @@ Ayam goreng kecap yang lezat dan menggugah selera. Menu hidangan ini layak menja
 
 ## Apa itu ayam kecap?
 
-Ayam kecap adalah olahan berbahan ayam yang dibumbui dengan kecap. Cita rasa dari ayam kecap adalah asin cenderung manis.
+Ayam kecap adalah olahan berbahan ayam yang dibumbui dengan kecap. Cita rasa dari ayam kecap adalah sedikit asin cenderung manis.
 
 ## Mulai memasak
 
 Cara membuat ayam kecap ini begitu mudah. Bahannya mudah di dapat dan harganya ramah di kantong.
 
 
-{{< post-info prep="" cook="" total="" serving="4-8">}}
-
-{{< /post-info>}}
+{{< post-info prep="10 menit" cook="30 menit" total="40 menit" serving="8-9">}}
 
 __Bahan__
--   1 kg paha ayam
--   3 sdm air jeruk nipis
+-   1 kg paha ayam negri
+-   2 sdm air jeruk nipis
 -   1 batang daun bawang iris-iris
 -   4 sdm kecap manis tropicana slim
 -   4 siung bawang putih cincang halus
@@ -68,9 +62,9 @@ __Bahan__
 -   2 sdm mentega
 -   300 ml air
 -   Minyak kelapa (sampai ayam tenggelam)
+{{< /post-info>}}
 
-Cara
-
+{{< steps title="Cara membuat">}}
 -   Cuci bersih ayam, lumuri dengan air jeruk dan garam. Diamkan selama 5 menit.
 -   Panaskan wajan, masukan minyak kelapa. Goreng ayam hingga berwarna coklat. Tiriskan.
 -   Bersihkan wajan, masukan mentega hingga mencair.
@@ -78,6 +72,11 @@ Cara
 -   Masukan kecap manis, lada, kaldu jamur dan daun bawang. Aduk rata lalu tambahkan air.
 -   Masukan ayam, masak dengan api kecil. Aduk rata dan masak hingga bumbu meresap. Angkat
 -   Hidangkan ayam kecap ketika masih hangat dengan taburan daun bawang.
+{{< /steps>}}
 
-Menu hidangan ini sangat pas dihidangkan di sore hari. Dengan disandingkan semangkuk nasi shirataki dan es jeruk nipis.
+> Jika untuk menu diet, gunakan dada ayam fillet tanpa kulit.
+
+Menu hidangan ini sangat pas dihidangkan di sore hari. Dengan disandingkan semangkuk nasi hangat dan es jeruk nipis.
+
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
 

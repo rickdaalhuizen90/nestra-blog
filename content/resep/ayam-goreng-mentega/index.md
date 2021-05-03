@@ -23,7 +23,7 @@ tags:
   - "diary-free"
 
 # post type
-type: "post"
+type: "featured"
 
 # Is Recipe
 recipe: true

@@ -32,12 +32,14 @@
               <div class="featured-post__tag" data-tag="{{ $tag }}">BS</div>
             {{ else if (eq $tag "vegetarian")}}
               <div class="featured-post__tag" data-tag="{{ $tag }}">VG</div>
+            {{ else if (eq $tag "vegan")}}
+              <div class="featured-post__tag" data-tag="{{ $tag }}">VE</div>
             {{ else if (eq $tag "gluten-free")}}
               <div class="featured-post__tag" data-tag="{{ $tag }}">BG</div>
             {{ else if (eq $tag "keto")}}
               <div class="featured-post__tag" data-tag="{{ $tag }}">KT</div>
             {{ else }}
-              <div class="featured-post__tag" data-tag="{{ $tag }}">{{ substr $tag 0 2 | upper }}</div>
+              <div class="featured-post__tag" data-tag="default">{{ substr $tag 0 2 | upper }}</div>
             {{ end }}
           {{ end }}
         </div>

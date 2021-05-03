@@ -24,7 +24,7 @@ tags:
   - "vegetarian"
 
 # post type
-type: "post"
+type: "featured"
 
 # Is Recipe
 recipe: true

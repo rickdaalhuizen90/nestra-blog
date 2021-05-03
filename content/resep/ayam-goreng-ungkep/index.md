@@ -1,6 +1,6 @@
 ---
 title: "Ayam Goreng Ungkep"
-date: "2021-05-02T13:43:40+00:00"
+date: "2021-05-02T22:06:47+02:00"
 draft: false
 
 # post thumb
@@ -49,7 +49,7 @@ Cara membuat ayam goreng ungkep ini begitu mudah. Berikut simak resepnya di bawa
 
 __Bahan__
 
--   1 ekor ayam, potong 8
+-   1 kg paha ayam negri
 -   1 buah jeruk nipis (ambil airnya)
 -   1 ruas laos memarkan
 -   2 lbr daun salam
