@@ -24,6 +24,7 @@ tags:
   - "gluten-free"
   - "vegetarian"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -59,7 +60,7 @@ Jus mentimun adalah minuman segar yang berbahan dari timun. Timun di jus bersama
 
 ## Mulai membuat
 
-Cara membuat jus timun ini begitu simple dan praktis. Bahannya minim dan selalu ada di dapur kita. 😊
+Resep membuat jus timun ini begitu simple dan praktis. Bahannya minim dan selalu ada di dapur kita. 😊
 
 {{< post-info prep="2 menit" cook="3 menit" total="5 menit" serving="2">}}
 

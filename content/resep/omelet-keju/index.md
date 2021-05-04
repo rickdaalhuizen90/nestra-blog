@@ -22,6 +22,7 @@ tags:
   - "gluten-free"
   - "vegetarian"
   - "diary-free"
+  - "kuliner"
  
 # post type
 type: "post"
@@ -55,7 +56,7 @@ Omelet alpukat keju adalah olahan dari berbahan telur yang dikocok lepas. Di bum
 
 ## Mulai Memasak
 
-Menu hidangan ini sangat mudah untuk di buat dan juga ramah di kantong. Bahannya minim tapi sangat sehat dan bergizi.
+Cara membuat menu hidangan ini sangat mudah dan juga ramah di kantong. Bahannya minim tapi sangat sehat dan bergizi.
 
 {{< post-info prep="5 menit" cook="15 menit" total="20 menit" serving="1">}}
 

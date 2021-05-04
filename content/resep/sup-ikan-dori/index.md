@@ -22,6 +22,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -44,7 +45,7 @@ Sup ikan dori adalah olahan dari ikan dori fillet yang di potong-potong dibumbui
 
 ## Mulai Memasak
 
-Membuat sup ikan ini bisa menggunakan jenis ikan yang dagingnya berwarna putih. 
+Cara membuat sup ikan ini bisa menggunakan jenis ikan yang dagingnya berwarna putih. Mari simak resepnya di bawah ini.
 
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="2">}}
 

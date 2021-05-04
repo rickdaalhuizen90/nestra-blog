@@ -23,6 +23,7 @@ tags:
   - "gluten-free"
   - "vegetarian"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -50,9 +51,9 @@ Salad sayur dan telur adalah campuran dari kol ungu segar, buncis dan telur rebu
 - Menjaga sistem kekebalan tubuh.
 - Memelihara kesehatan mata.
 
-## Cara membuat
+## Mulai membuat
 
-Menu hidangan salad ini sangat mudah dan praktis. Tak hanya sehat tapi juga ramah di kantong. 
+Cara membuat salad ini sangat mudah dan praktis. Tak hanya sehat tapi juga ramah di kantong. 
 
 {{< post-info prep="5 menit" cook="15 menit" total="20 menit" serving="2">}}
 

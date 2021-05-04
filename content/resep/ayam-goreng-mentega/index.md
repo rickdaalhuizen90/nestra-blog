@@ -21,6 +21,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "featured"
@@ -56,7 +57,7 @@ Ayam goreng mentega adalah olahan dari berbahan ayam. Di goreng ke dalam wajan d
 
 ## Mulai memasak
 
-Resep ayam goreng mentega ala diet keto ini mudah di buat. Bahanya simple dan rasanya sangat maximal.
+Cara membuat ayam goreng mentega ala diet keto ini mudah. Bahanya simple dan rasanya sangat maximal.
 
 {{< post-info prep="15" cook="20" total="35" serving="4">}}
 

@@ -22,6 +22,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -72,14 +73,15 @@ __Bumbu halus__
 -   3 cabe merah buang bijinya
 -   2 ruas kunyit kupas
 -   1 ruas jahe kupas
+{{< /post-info>}}
 
-Cara membuat
-
+{{< steps title="Cara membuat">}}
 -   Cuci bersih kepiting ambil tintah nya potong-potong.
 -   Lumuri cumi-cumi dengan air jeruk diamkan selama 15 menit. Bilas hingga bersih.
 -   Panaskan wajan masukan minyak zaitun. Tumis bumbu halus, sereh, salam, laos dan cabe hingga harum.
 -   Masukan cumi-cumi, lada, kaldu jamur dan garam. Aduk rata masak selama 3 menit, angkat.
 -   Hidangkan cumi bumbu kuning ketika masih panas.
+{{< /steps>}}
 
 > Masak cumi dengan api sedang selama 3 menit sambil terus diaduk. Jangan memasak cumi terlalu lama agar tidak alot.
 

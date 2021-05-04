@@ -25,6 +25,7 @@ tags:
   - "gluten-free"
   - "vegetarian"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -59,7 +60,7 @@ Telur orak arik adalah olahan dari bahan telur yang dikocok lepas. Di tuang ke d
 
 ## Mulai Memasak
 
-Membuat hidangan telur orak arik ini tergolong cepat dan mudah. Bahannya juga sangat minim dan ramah di dapur kita.
+Cara membuat hidangan telur orak arik ini tergolong cepat dan mudah. Bahannya juga sangat minim dan ramah di dapur kita.
 
 {{< post-info prep="5 menit" cook="10 menit" total="15 menit" serving="2">}}
 

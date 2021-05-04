@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep cara membuat salmon teriyaki yang lezat. Cocok menjadi menu andalan sehari-hari"
+description: "Resep membuat salmon teriyaki yang lezat. Cocok menjadi menu andalan sehari-hari"
 
 # taxonomies
 categories:
@@ -44,7 +44,7 @@ Salmon teriyaki adalah masakan jepang berbahan ikan salmon. Ikan di marinasi den
 
 ## Mulai memasak
 
-Sudahkah kamu memasak salmon teriyaki? Disini saya membuat salmon teriyaki yang simple dan lezat. 
+Sudahkah kamu memasak salmon teriyaki? Cara membuatnya mudah. Disini saya membuat salmon teriyaki yang simple dan lezat. 
 
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="4">}}
 

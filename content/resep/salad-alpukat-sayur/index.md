@@ -26,6 +26,7 @@ tags:
   - "gluten-free"
   - "vegetarian"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -57,9 +58,9 @@ Salad alpukat sayur adalah makanan segar dari bahan timun, alpukat dan. Dipotong
 - Mengontrol tekanan darah
 - Meredakan nyeri sendi dan encok
 
-## Cara membuat
+## Mulai membuat
 
-Membuat salad diet keto yang sehat ini sangat mudah tidak memakan waktu yang lama. Bahannya minim dan ramah di kantong. 
+Cara membuat salad diet keto yang sehat ini sangat mudah tidak memakan waktu yang lama. Bahannya minim dan ramah di kantong. 
 
 
 {{< post-info prep="5 menit" cook="5 menit" total="10 menit" serving="2">}}

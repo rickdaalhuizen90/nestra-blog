@@ -22,6 +22,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "trending"
@@ -53,7 +54,7 @@ Cah brokoli daging sapi yang lezat dan sehat. Aman dikonsumsi bagi yang menjalan
 
 ## Mulai Memasak
 
-Cah brokoli daging sapi ini sangat mudah untuk dibuat. Olahan ini menggunakan bahan yang aman dan sehat.
+Cara membuat cah brokoli daging sapi ini sangat mudah. Olahan ini menggunakan bahan yang aman dan sehat.
 
 Yuk simak resepnya di bawah ini :)
 

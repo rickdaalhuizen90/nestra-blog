@@ -24,6 +24,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -56,7 +57,7 @@ Ikan salmon panggang adalah ikan salmon fillet diberi bumbu marinasi lalu dipang
 
 ## Mulai Memasak 
 
-Resep hidangan ini begitu lezat dan siap dinikmati dalam hitungan menit. Cara membuatnya sangat mudah dan cepat. 
+Cara membuat hidangan ini begitu mudah dan siap dinikmati dalam hitungan menit. ?Bahannya minimal dan hasilnya maximal. 
 
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="2">}}
 

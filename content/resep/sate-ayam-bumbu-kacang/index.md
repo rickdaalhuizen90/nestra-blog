@@ -21,6 +21,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -54,7 +55,7 @@ Sate ayam adalah olahan dada ayam dipotong dadu dan di marinasi. Ditusuk sate da
 
 ## Mulai Memasak
 
-Resep menu hidangan ini menggunakan bahan-bahan yang sehat. Sehingga menghasilkan rasa yang lezat dan juga sehat. 
+Cara membuat menu hidangan ini menggunakan bahan-bahan yang sehat. Sehingga menghasilkan rasa yang lezat dan juga sehat. 
 
 {{< post-info prep="30 menit" cook="20 menit" total="50 menit" serving="4">}}
 

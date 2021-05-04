@@ -26,6 +26,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -50,8 +51,7 @@ Rendang daging ini sangat populer di seluruh Indonesia maupun di seluruh dunia. 
 
 ## Mulai Memasak
 
- Membuat hidangan rendang daging pilihlah daging khas dalam. Agar mudah empuk. 
- 
+ Carar membuat hidangan rendang daging yang empuk pilihlah daging khas dalam. 
  Berikut simak resep dan cara membuat rendang sapi ala diet keto yang lezat dan simple.
 
 {{< post-info prep="10 menit" cook="50 menit" total="1 jam" serving="4">}}

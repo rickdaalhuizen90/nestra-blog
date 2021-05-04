@@ -22,6 +22,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -44,7 +45,7 @@ Rawon berasal dari kuliner khas Jawa Timur negara Indonesia. Rawon adalah olahan
 
 ## Mulai Memasak
 
-Resep rawon diet keto saya menggunakan daging sandung lamur. Jika ada lemak yang menempel di daging bisa di ambil dan di buang. 
+Cara membuat rawon diet keto menggunakan daging sandung lamur. Jika ada lemak yang menempel di daging bisa di ambil dan di buang. 
 
 {{< post-info prep="20 menit" cook="35 menit" total="55 menit" serving="4">}}
 

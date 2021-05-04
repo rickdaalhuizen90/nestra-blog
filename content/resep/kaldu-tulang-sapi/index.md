@@ -21,6 +21,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -87,7 +88,7 @@ Untuk membuat kaldu babi membutuhkan tulang leher, kaki dan ham hock.
 
 ## Mulai Memasak
 
-Membuat kaldu tulang sangat mudah dibuat. kamu bisa memasak menggunakan panci elektrik, rice cooker atau diatas kompor. 
+Cara membuat kaldu tulang sapi ini sangat mudah. kamu bisa memasak menggunakan panci elektrik, rice cooker atau diatas kompor. 
 
 {{< post-info prep="10 menit" cook="8 jam" total="8 jam 10 menit" serving="10 (2,5L)">}}
 

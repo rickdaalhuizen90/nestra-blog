@@ -22,6 +22,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -44,7 +45,7 @@ Shirataki noodles adalah mie yang terbuat dari tumbuhan konjak yang tumbuh di As
 
 ## Mulai Memasak
 
-Membuat menu hidangan shirataki noodles ini sangat mudah dan juga rasanya sangat enak. Menu hidangan ini sangat ramah untuk diet keto.
+Cara membuat shirataki noodles ini sangat mudah dan juga rasanya sangat enak. Menu hidangan ini sangat ramah untuk diet keto.
 
 {{< post-info prep="15 menit" cook="10 menit" total="25 menit" serving="1">}}
 

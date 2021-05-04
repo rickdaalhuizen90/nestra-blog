@@ -21,6 +21,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -52,7 +53,7 @@ Ikan goreng crispy adalah olahan ikan dibalur dengan bumbu dan dilapisi tepung. 
 
 ## Mulai Memasak
 
-Resep ikan goreng crispy ini sangat mudah dan simple untuk di buat. Bahan-bahannya juga sangat simple dan praktis.
+Cara membuat ikan goreng crispy ini sangat mudah dan simple untuk di buat. Bahan-bahannya juga sangat simple dan praktis.
 
 Nah, tunggu apalagi yuk simak resepnya di bawah ini.
 

@@ -24,6 +24,7 @@ tags:
   - "gluten-free"
   - "vegetarian"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -55,7 +56,7 @@ Omelet daun bawang adalah olahan berbahan telur dikocok lepas bersama irisan dau
 
 ## Mulai Memasak
 
-Menu hidangan ini sangat mudah untuk dibuat. Bahannya minim dan ramah di kantong. 
+Cara membuat omelet daun bawang ini sangat mudah. Bahannya minim dan ramah di kantong. 
 
 {{< post-info prep="5 menit" cook="10 menit" total="15 menit" serving="1">}}
 

@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep cara membuat tumis kangkung yang segar dan lezat. Layak menjadi menu hidangan sehari-hari"
+description: "Resep membuat tumis kangkung yang segar dan lezat. Layak menjadi menu hidangan sehari-hari"
 
 # taxonomies
 categories:
@@ -19,6 +19,7 @@ categories:
 
 # post tags
 tags:
+   - "kuliner"
 
 # post type
 type: "post"
@@ -53,7 +54,7 @@ Tumis kangkung adalah olahan berbahan dari sayur kangkung. Kangkung diolah dibum
 - Mencegah diabetes
 
 ## Mulai Memasak
-Cara membuat tumis kangkung ini begitu simple dan praktis. Bahannya minim dan ramah di kantong. Sangat cocok menjadi menu hidangan sehari-hari.
+Cara membuat tumis kangkung yang simple dan praktis. Bahannya minim dan ramah di kantong. Sangat cocok menjadi menu hidangan sehari-hari.
 
 {{< post-info prep="10 menit" cook="5 menit" total="15 menit" serving="2">}}
 

@@ -21,6 +21,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -43,7 +44,7 @@ Sambal teri pete adalah olahan sambal yang digoreng ditambahkan teri dan pete. D
 
 ## Mulai Memasak
 
-Menu hidangan sambal yang simple dan sehat. Tak hanya rasanya yang lezat tapi sambal teri pete ini juga tahan lama. 
+Cara membuat menu hidangan sambal yang simple dan sehat. Tak hanya rasanya yang lezat tapi sambal teri pete ini juga tahan lama. 
 
 {{< post-info prep="10 menit" cook="30 menit" total="40 menit" serving="4">}}
 

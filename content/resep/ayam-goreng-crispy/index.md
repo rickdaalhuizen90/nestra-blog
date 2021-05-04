@@ -22,6 +22,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "trending"
@@ -53,7 +54,7 @@ Ayam goreng crispy adalah olahan ayam dibumbui dan di balur dengan kocokan telur
 
 ## Mulai Memasak
 
-Sangat mudah membuat ayam goreng crispy ala diet keto ini. Bahan-bahannya simple dan hasilnya sangat memuaskan.
+Cara membuat ayam goreng crispy ala diet keto ini tergolong mudah. Bahan-bahannya simple dan hasilnya sangat memuaskan.
 
 Yuk! simak resepnya di bawah ini.
 

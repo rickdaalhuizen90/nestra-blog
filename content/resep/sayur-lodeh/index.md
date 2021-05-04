@@ -23,6 +23,7 @@ tags:
   - "gluten-free"
   - "vegetarian"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -45,7 +46,7 @@ Sayur lodeh adalah sayur berkuah santan. Sayur lodeh mempunyai banyak variasi pa
 
 ## Mulai memasak
 
-Resep mengolah lodeh yang sehat, tidak menggunakan minyak untuk menumis bumbu.
+Cara membuat  sayur lodeh yang sehat, tidak menggunakan minyak untuk menumis bumbu.
 
 {{< post-info prep="10 menit" cook="20 menit" total="30 menit" serving="3">}}
 

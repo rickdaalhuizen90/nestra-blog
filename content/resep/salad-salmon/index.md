@@ -4,7 +4,7 @@ date: "2021-04-11T13:43:40+00:00"
 draft: false
 
 # meta description
-description: "Menu hidangan salad diet keto yang segar dan sehat. Layak dijadikan menu hidangan sehari-hari."
+description: "Resep salad salmon diet keto yang segar dan sehat. Layak dijadikan menu hidangan sehari-hari."
 
 # featured image
 feature: "banner.png"
@@ -22,6 +22,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"

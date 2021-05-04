@@ -18,6 +18,7 @@ categories:
 
 # post tags
 tags:
+  - "kuliner"
 
 # post type
 type: "post"

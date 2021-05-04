@@ -21,6 +21,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -43,7 +44,7 @@ Shirataki noodles salmon creamy adalah olahan masakan dari mie shirataki dan ika
 
 ## Mulai Memasak
 
-Campuran bahan membuat resep ini mengandung lemak baik. sehingga membuat tubuh kita menjadi sehat dan kuat.
+Cara membuat hidangan ini mudah dan sehat. Campuran bahan membuat resep ini mengandung lemak baik. sehingga membuat tubuh kita menjadi sehat dan kuat.
 
 {{< post-info prep="10 menit" cook="15 menit" total="25 menit" serving="2">}}
 

@@ -22,6 +22,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "vegetarian"
+  - "kuliner"
 
 # post type
 type: "featured"

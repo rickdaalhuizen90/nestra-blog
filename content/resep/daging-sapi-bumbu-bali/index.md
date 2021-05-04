@@ -22,6 +22,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -53,7 +54,7 @@ Daging sapi bumbu bali adalah olahan berbahan dasar dari daging sapi. Dibumbui a
 
 ## Mulai Memasak
 
-Kali ini saya membuat resep daging sapi bumbu bali yang lezat dan sehat dikonsumsi untuk diet keto. 
+Cara membuat resep daging sapi bumbu bali yang lezat dan sehat dikonsumsi untuk diet keto. 
 
 Yuk simak resep cara membuat daging bumbu bali ala diet keto di bawah ini.
 

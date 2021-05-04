@@ -22,6 +22,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -36,7 +37,7 @@ serving: 1
 {{< img src="banner.png" alt="" >}}
 {{< tags >}}
 
-Mie ayam bawang ini mempunyai aroma segar dan rasanya begitu alami. Menu hidangan ini mempunyai banyak nutrisi sehingga bisa menunda rasa lapar yang lama.
+Cara membuat mie ayam bawang yang mempunyai aroma segar dan rasanya begitu alami. Menu hidangan ini mempunyai banyak nutrisi sehingga bisa menunda rasa lapar yang lama.
 
 ## Apa itu shirataki noodles ayam bawang?
 

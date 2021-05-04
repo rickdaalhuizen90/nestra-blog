@@ -24,6 +24,7 @@ tags:
   - "gluten-free"
   - "vegetarian"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -67,7 +68,7 @@ Eh jeruk nipis adalah minum segar dari berbahan jeruk nipis. Jeruk nipis di pera
 
 ## Mulai membuat
 
-Cara membuat es jeruk ala diet keto ini sangat mudah. Bahannya minim dan hasilnya maksimal.
+Resep membuat es jeruk ala diet keto ini sangat mudah. Bahannya minim dan hasilnya maksimal.
 
 {{< post-info prep="3 menit" cook="2" total="5 menit" serving="1">}}
 
@@ -75,7 +76,7 @@ __Bahan__
 
 -   2 buah jeruk nipis
 -   1 sdm gula tropicana slim
--   Sejumput garam himalaya
+-   Sejumput garam himalaya (bisa skip)
 -   250 ml air dingin
 {{< /post-info>}}
 

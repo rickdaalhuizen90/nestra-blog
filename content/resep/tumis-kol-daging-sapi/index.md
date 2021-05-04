@@ -23,6 +23,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -58,7 +59,7 @@ Tumis kol daging sapi adalah olahan berbahan dan daging sapi. Di tumis di tambah
 
 ## Mulai memasak
 
-Resep tumis kol daging sapi ini sangat mudah dan cepat. Bahannya minim tapi hasilnya maximal.
+Cara membuat tumis kol daging sapi yang mudah dan cepat. Bahannya minim tapi hasilnya maximal.
 
 {{< post-info prep="10 menit" cook="5 menit" total="15 menit" serving="4">}}
 

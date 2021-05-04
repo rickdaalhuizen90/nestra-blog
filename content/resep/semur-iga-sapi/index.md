@@ -8,7 +8,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep cara membuat semur iga sapi yang lezat dan empuk. Hidangan spesial untuk keluarga."
+description: "Resep membuat semur iga sapi yang lezat dan empuk. Hidangan spesial untuk keluarga."
 
 # taxonomies
 categories:
@@ -19,6 +19,7 @@ categories:
 
 # post tags
 tags:
+  - "kuliner"
 
 # post type
 type: "post"
@@ -44,7 +45,7 @@ Semur iga sapi adalah olahan berbahan iga sapi direbus hingga empuk. Dimasak den
 
 ## Mulai memasak
 
-Resep semur iga sapi yang lezat. Sangat cocok menjadi menu favorit dalam keluarga dirumah :)
+Cara membuat semur iga sapi yang lezat. Sangat cocok menjadi menu favorit dalam keluarga dirumah :)
 
 {{< post-info prep="10 menit" cook="45 menit" total="55 menit" serving="8">}}
 

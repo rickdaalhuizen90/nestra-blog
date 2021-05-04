@@ -7,9 +7,10 @@
         "id": "100cff3729a86d3c",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "resep/ayam-kecap/banner.png"
+            "file": "resep/sup-jantung-pisang/index.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/ayam-kecap/banner.png",
+                "file": "resep/sup-jantung-pisang/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "100cff3729a86d3c",
   "lastOpenFiles": [
-    "resep/ayam-kecap/banner.png",
-    "resep/ayam-kecap/index.md",
-    "resep/tumis-kacang-panjang/banner.png",
-    "resep/tumis-kangkung-saus-tiram/banner.png",
-    "resep/tumis-kangkung-saus-tiram/index.md",
-    "resep/tumis-kacang-panjang/index.md",
-    "resep/manisan-cermai/banner.png",
+    "resep/sup-jantung-pisang/index.md",
     "resep/manisan-cermai/index.md",
-    "artikel/7-tips-membuat-pentol-bakso/index.md",
-    "artikel/7-tips-membuat-pentol-bakso/banner.png"
+    "resep/mie-goreng-udang/index.md",
+    "resep/cumi-pedas-manis/index.md",
+    "resep/takoyaki/index.md",
+    "resep/telur-orak-arik/index.md",
+    "resep/tumis-kacang-panjang/index.md",
+    "resep/tumis-kangkung-saus-tiram/index.md",
+    "resep/tumis-kol-daging-sapi/index.md",
+    "resep/sup-ikan-dori/index.md"
   ]
 }

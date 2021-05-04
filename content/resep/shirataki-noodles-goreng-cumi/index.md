@@ -23,6 +23,7 @@ tags:
   - "keto"
   - "gluten-free"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -55,7 +56,7 @@ Olahan ini di buat dari bahan dasar mie shirataki dan cumi-cumi yang di bumbui. 
 
 ## Mulai Memasak 
 
-Menu hidangan shirataki noodles goreng cumi ini mudah untuk di buat. Sangat baik dan sehat untuk dikonsumsi sehari-hari.
+Cara membuat menu hidangan shirataki noodles goreng cumi ini tergolong mudah. Sangat baik dan sehat untuk dikonsumsi sehari-hari.
 
 {{< post-info prep="15 menit" cook="10 menit" total="25 menit" serving="2">}}
 

@@ -19,6 +19,7 @@ categories:
 # post tags
 tags:
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"

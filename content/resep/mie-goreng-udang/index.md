@@ -18,6 +18,7 @@ categories:
 
 # post tags
 tags:
+  - "kuliner"
   
 # post type
 type: "post"
@@ -43,7 +44,7 @@ Mie goreng adalah olahan mie yang dibumbui, dicampur dengan telur, sayuran dan d
 
 ## Mulai memasak
 
-Mie goreng udang ini menjadi salah satu favorit orang Indonesia. Cara membuatnya mudah dan tidak memakan waktu yang lama.
+Mie goreng udang ini menjadi salah satu favorit orang Indonesia. Cara membuat nya mudah dan tidak memakan waktu yang lama.
 
 {{< post-info prep="10 menit" cook="10 menit" total="20 menit" serving="2">}}
 

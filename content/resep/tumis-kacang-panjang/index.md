@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep cara membuat tumis kacang panjang yang sehat dan begizi. Sangat ramah untuk diet keto dan vegan"
+description: "Resep membuat tumis kacang panjang yang sehat dan begizi. Sangat ramah untuk diet keto dan vegan"
 
 # taxonomies
 categories:
@@ -27,6 +27,7 @@ tags:
   - "gluten-free"
   - "vegetarian"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -38,10 +39,10 @@ recipe: true
 time: "20 menit"
 
 # serving
-serving: 3-4
+serving: 3
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Tumis Kacang Panjang" >}}
 {{< tags >}}
 
 Tumis kacang panjang hidangan sederhana yang lezat. Cocok untuk dijadikan menu hidangan sehari-hari.
@@ -60,9 +61,9 @@ Tumis kacang panjang adalah olahan dari berbahan kacang panjang. Kacang panjang 
 
 ## Mulai memasak
 
-Cara membuat tumis kacang pajang ini begitu mudah. Bahanya gampang untuk didapatkam dan ramah di kantong. 😊
+Cara membuat tumis kacang pajang ini begitu mudah. Bahanya gampang untuk didapatkan dan ramah di kantong. 😊
 
-{{< post-info prep="10 menit" cook="10 menit" total="20 menit" serving="3-4">}}
+{{< post-info prep="10 menit" cook="10 menit" total="20 menit" serving="3">}}
 
 __Bahan__
 

@@ -24,6 +24,7 @@ tags:
   - "gluten-free"
   - "diary-free"
   - "vegetarian"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -42,7 +43,7 @@ Oseng kangkung udang yang sehat dan bergizi. Dengan campuran udang yang kaya aka
 
 ## Apa itu oseng kangkung?
 
-Oseng kangkung adalah olahan berbahan dari sayur kangkung. Kangkung diolah dibumbui dengan banyak cabai dan ditambahkan udang. Khas citarasa oseng kangkung ini cenderung asin dan pedas.
+Oseng kangkung adalah olahan berbahan dari sayur kangkung. Kangkung diolah dibumbui dengan banyak cabai dan ditambahkan udang kecil. Khas citarasa oseng kangkung ini cenderung asin dan pedas.
 
 ## Manfaat sayur kangkung
 
@@ -62,7 +63,7 @@ Cara membuat oseng kangkung ini begitu simple dan praktis. Bahannya sangat mudah
 __Bahan__
 
 - 2 ikat kangkung
-- 200 gr udang kupas
+- 200 gr udang kecil
 - 5 siung bawang putih iris
 - 2 siung bawang merah iris
 - 10 cabe rawit iris (sesuai selera)

@@ -19,6 +19,7 @@ tags:
   - "vegan"
   - "vegetarian"
   - "diary-free"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -30,10 +31,10 @@ recipe: true
 time: "25 menit"
 
 # serving
-serving: 4-5
+serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Manisan Cermai" >}}
 {{< tags >}}
 
 Manisan cermai ini ada 2 macam yaitu manisan kering dan manisan basah. Manisan cermai ini sangat pas dibuat camilan disiang hari.

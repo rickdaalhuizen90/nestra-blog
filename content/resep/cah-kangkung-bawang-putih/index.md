@@ -27,6 +27,7 @@ tags:
   - "diary-free"
   - "vegetarian"
   - "vegan"
+  - "kuliner"
 
 # post type
 type: "post"
