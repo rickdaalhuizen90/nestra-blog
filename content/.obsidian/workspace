@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "resep/tumis-kacang-panjang/banner.png"
+            "file": "resep/ayam-kecap/banner.png"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/tumis-kacang-panjang/banner.png",
+                "file": "resep/ayam-kecap/banner.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "100cff3729a86d3c",
   "lastOpenFiles": [
+    "resep/ayam-kecap/banner.png",
+    "resep/ayam-kecap/index.md",
     "resep/tumis-kacang-panjang/banner.png",
     "resep/tumis-kangkung-saus-tiram/banner.png",
     "resep/tumis-kangkung-saus-tiram/index.md",
@@ -94,8 +96,6 @@
     "resep/manisan-cermai/banner.png",
     "resep/manisan-cermai/index.md",
     "artikel/7-tips-membuat-pentol-bakso/index.md",
-    "artikel/7-tips-membuat-pentol-bakso/banner.png",
-    "artikel/7-tips-membuat-pentol-bakso/baking.png.jpeg",
-    "artikel/7-tips-membuat-pentol-bakso/air-panas.png"
+    "artikel/7-tips-membuat-pentol-bakso/banner.png"
   ]
 }
