@@ -38,7 +38,7 @@ time: "1 jam"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Rendang Daging" >}}
 {{< tags >}}
 
 Menu hidangan masakan daging rendang yang lezat. Dengan menggunakan aneka bumbu rempah-rempah dan santan. Sehingga mempunyai kaya akan cita rasa dan aroma yang khas, sangat menggugah selera.

@@ -37,7 +37,7 @@ time: "35 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Cumi Bumbu Kuning" >}}
 {{< tags >}}
 
 Cumi bumbu kuning yang mempunyai aroma gurih dan sedap. Menu cumi bumbu kuning sangat layak menjadi menu hidangan setiap hari.
@@ -76,7 +76,7 @@ __Bumbu halus__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci bersih kepiting ambil tintah nya potong-potong.
+-   Cuci bersih cumi-cumi ambil kantung tintah nya potong-potong.
 -   Lumuri cumi-cumi dengan air jeruk diamkan selama 15 menit. Bilas hingga bersih.
 -   Panaskan wajan masukan minyak zaitun. Tumis bumbu halus, sereh, salam, laos dan cabe hingga harum.
 -   Masukan cumi-cumi, lada, kaldu jamur dan garam. Aduk rata masak selama 3 menit, angkat.

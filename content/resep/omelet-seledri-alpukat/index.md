@@ -41,7 +41,7 @@ time: "20 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Omelet Seledri Alpukat" >}}
 {{< tags >}}
 
 Hidangan omelet memberikan energi bagi tubuh sehingga tubuh kuat dan bertenaga. Menu hidangan ini sangat baik dikonsumsi setiap hari.

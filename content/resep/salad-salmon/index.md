@@ -1,5 +1,5 @@
 ---
-title: "Salad Salmon."
+title: "Salad Salmon"
 date: "2021-04-11T13:43:40+00:00"
 draft: false
 
@@ -34,7 +34,7 @@ time: "10 menit"
 serving: 1
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Salad Salmon" >}}
 {{< tags >}}
 
 Salad salmon ini merupakan makanan sehat dan lezat. Untuk gaya hidup yang sehat beralihlah mengkonsumsi salad diet sehat setiap hari.

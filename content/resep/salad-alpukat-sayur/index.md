@@ -38,7 +38,7 @@ time: "10 menit"
 serving: 2
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Salad Alpukat Sayur" >}}
 {{< tags >}}
 
 Hidangan salad diet ini kaya akan serat dan vitamin. Sangat cocok untuk gaya hidup yang sehat dan layak untuk dikonsumsi sehari-hari.

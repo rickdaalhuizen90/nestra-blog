@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep ayam goreng mentega ala keto yang sehat. Layak menjadi menu hidangan sehari-hari."
+description: "Resep ayam goreng mentega ala keto yang sehat. Makanan bergizi yang layak menjadi menu sehari-hari."
 
 # taxonomies
 categories:

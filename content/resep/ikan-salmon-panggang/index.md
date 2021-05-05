@@ -36,7 +36,7 @@ time: "30 menit"
 serving: 2
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Ikan Salmon Panggang" >}}
 {{< tags >}}
 
 Ikan salmon panggang ala diet keto ini sangat lezat. Rasa daging salmon yang empuk nan gurih sangat menggugah selera.

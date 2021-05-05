@@ -35,7 +35,7 @@ time: "20 menit"
 serving: 2
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Salad Telur Sayur" >}}
 {{< tags >}}
 
 Menu hidangan salad yang segar dan sangat menggugah selera. Salad diet ini membuat tubuh menjadi bugar, segar dan bertenaga. 

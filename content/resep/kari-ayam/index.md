@@ -36,7 +36,7 @@ time: "30 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Kari Ayam" >}}
 {{< tags >}}
 
 Cara membuat kari ayam rendah karbohidrat ala diet keto yang sehat sangat menggugah selera. Layak dijadikan menu hidangan setiap hari.

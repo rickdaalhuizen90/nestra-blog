@@ -34,7 +34,7 @@ time: "25 menit"
 serving: 1
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Shirataki Noodles Goreng Udang" >}}
 {{< tags >}}
 
 Shirataki noodles atau mie jepang yang kenyal, lezat dan menggugah selera. Menu hidangan ini mudah untuk di buat dan rasanya tidak kalah dari jenis mie yang lainnya.

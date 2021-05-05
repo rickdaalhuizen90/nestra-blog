@@ -1,6 +1,6 @@
 ---
 title: "Kaldu Tulang Sapi"
-date: "2021-04-20T13:43:40+00:00"
+date: 2021-04-20T09:17:59+02:00
 draft: false
 
 # meta description
@@ -35,7 +35,7 @@ time: "8 jam 10 menit"
 serving: 10
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Kaldu Tulang Sapi" >}}
 {{< tags >}}
 
 Kaldu tulang sapi mengandung kaya akan protein sehat dan bergizi tinggi. Aroma dan rasa dari masakan kaldu tulang sapi ini begitu gurih dan lezat.

@@ -34,7 +34,7 @@ time: "35 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Cah Brokoli Daging Sapi" >}}
 {{< tags >}}
 
 Cah brokoli daging sapi yang lezat dan sehat. Aman dikonsumsi bagi yang menjalankan diet keto maupun penderita diabetes.

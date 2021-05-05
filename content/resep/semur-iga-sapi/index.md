@@ -34,7 +34,7 @@ time: "55 menit"
 serving: 8
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Semur Iga Sapi" >}}
 {{< tags >}}
 
 Semur iga sapi salah satu makanan yang khas dari Indonesia. Kelezatan semur iga berkuah ini tidak perlu diragukan lagi.

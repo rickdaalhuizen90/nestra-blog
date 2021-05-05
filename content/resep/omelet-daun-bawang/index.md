@@ -36,7 +36,7 @@ time: "15 menit"
 serving: 1
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Omelet Daun Bawang" >}}
 {{< tags >}}
 
 Omelet daun bawang yang disandingkan dengan daun bayam yang sehat dan bergizi. Menu hidangan ini sangat baik di komsumsi sehari-hari

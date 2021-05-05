@@ -33,7 +33,7 @@ time: "40 menit"
 serving: 8-9
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Ayam Kecap" >}}
 {{< tags >}}
 
 Ayam goreng kecap yang lezat dan menggugah selera. Menu hidangan ini layak menjadi menu andalan sehari-hari.

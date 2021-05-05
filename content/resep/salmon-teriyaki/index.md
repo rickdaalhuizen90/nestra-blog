@@ -33,7 +33,7 @@ time: "30 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Salmon Teriyaki" >}}
 {{< tags >}}
 
 Salmon teriyaki masakan jepang yang bergizi dan menggugah selera. Salmon teriyaki ini termasuk menu hidangan terbaik untuk malam hari.

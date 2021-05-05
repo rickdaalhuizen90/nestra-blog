@@ -37,7 +37,7 @@ time: "15 menit"
 serving: 2
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Telur Orak Arik" >}}
 {{< tags >}}
 
 Menu hidangan telur orak-arik yang empuk, lezat dan menggugah selera. Juga bergizi tinggi yang membuat tubuh bertenaga.

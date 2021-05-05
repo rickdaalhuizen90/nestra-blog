@@ -35,7 +35,7 @@ time: "25 menit"
 serving: 2
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Shirataki Noodles Goreng Cumi" >}}
 {{< tags >}}
 
 Shirataki noodles goreng cumi mempunyai aroma harum yang khas. Aroma dari merica hitam membuat hidangan ini sangat menggugah selera.

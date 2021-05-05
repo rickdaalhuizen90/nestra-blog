@@ -36,7 +36,7 @@ time: "15 menit"
 serving: 2
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Oseng Kangkung Udang" >}}
 {{< tags >}}
 
 Oseng kangkung udang yang sehat dan bergizi. Dengan campuran udang yang kaya akan mineral penting bagi tubuh. Membuat hidangan ini sangat spesial.

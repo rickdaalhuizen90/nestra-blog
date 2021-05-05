@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "100cff3729a86d3c",
+        "id": "7d9fbe5bda2c70d9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/sup-jantung-pisang/index.md",
+            "file": "resep/shirataki-noodles-goreng-cumi/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/sup-jantung-pisang/index.md",
+                "file": "resep/shirataki-noodles-goreng-cumi/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "100cff3729a86d3c",
+  "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
-    "resep/sup-jantung-pisang/index.md",
-    "resep/manisan-cermai/index.md",
-    "resep/mie-goreng-udang/index.md",
-    "resep/cumi-pedas-manis/index.md",
-    "resep/takoyaki/index.md",
-    "resep/telur-orak-arik/index.md",
-    "resep/tumis-kacang-panjang/index.md",
-    "resep/tumis-kangkung-saus-tiram/index.md",
-    "resep/tumis-kol-daging-sapi/index.md",
-    "resep/sup-ikan-dori/index.md"
+    "resep/shirataki-noodles-goreng-cumi/index.md",
+    "resep/salmon-saus-kari/index.md",
+    "resep/oseng-kangkung-udang/index.md",
+    "resep/salmon-saus-kari/banner.png",
+    "resep/gado-gado/index.md",
+    "resep/kimchi/index.md",
+    "resep/kari-ayam/index.md",
+    "resep/urap-sayur/index.md",
+    "resep/ayam-goreng-mentega/index.md",
+    "resep/ayam-goreng-ungkep/index.md"
   ]
 }

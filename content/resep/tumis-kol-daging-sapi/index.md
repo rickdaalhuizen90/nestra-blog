@@ -38,7 +38,7 @@ time: "15 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Tumis Kol Daging Sapi" >}}
 {{< tags >}}
 
 

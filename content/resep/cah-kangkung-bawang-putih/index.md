@@ -39,7 +39,7 @@ time: "15 menit"
 serving: 2
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Cah Kangkung" >}}
 {{< tags >}}
 
 Menu hidangan cah kangkung ala diet keto yang sehat dan bergizi. Cah kangkung adalah salah satu menu favorit orang Indonesia.

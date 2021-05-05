@@ -34,7 +34,7 @@ time: "1 jam 30 menit"
 serving: 12-16
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Pentol Bakso Halus" >}}
 {{< tags >}}
 
 Menu hidangan pentol bakso yang sangat digemari masyarakat Indonesia. Rasanya yang begitu kenyal membuat lidah ketagihan.

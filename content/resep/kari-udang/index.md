@@ -37,7 +37,7 @@ time: "25 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Kari Udang" >}}
 {{< tags >}}
 
 Banyak berbagai macam menu masakan udang. Kali ini saya membuat resep kari udang yang bergizi dan sangat menggugah selera.

@@ -11,6 +11,7 @@ description: "Cara membuat manisan cermai basah yang renyah, segar dan tahan lam
 
 # taxonomies
 categories:
+  - "Cara Membuat"
   - "Manisan"
   - "Rujak"
 

@@ -34,7 +34,7 @@ time: "25 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Rawon" >}}
 {{< tags >}}
 
 Pada umumnya rawon menggunakan daging sapi dan menggunakan bumbu kluwek. Sehingga menghasilkan kuah berwarna hitam yang khas dan memiliki rasa yang lezat .

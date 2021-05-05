@@ -39,7 +39,7 @@ time: "5 menit"
 serving: 2
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Jus Mentimun" >}}
 {{< tags >}}
 
 Jus mentimun yang segar, sangat cocok dikonsumsi setiap hari. Minuman terbaik bagi penderita tekanan darah tinggi.

@@ -1,5 +1,5 @@
 ---
-title: "Omelet-Alpukat-Keju"
+title: "Omelet Keju"
 date: "2021-04-19T13:43:40+00:00"
 draft: false
 
@@ -34,7 +34,7 @@ time: "20mnt"
 serving: 1
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Omelet Keju" >}}
 {{< tags >}}
 
 Menu hidangan omelet yang gurih, lembut dan lezat di mulut. Menu hidangan omelet diet ini sangat sehat dan bergizi.

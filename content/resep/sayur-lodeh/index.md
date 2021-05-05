@@ -35,7 +35,7 @@ time: "30 menit"
 serving: 3
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Sayur Lodeh" >}}
 {{< tags >}}
 
 Menu hidangan lodeh yang segar dan menggugah selera. Bahannya bisa disesuaikan dengan sayur yang ada di rumah.

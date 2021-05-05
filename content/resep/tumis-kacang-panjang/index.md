@@ -12,13 +12,10 @@ description: "Resep membuat tumis kacang panjang yang sehat dan begizi. Sangat r
 # taxonomies
 categories:
   - "Resep Keto"
-  - "Resep Vegan"
-  - "Resep Vegetarian"
   - "Masakan Rumahan"
   - "Cara Membuat"
   - "Masakan Bergizi"
   - "Makanan Rendah Kalori"
-  - "Tumis Kacang Panjang"
   
 # post tags
 tags:

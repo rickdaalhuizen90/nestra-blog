@@ -34,7 +34,7 @@ time: "30 menit"
 serving: 2
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Sup Ikan Dori" >}}
 {{< tags >}}
 
 Menu hidangan sup ikan dori dengan aroma yang segar dan rasa yang lezat. Layak menjadi menu hidangan sehat untuk sehari-hari.

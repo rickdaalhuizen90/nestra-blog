@@ -11,8 +11,8 @@ description: "Resep membuat takoyaki jajanan asli jepang yang enak. Baca selengk
 
 # taxonomies
 categories:
-  - "Resep"
   - "Cara Membuat"
+  - "Masakan Rumahan"
 
 # post tags
 tags:
@@ -31,7 +31,7 @@ time: "30 menit"
 serving: 5
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Takoyaki" >}}
 {{< tags >}}
 
 Siapa yang tidak kenal dengan takoyaki? Jajanan asli jepang yang enak sangat menggugah selera. Jajanan enak untuk dikonsumsi setiap saat.

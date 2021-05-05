@@ -33,7 +33,7 @@ time: "1 jam 05 menit"
 serving: 8
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt=" Ayang Goreng Ungkep" >}}
 {{< tags >}}
 
 Ayam goreng ukep hidangan yang lezat dan renyah. Salah satu menu favorit orang Indonesia.

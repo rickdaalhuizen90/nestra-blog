@@ -38,7 +38,7 @@ time: "8 menit"
 serving: 1
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Smoothie Hijau" >}}
 {{< tags >}}
 
 Smoothie hijau ini memberikan kaya akan vitamin dan memberikan energi untuk tubuh. Minuman smoothie hijau ini sangat sehat dan baik dikonsumsi sehari-hari.

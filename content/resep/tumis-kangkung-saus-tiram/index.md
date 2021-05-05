@@ -34,7 +34,7 @@ time: "15 menit"
 serving: 2
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Tumis Kangkung Saus Tiram" >}}
 {{< tags >}}
 
 Menu hidangan tumis kangkung saus tiram yang lezat. Rasa khas dari saus tiram yang asin gurih sangat menggugah selera.

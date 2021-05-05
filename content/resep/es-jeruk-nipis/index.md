@@ -39,7 +39,7 @@ time: "5 menit"
 serving: 1
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Es Jeruk Nipis" >}}
 {{< tags >}}
 
 Es jeruk nipis minuman segar dan sehat. Sangat cocok diminum setiap hari.

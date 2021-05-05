@@ -33,7 +33,7 @@ time: "40 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Sambal Teri Pete" >}}
 {{< tags >}}
 
 Hidangan sambal ini teri pete ini adalah menu favorit orang Indonesia. Menu hidangan sambal ini sangat gurih dan lezat.

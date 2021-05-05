@@ -11,8 +11,9 @@ description: "Resep cumi pedas manis bikin lidah ketagihan. layak dijadikan menu
 
 # taxonomies
 categories:
-  - "Resep"
+  - "Masakan Rumahan"
   - "Cara Membuat"
+  - "Makanan Berigizi"
 
 # post tags
 tags:
@@ -31,7 +32,7 @@ time: "25 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Cumi Pedas Manis" >}}
 {{< tags >}}
 
 Cumi pedas manis yang kering sangat menggugah selera. Bumbunya meresap ke daging cumi sehingga sangat lezat.

@@ -34,7 +34,7 @@ serving: 4
 ---
 
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Ikan Goreng Crispy" >}}
 {{< tags >}}
 
 Menu hidangan ikan goreng crispy ala diet keto ini sangat menggugah selera. Rasanya begitu renyah di luar dan gurih didalam

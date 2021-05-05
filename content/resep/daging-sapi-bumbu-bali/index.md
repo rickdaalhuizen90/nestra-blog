@@ -34,7 +34,7 @@ time: "45 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Daging Sapi Bumbu Bali" >}}
 {{< tags >}}
 
 Daging sapi bumbu bali yang lezat bikin lidah ketagihan. Hidangan ini sangat sehat dan layak menjadi menu hidangan diet sehari-hari.

@@ -33,7 +33,7 @@ time: "50 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Sate Ayam Bumbu Kacang" >}}
 {{< tags >}}
 
 Menu hidangan sate ayam bumbu kacang yang rendah karbohidrat. Sehingga aman dikonsumsi untuk diet keto maupun penderita diabetes.

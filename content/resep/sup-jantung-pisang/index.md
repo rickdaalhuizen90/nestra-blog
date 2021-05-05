@@ -11,8 +11,9 @@ description: "Cara membuat sup jantung pisang yang gurih dan lezat. Menu hidanga
 
 # taxonomies
 categories:
-  - "Resep"
+  - "Masakan Rumahan"
   - "Cara Membuat"
+  - "Makanan Bergizi"
 
 # post tags
 tags:
@@ -34,7 +35,7 @@ time: "45 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Sup Jantung Pisang" >}}
 {{< tags >}}
 
 Sayur jantung pisang yang berkuah gurih sangat lezat. Resep hidangan ini sangat segar meski tidak menggunakan santan.

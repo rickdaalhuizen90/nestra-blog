@@ -33,7 +33,7 @@ time: "25 menit"
 serving: 2
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Shirataki Noodles Creamy Salmon" >}}
 {{< tags >}}
 
 Menu hidangan shirataki noodles salmon creamy ini begitu kenyal dan creamy. Menu hidangan ini sangat sehat dan rendah karbohidrat. 

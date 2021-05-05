@@ -34,7 +34,7 @@ time: "20 menit"
 serving: 1
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Shirataki Noodles Ayam Bawang" >}}
 {{< tags >}}
 
 Cara membuat mie ayam bawang yang mempunyai aroma segar dan rasanya begitu alami. Menu hidangan ini mempunyai banyak nutrisi sehingga bisa menunda rasa lapar yang lama.

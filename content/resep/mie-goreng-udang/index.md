@@ -33,7 +33,7 @@ time: "20 menit"
 serving: 2
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Mie Goreng Udang" >}}
 {{< tags >}}
 
 Mie goreng udang hidangan yang tak asing untuk kita. Rasanya begitu gurih lezat membuat lidah kita menjadi ketagihan.
