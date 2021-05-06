@@ -25,7 +25,7 @@ tags:
   - "kuliner"
 
 # post type
-type: "post"
+type: "featured"
 
 # prep time
 time: "45 menit"

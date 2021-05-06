@@ -25,7 +25,7 @@ tags:
   - "kuliner"
 
 # post type
-type: "featured"
+type: "post"
 
 # Is Recipe
 recipe: true

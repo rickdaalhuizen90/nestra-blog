@@ -17,7 +17,7 @@ categories:
 tags:
 
 # post type
-type: "post"
+type: "trending"
 ---
 
 {{< img src="banner.png" alt="" >}}

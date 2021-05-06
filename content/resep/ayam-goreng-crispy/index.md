@@ -25,7 +25,7 @@ tags:
   - "kuliner"
 
 # post type
-type: "trending"
+type: "post"
 
 # prep time
 time: "25mnt"

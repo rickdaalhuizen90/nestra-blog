@@ -12,6 +12,9 @@ feature: "banner.png"
 # taxonomies
 categories:
   - "Bahan Makanan"
+  
+tags:
+  - "Kuliner"
 
 # post type
 type: "trending"

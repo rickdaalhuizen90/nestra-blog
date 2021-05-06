@@ -22,11 +22,11 @@
       {{ end }}
     </ul>
   </div>
-  <!-- Trending -->
+  <!-- Recommend -->
   <div class="widget">
-    <h4 class="widget-title">Trending</h4>
+    <h4 class="widget-title">Rekomendasi</h4>
     <div class="list-inline">
-      {{ range first 5 (where .Site.RegularPages "Type" "trending") }}
+      {{ range first 5 (where .Site.RegularPages "Type" "recommend") }}
       <div class="sidebar__posts">
         <article class="sidebar__post">
           {{ if .Params.feature }}

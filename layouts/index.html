@@ -57,9 +57,9 @@
 {{ if $home }}
 <section class="recent-post">
   <div class="container">
-    <h2 class="recent-post__title">Resep tebaru</h2>
+    <h2 class="recent-post__title">Trending</h2>
     <div class="row">
-      {{ range first 3 (where .Site.RegularPages "Type" "post")}}
+      {{ range first 3 (where .Site.RegularPages "Type" "trending")}}
       <div class="col-lg-4 small-post-border">
         <article class="media">
           {{ if .Params.Feature }}
