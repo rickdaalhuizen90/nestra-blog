@@ -29,7 +29,7 @@ tags:
   - "kuliner"
 
 # post type
-type: "post"
+type: "recommend"
 
 # prep time
 time: "1 jam"
