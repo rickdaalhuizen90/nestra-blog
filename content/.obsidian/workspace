@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/gado-gado/index.md",
+            "file": "resep/balado-teri-jengkol/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/gado-gado/index.md",
+                "file": "resep/balado-teri-jengkol/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
+    "resep/balado-teri-jengkol/index.md",
+    "resep/rujak-mangga-muda/index.md",
+    "resep/gulai-tunjang/index.md",
+    "resep/gulai-tunjang/banner.png",
     "resep/gado-gado/index.md",
-    "resep/salmon-saus-kari/index.md",
-    "resep/salmon-teriyaki/index.md",
-    "resep/mie-kuah-daging/index.md",
-    "resep/nasi-goreng-udang/index.md",
-    "resep/mie-kuah-daging/banner.png",
-    "resep/rendang-daging/index.md",
+    "resep/gado-gado/banner.png",
+    "resep/manisan-mangga-muda/index.md",
     "resep/ayam-kecap/index.md",
-    "resep/ikan-goreng-crispy-keto/index.md",
-    "resep/tumis-kacang-panjang/index.md"
+    "resep/manisan-cermai/index.md",
+    "resep/rendang-daging/index.md"
   ]
 }

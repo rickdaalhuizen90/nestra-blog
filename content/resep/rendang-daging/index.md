@@ -82,16 +82,14 @@ __Bumbu halus__
 - 3 cm jahe kupas bakar
 - 1 sdt ketumbar sangrai
 - 3 cm kunyit bakar
+{{< /post-info>}}
 
-
-__Cara membuat__
-
+{{< steps title="Cara membuat">}}
 - Cuci daging dan potong-potong sesuai selera, tiriskan.
 - Siapkan wajan panaskan minyak. Masukan bumbu halus, salam, daun jeruk, sereh, laos dan daging. Masak sampai harum.
 - Masukan santan dan kaldu sapi. Aduk-aduk masak sampai mendidih dan kuah menyusut. Kecilkan api.
 - Masukan garam, gula dan kaldu jamur. Tes rasa, angkat.
 - Hidangkan daging rendang ketika masih hangat.
-
 {{< /post-info>}}
 
 >Jika menggunakan daging biasa, tambahkan air masak hingga daging empuk.
