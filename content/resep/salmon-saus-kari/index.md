@@ -63,10 +63,10 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Belah ikan salmon menjadi 2 bagian, cuci bersih, sisihkan.
--   Panaskan teflon masukan air jeruk, bubuk kari, krim dan jahe. Masak hingga mendidih sambil terus diaduk.
--   Masukan ikan salmon, kecilkan api ,tutup teflon nya. Masak selama 12 menit sambil dibolak balik hingga 2x, angkat.
--   Hidangkan salmon selagi hangat dengan taburan garam dan lada hitam diatasnya.
+- Belah ikan salmon menjadi 2 bagian, cuci bersih, sisihkan.
+- Panaskan teflon masukan air jeruk, bubuk kari, krim dan jahe. Masak hingga mendidih sambil terus diaduk.
+- Masukan ikan salmon, kecilkan api ,tutup teflon nya. Masak selama 12 menit sambil dibolak balik hingga 2x, angkat.
+- Hidangkan salmon selagi hangat dengan taburan garam dan lada hitam diatasnya.
 {{< /steps>}}
 
 > Ketika mau membalik ikan salmon. Balik dengan perlahan dan hati-hati agar tidak mudah hancur.

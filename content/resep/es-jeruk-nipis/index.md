@@ -81,9 +81,9 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Siapkan gelas, peras jeruk nipis ke dalam gelas.
--   Masukan gula, garam dan air, aduk-aduk hingga larut.
--   Sesudah larut es jeruk nipis siap untuk di nikmati.
+- Siapkan gelas, peras jeruk nipis ke dalam gelas.
+- Masukan gula, garam dan air, aduk-aduk hingga larut.
+- Sesudah larut es jeruk nipis siap untuk di nikmati.
 {{< /steps>}}
 
 > Jika tidak untuk diet bisa menggunakan es batu.

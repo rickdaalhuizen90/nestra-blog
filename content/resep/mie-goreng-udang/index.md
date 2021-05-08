@@ -65,12 +65,12 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Panaskan wajan/teflon masukan minyak, tumis bawang putih hingga harum.
--   Masukan udang, daging, lada dan saus tiram aduk-aduk sampai udang berubah warna.
--   Masukan kecap manis, minyak wijen, kaldu jamur dan garam, aduk-aduk.
--   Masukan mie, aduk semua hingga tercampur rata.
--   Masak mie selama 1 menit sambil diaduk-aduk. Tes rasa, angkat.
--   Hidangkan mie goreng udang ketika masih panas bersama taburan daun bawang.
+- Panaskan wajan/teflon masukan minyak, tumis bawang putih hingga harum.
+- Masukan udang, daging, lada dan saus tiram aduk-aduk sampai udang berubah warna.
+- Masukan kecap manis, minyak wijen, kaldu jamur dan garam, aduk-aduk.
+- Masukan mie, aduk semua hingga tercampur rata.
+- Masak mie selama 1 menit sambil diaduk-aduk. Tes rasa, angkat.
+- Hidangkan mie goreng udang ketika masih panas bersama taburan daun bawang.
 {{< /steps>}}
 
 > Perhatikan volume api ketika menggoreng mie. Ketika memasukan bahan kecilkan api. Ketika menggoreng sambil diaduk-aduk besarkan api.

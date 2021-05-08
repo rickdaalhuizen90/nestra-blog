@@ -66,15 +66,15 @@ __Saus teriyaki__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci bersih salmon potong menjadi 4 bagian.
--   Campurkan saus teriyaki ke dalam wadah aduk-aduk.
--   Masukan salmon ke dalam bumbu marinasi.
--   Balur hingga rata diamkan selama 15 menit.
--   Panaskan teflon masukan minyak zaitun dan salmon, masak dengan api sedang.
--   Bolak balik di dua sisi selama 3-4 menit, angkat, tata ke dalam piring.
--   Masukan sisa saus teriyaki ke dalam teflon.
--   Masak hingga mendidih lalu tuangkan di atas salmon.
--   Hidangkan salmon teriyaki ketika masih panas.
+- Cuci bersih salmon potong menjadi 4 bagian.
+- Campurkan saus teriyaki ke dalam wadah aduk-aduk.
+- Masukan salmon ke dalam bumbu marinasi.
+- Balur hingga rata diamkan selama 15 menit.
+- Panaskan teflon masukan minyak zaitun dan salmon, masak dengan api sedang.
+- Bolak balik di dua sisi selama 3-4 menit, angkat, tata ke dalam piring.
+- Masukan sisa saus teriyaki ke dalam teflon.
+- Masak hingga mendidih lalu tuangkan di atas salmon.
+- Hidangkan salmon teriyaki ketika masih panas.
 {{< /steps>}}
 
 > Jangan memasak salmon terlalu lama agar kandungan gizi ikan salmon tidak berkurang.

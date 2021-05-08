@@ -70,13 +70,13 @@ __Adonan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Aduk semua bahan adonan hingga tercampur rata.
--   Panaskan wajan cetakan takoyaki. Oles sedikit minyak di lubang masing-masing.
--   Masukan 1 sdm adonan di setiap cetakan, tunggu sampai sedikit mengeras.
--   Masukan 1 potong keju dan sosis di setiap adonan.
--   Tutup sosis keju dengan adonan baru sampai penuh.
--   Balik adonan, masak hingga berwarna coklat. Angkat.
--   Hidangkan takoyaki selagi hangat bersama mayones / saus sesuai selera.
+- Aduk semua bahan adonan hingga tercampur rata.
+- Panaskan wajan cetakan takoyaki. Oles sedikit minyak di lubang masing-masing.
+- Masukan 1 sdm adonan di setiap cetakan, tunggu sampai sedikit mengeras.
+- Masukan 1 potong keju dan sosis di setiap adonan.
+- Tutup sosis keju dengan adonan baru sampai penuh.
+- Balik adonan, masak hingga berwarna coklat. Angkat.
+- Hidangkan takoyaki selagi hangat bersama mayones / saus sesuai selera.
 {{< /steps>}}
 
 > Ketika mengaduk adonan bisa menggunakan blender tapi jangan masukan daun bawang.

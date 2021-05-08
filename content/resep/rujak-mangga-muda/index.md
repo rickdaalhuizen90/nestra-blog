@@ -1,13 +1,13 @@
 ---
 title: "Manisan Kedondong"
-date: 2021-05-07T08:16:10+02:00
-draft: true
+date: 2021-05-09T09:16:10+02:00
+draft: false
 
 # post thumb
 feature: "banner.png"
 
 # meta description
-description: "Resep rujak kedondong yang asam manis segar sangat menggugah selera. Masakan rumahan ini mudah untuk dibuat"
+description: "Resep rujak mangga muda yang asam manis segar sangat menggugah selera. Masakan rumahan ini mudah untuk dibuat"
 
 # taxonomies
 categories:
@@ -42,6 +42,19 @@ Rujak mangga muda yang memiliki rasa asin asam manis dan segar. Sangat pas dimak
 
 Rujak mangga muda adalah semacam salad buah. Terbuat dari mangga muda dengan saus manis pedas yang menggugah selera.
 
+## Manfaat mangga muda
+
+-   Meningkatkan kesehatan hati
+-   Mencegah asam lambung
+-   Meningkatkan imunitas tubuh
+-   Mengobati gangguan darah
+-   Meredakan gangguan pencernaan
+-   Menurunkan berat badan
+-   Meningkatan energy
+-   Meningkatkan kesehatan jantung
+-   Mengobati penyakit kudis
+-   Mencegah tubuh dehidrasi
+
 ## Mulai membuat
 
 Cara membuat rujak mangga muda ini tergolong mudah. Bahannya minim dan ramah di kantong.
@@ -56,7 +69,6 @@ __Bahan__
 __Bumbu rujak__
 
 -   5 sdm gula jawa
--   2 sdm kecap manis
 -   3 buah cabe rawit ( sesuai selera)
 -   1 sdt garam
 -   1 sdt terasi bakar
@@ -64,11 +76,11 @@ __Bumbu rujak__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci bersih semua mangga muda, kupas kulitnya.
--   Potong-potong buah mangga muda sesuai selera, sisihkan.
--   Haluskan bumbu rujak dalam cobek, tambahkan sedikit air. Tes rasa.
--   Campurkan mangga muda dengan bumbu rujak hingga rata.
--   Hidangkan selagi dingin.
+- Cuci bersih semua mangga muda, kupas kulitnya.
+- Potong-potong buah mangga muda sesuai selera, sisihkan.
+- Haluskan bumbu rujak dalam cobek, tambahkan sedikit air. Tes rasa.
+- Campurkan mangga muda dengan bumbu rujak hingga rata.
+- Hidangkan selagi dingin.
 {{< /post-info>}}
 
 > Bisa menambahkan kacang tanah goreng kedalam bumbu rujak sesuai selera.

@@ -77,14 +77,14 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Potong dadu ayam. Cuci bersih lalu lumuri dengan air jeruk diamkan 10 menit.
--   cuci bersih tomat, potong dadu.
--   Cuci bersih ayam. Keringkan ayam dengan tisu atau lap bersih.
--   Panaskan minyak, goreng ayam dengan api besar selama 3 menit. Angkat, tiriskan.
--   Panaskan mentega, masukan bawang putih, masak hingga harum.
--   Masukan ayam, air, kecap manis, kaldu jamur, dan lada bubuk.
--   Masak hingga kuah menyusut, masukan daun seledri dan tomat. Tes rasa, angkat.
--   Hidangkan ayam goreng mentega ketika masih hangat.
+- Potong dadu ayam. Cuci bersih lalu lumuri dengan air jeruk diamkan 10 menit.
+- cuci bersih tomat, potong dadu.
+- Cuci bersih ayam. Keringkan ayam dengan tisu atau lap bersih.
+- Panaskan minyak, goreng ayam dengan api besar selama 3 menit. Angkat, tiriskan.
+- Panaskan mentega, masukan bawang putih, masak hingga harum.
+- Masukan ayam, air, kecap manis, kaldu jamur, dan lada bubuk.
+- Masak hingga kuah menyusut, masukan daun seledri dan tomat. Tes rasa, angkat.
+- Hidangkan ayam goreng mentega ketika masih hangat.
 {{< /steps>}}
 
 > Jangan menggoreng daging ayam terlalu lama. Agar tekstur daging ayam tetap empuk.

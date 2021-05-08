@@ -62,16 +62,16 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Bersihkan buah cermai, tiriskan.    
--   Cincang cabai kering sisihkan.  
--   Memarkan cermai, masukan ke dalam baskom. Lumuri dengan garam diamkan selama 15 menit.
--   Cuci buah cermai dan tiriskan. Masukan lagi ke dalam baskom.
--   Masukan air ke dalam panci. Rebus hingga mendidih.
--   Siram buah cermai dengan air panas. Aduk-aduk, diamkan 1 menit, angkat tiriskan.
--   Masukan buah cermai, cabe kering dan gula ke dalam tupperware. Aduk hingga rata dan biarkan dingin.
--   Tutup tupperware masukan ke dalam kulkas selama 8 jam.
--   Setiap 2 jam aduk-aduk manisan cermai agar gula tercampur rata.
--   Setelah 8 jam manisan cermai siap untuk dinikmati.
+- Bersihkan buah cermai, tiriskan.    
+- Cincang cabai kering sisihkan.  
+- Memarkan cermai, masukan ke dalam baskom. Lumuri dengan garam diamkan selama 15 menit.
+- Cuci buah cermai dan tiriskan. Masukan lagi ke dalam baskom.
+- Masukan air ke dalam panci. Rebus hingga mendidih.
+- Siram buah cermai dengan air panas. Aduk-aduk, diamkan 1 menit, angkat tiriskan.
+- Masukan buah cermai, cabe kering dan gula ke dalam tupperware. Aduk hingga rata dan biarkan dingin.
+- Tutup tupperware masukan ke dalam kulkas selama 8 jam.
+- Setiap 2 jam aduk-aduk manisan cermai agar gula tercampur rata.
+- Setelah 8 jam manisan cermai siap untuk dinikmati.
 {{< /steps>}}
 
 > Manisan cermai bisa langsung dikonsumsi atau dicampur dengan bumbu rujak manis.

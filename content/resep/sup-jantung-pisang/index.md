@@ -72,11 +72,11 @@ __Bumbu halus__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Kupas jantung pisang, ambil putihnya saja. Cuci bersih, belah menjadi 2 bagian, rebus hingga empuk, potong-potong.
--   Panaskan wajan masukan minyak, tumis bumbu halus, cengkeh dan kayu manis hingga harum.
--  Siapkan panci masukan kaldu tulang, air, jantung pisang dan bumbu. Masak hingga mendidih.
--  Masukan daun bawang, seledri, garam, kaldu jamur dan gula. Masak hingga matang, tes rasa, angkat.
--   Tuang sup jantung pisang ke dalam mangkuk, hidangkan selagi hangat.
+- Kupas jantung pisang, ambil putihnya saja. Cuci bersih, belah menjadi 2 bagian, rebus hingga empuk, potong-potong.
+- Panaskan wajan masukan minyak, tumis bumbu halus, cengkeh dan kayu manis hingga harum.
+- Siapkan panci masukan kaldu tulang, air, jantung pisang dan bumbu. Masak hingga mendidih.
+- Masukan daun bawang, seledri, garam, kaldu jamur dan gula. Masak hingga matang, tes rasa, angkat.
+- Tuang sup jantung pisang ke dalam mangkuk, hidangkan selagi hangat.
 {{< /steps>}}
 
  > Jika tidak ada kaldu tulang sapi, gunakan tetelan sapi, rasanya jauh lebih mantap.

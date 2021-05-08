@@ -71,15 +71,15 @@ __Bumbu balado__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Kupas jengkol cuci bersih. presto jengkol dengan bubuk kopi selama 30 menit. Angkat.
--   Cuci bersih jengkol, memarkan jengkol satu per satu.
--   Panaskan wajan masukan minyak, goreng jengkol setengah kering, angkat tiriskan.
--   Goreng ikan teri hingga kering, tiriskan.
--   Siapkan cobek, uleg kasar bumbu balado.
--   Tumis bumbu balado dan serai hingga harum dengan sisa minyak menggoreng teri.
--   Masukan jengkol, gula, garam dan kaldu jamur. Masak hingga bumbu meresap dan kering dengan api kecil.
--   Masukan teri, tes rasa angkat.
--   Hidangkan balado jengkol teri selagi hangat.
+- Kupas jengkol cuci bersih. presto jengkol dengan bubuk kopi selama 30 menit. Angkat.
+- Cuci bersih jengkol, memarkan jengkol satu per satu.
+- Panaskan wajan masukan minyak, goreng jengkol setengah kering, angkat tiriskan.
+- Goreng ikan teri hingga kering, tiriskan.
+- Siapkan cobek, uleg kasar bumbu balado.
+- Tumis bumbu balado dan serai hingga harum dengan sisa minyak menggoreng teri.
+- Masukan jengkol, gula, garam dan kaldu jamur. Masak hingga bumbu meresap dan kering dengan api kecil.
+- Masukan teri, tes rasa angkat.
+- Hidangkan balado jengkol teri selagi hangat.
 {{< /steps>}}
 
 > Pastikan bumbu benar-benar kering ketika memasukan teri agar teri selalu renyah. Bubuk kopi berguna untuk mengurangi bau tak sedap pada jengkol.

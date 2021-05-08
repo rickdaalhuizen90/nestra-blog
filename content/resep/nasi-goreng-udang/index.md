@@ -69,13 +69,13 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci bersih arcis, wortel dan udang. Sisihkan.
--   Ambil wajan, panaskan minyak zaitun. Tumis bawang putih hingga harum.
--   Masukan udang, arcis, wortel dan daging, aduk-aduk hingga merata.
--   Masukan kecap manis, saus tiram, minyak wijen, lada, kaldu jamur dan garam. Aduk hingga rata.
--   Masukan nasi, telur orak arik dan saus tomat aduk hingga merata.
--   Masak sambil diaduk-aduk sampai aroma sedap tercium. Angkat.
--   Hidangkan nasi goreng ketika masih panas.
+- Cuci bersih arcis, wortel dan udang. Sisihkan.
+- Ambil wajan, panaskan minyak zaitun. Tumis bawang putih hingga harum.
+- Masukan udang, arcis, wortel dan daging, aduk-aduk hingga merata.
+- Masukan kecap manis, saus tiram, minyak wijen, lada, kaldu jamur dan garam. Aduk hingga rata.
+- Masukan nasi, telur orak arik dan saus tomat aduk hingga merata.
+- Masak sambil diaduk-aduk sampai aroma sedap tercium. Angkat.
+- Hidangkan nasi goreng ketika masih panas.
 {{< /steps>}}
 
 >   Perhatikan volume api ketika menggoreng nasi. Ketika memasukan bahan kecilkan api. Ketika menggoreng sambil diaduk-aduk besarkan api.

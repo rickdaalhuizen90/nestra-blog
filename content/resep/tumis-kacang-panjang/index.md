@@ -78,12 +78,12 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Siangi kacang lalu potong-potong dan cuci bersih.
--   Panaskan wajan masukan minyak zaitun.
--   Masukan bawang putih, bawang merah, laos dan daun salam. Masak hingga harum.
--   Masukan kacang panjang, kecap manis, kaldu jamur, lada, garam dan air.
--   Aduk-aduk masak dengan api sedang hingga kuah menyusut. Tes rasa ,angkat.
--   Hidangkan tumis kacang panjang ketika masih hangat.
+- Siangi kacang lalu potong-potong dan cuci bersih.
+- Panaskan wajan masukan minyak zaitun.
+- Masukan bawang putih, bawang merah, laos dan daun salam. Masak hingga harum.
+- Masukan kacang panjang, kecap manis, kaldu jamur, lada, garam dan air.
+- Aduk-aduk masak dengan api sedang hingga kuah menyusut. Tes rasa ,angkat.
+- Hidangkan tumis kacang panjang ketika masih hangat.
 {{< /steps>}}
 
 > Untuk hasil kacang panjang yang berwarna hijau. Sebelum dimasak rebus kacang dengan air mendidih selama 1/2 menit bersama 1 sdt garam. Angkat siram dengan air dingin.

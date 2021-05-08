@@ -78,13 +78,13 @@ __Bumbu halus__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci tahu dan terong, potong-potong. Sisihkan
--   Masak air hingga mendidih lalu masukan bumbu halus.
--   Masukan laos, daun bawang daun jeruk dan salam. Masak hingga harum.
--   Masukan tahu, terong dan cabe rawit.
--   Masukan santan, aduk-aduk masak hingga mendidih.
--   Masukan garam, gula dan kaldu jamur. Masak sambil terus diaduk hingga matang. Tes rasa, angkat.
--   Hidangkan sayur lodeh ketika masih hangat.
+- Cuci tahu dan terong, potong-potong. Sisihkan
+- Masak air hingga mendidih lalu masukan bumbu halus.
+- Masukan laos, daun bawang daun jeruk dan salam. Masak hingga harum.
+- Masukan tahu, terong dan cabe rawit.
+- Masukan santan, aduk-aduk masak hingga mendidih.
+- Masukan garam, gula dan kaldu jamur. Masak sambil terus diaduk hingga matang. Tes rasa, angkat.
+- Hidangkan sayur lodeh ketika masih hangat.
 {{< /steps>}}
 
 > Aduk terus ketika memasak santan agar tidak pecah. Sehingga menghasilkan rasa gurih dan creamy.

@@ -70,13 +70,13 @@ __Bumbu kacang __
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Potong-potong kacang panjang. Cuci bersih, rebus bersama telur dan kentang hingga matang angkat.
--   Rendam kecambah dalam air panas selama 3 menit, angkat.
--   Blender bumbu kacang hingga halus.
--   Masukan bumbu kacang ke dalam wajan masak sampai mendidih sambil diaduk-aduk.
--   Masak dengan api kecil hingga air menyusut. Tes rasa angkat.
--   Tata Kecambah, potongan tahu, telur, kentang, kacang panjang dan timun di atas piring.
--   Tuang bumbu kacang di atas gado-gado, hidangkan dengan suhu ruang.
+- Potong-potong kacang panjang. Cuci bersih, rebus bersama telur dan kentang hingga matang angkat.
+- Rendam kecambah dalam air panas selama 3 menit, angkat.
+- Blender bumbu kacang hingga halus.
+- Masukan bumbu kacang ke dalam wajan masak sampai mendidih sambil diaduk-aduk.
+- Masak dengan api kecil hingga air menyusut. Tes rasa angkat.
+- Tata Kecambah, potongan tahu, telur, kentang, kacang panjang dan timun di atas piring.
+- Tuang bumbu kacang di atas gado-gado, hidangkan dengan suhu ruang.
 {{< /steps>}}
 
 > Tambahkan santan jika ingin rasa yang lebih gurih di bumbu kacang ketika memasak.

@@ -73,15 +73,15 @@ __Bumbu halus__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Potong masing-masing sawi putih menjadi 2 bagian.
--   Balur semua sawi dengan garam di setiap lembarnya. Diamkan kurang lebih 1 jam sambil diperiksa di bolak balik.
--   Potong-potong daun bawang 3 cm, cuci bersih
--   Masukan bahan saus aduk rata dalam teflon. Nyalakan api, aduk-aduk masak sampai mengental, angkat biarkan dingin.
--   Siapkan wadah, masukan bumbu halus, saus, kecap ikan, bubuk cabai dan daun bawang. Aduk hingga rata, tes rasa.
--   jika sudah 1 jam, cuci bersih sawi putih dengan air mengalir sambil di peras.
--   Balurkan saus bumbu kimchi disetiap lembar sawi hingga rata. Tata ke dalam tupperware masukan ke dalam kulkas.
--   Kimchi juga bisa langsung dikonsumsi, potong-potong kimchi terlebih dahulu.
--   Ambil kimchi ke dalam piring, hidangkan dengan suhu ruang.
+- Potong masing-masing sawi putih menjadi 2 bagian.
+- Balur semua sawi dengan garam di setiap lembarnya. Diamkan kurang lebih 1 jam sambil diperiksa di bolak balik.
+- Potong-potong daun bawang 3 cm, cuci bersih
+- Masukan bahan saus aduk rata dalam teflon. Nyalakan api, aduk-aduk masak sampai mengental, angkat biarkan dingin.
+- Siapkan wadah, masukan bumbu halus, saus, kecap ikan, bubuk cabai dan daun bawang. Aduk hingga rata, tes rasa.
+- jika sudah 1 jam, cuci bersih sawi putih dengan air mengalir sambil di peras.
+- Balurkan saus bumbu kimchi disetiap lembar sawi hingga rata. Tata ke dalam tupperware masukan ke dalam kulkas.
+- Kimchi juga bisa langsung dikonsumsi, potong-potong kimchi terlebih dahulu.
+- Ambil kimchi ke dalam piring, hidangkan dengan suhu ruang.
 {{< /steps>}}
 
 > Jika suka rasa asam pada kimchi. Fermentasi kimci dalam kulkas sekitar 3 hari sampai 1 minggu.

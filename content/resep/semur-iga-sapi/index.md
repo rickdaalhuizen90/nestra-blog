@@ -74,12 +74,12 @@ __Bumbu halus__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci bersih iga sapi, masukan ke dalam presto.
--   Tambahkan air, presto iga sapi selama 30 menit, angkat.
--   Panaskan wajan masukan minyak. Tumis bumbu halus, kayu manis, salam dan sereh hingga harum.
--   Masukan iga bersama airnya. Tambahkan gula merah, kecap manis, kaldu jamur dan garam.
--   Masak hingga bumbu meresap, tes rasa angkat.
--   Hidangkan semur iga sapi ketika masih hangat.
+- Cuci bersih iga sapi, masukan ke dalam presto.
+- Tambahkan air, presto iga sapi selama 30 menit, angkat.
+- Panaskan wajan masukan minyak. Tumis bumbu halus, kayu manis, salam dan sereh hingga harum.
+- Masukan iga bersama airnya. Tambahkan gula merah, kecap manis, kaldu jamur dan garam.
+- Masak hingga bumbu meresap, tes rasa angkat.
+- Hidangkan semur iga sapi ketika masih hangat.
 {{< /steps>}}
 
 > Jika tidak ada panci presto, rebus iga sapi dengan api kecil selama 3-4 jam.

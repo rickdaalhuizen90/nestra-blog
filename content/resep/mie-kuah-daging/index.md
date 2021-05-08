@@ -79,10 +79,11 @@ __Bumbu halus__
 - Rebus mie bersama bawang putih, minyak dan lada. Rebus mie selama 3 menit/sampai melunak. Angkat tiriskan.
 - Potong-potong daging sapi (jangan terlalu tebal)
 - Potong sawi hijau, cuci bersih, sisihkan.
-- Panaskan wajan masukan bumbu halus, tumis hingga harum. Masukan daging masak sampai berubah warna
-- Masukan kecap manis, kaldu jamur, garam dan daun bawang. Aduk hingga rata.
-- Masukan air kaldu dan air, masak hingga daging matang. Masukan sawi hijau, tes rasa, angkat.
--   Ambil mie dalam mangkuk, tuangkan kuah daging, hidangkan selagi hangat.
+- Panaskan wajan masukan bumbu halus, tumis hingga harum. Masukan daging masak sampai berubah warna.
+- Masukan kecap manis, kaldu jamur, garam dan daun bawang. Aduk hingga rata masak selama 3 menit, angkat dagingnya saja.
+- Masak air kaldu dan air dengan sisa bumbu di wajan. Masak hingga mendidih, masukan sawi hijau, tes rasa, angkat.
+- Ambil mie dalam mangkuk, tuangkan kuah daging dan tambahkan daging diatasnya.
+- Hidangkan selagi hangat.
 {{< /steps>}}
 
 > Jika menggunakan daging biasa. Pastikan merebus daging hingga empuk terlebih dahulu.

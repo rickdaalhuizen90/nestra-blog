@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/balado-teri-jengkol/index.md",
+            "file": "resep/rujak-mangga-muda/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/balado-teri-jengkol/index.md",
+                "file": "resep/rujak-mangga-muda/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
-    "resep/balado-teri-jengkol/index.md",
     "resep/rujak-mangga-muda/index.md",
-    "resep/gulai-tunjang/index.md",
-    "resep/gulai-tunjang/banner.png",
-    "resep/gado-gado/index.md",
-    "resep/gado-gado/banner.png",
-    "resep/manisan-mangga-muda/index.md",
-    "resep/ayam-kecap/index.md",
-    "resep/manisan-cermai/index.md",
-    "resep/rendang-daging/index.md"
+    "resep/opor-ayam/index.md",
+    "resep/sayur-ketupat/index.md",
+    "resep/sayur-lodeh/index.md",
+    "resep/oseng-kangkung-udang/index.md",
+    "resep/opor-ayam/banner.png",
+    "artikel/7-tips-membuat-pentol-bakso/index.md",
+    "artikel/8-tips-cara-memulai-diet-keto/index.md",
+    "resep/ayam-goreng-crispy/index.md",
+    "resep/ayam-goreng-mentega/index.md"
   ]
 }

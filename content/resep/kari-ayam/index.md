@@ -76,13 +76,13 @@ __Bumbu halus__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Potong dadu dada ayam, cuci hingga bersih.
--   Panaskan wajan masukan minyak. Tumis bumbu halus, sereh, daun jeruk dan salam hingga harum.
--   Masukan ayam. Masak selama 1 menit sambil diaduk-aduk dengan api sedang.
--   Masukan santan, garam gula dan kaldu jamur, masak dengan api besar.
--   Masak sambil terus diaduk hingga mendidih.
--   Kecilkan api, masak  dengan api sedang selama 5 menit sambil diaduk-aduk. Tes rasa, angkat.
--   Hidangkan ayam kari selagi hangat.
+- Potong dadu dada ayam, cuci hingga bersih.
+- Panaskan wajan masukan minyak. Tumis bumbu halus, sereh, daun jeruk dan salam hingga harum.
+- Masukan ayam. Masak selama 1 menit sambil diaduk-aduk dengan api sedang.
+- Masukan santan, garam gula dan kaldu jamur, masak dengan api besar.
+- Masak sambil terus diaduk hingga mendidih.
+- Kecilkan api, masak  dengan api sedang selama 5 menit sambil diaduk-aduk. Tes rasa, angkat.
+- Hidangkan ayam kari selagi hangat.
 {{< /steps>}}
 
 > Aduk terus ketika memasukan santan agar santan tidak pecah

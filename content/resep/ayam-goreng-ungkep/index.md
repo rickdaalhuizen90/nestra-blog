@@ -71,14 +71,14 @@ __Bumbu halus__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci ayam, lumuri dengan air jeruk diamkan 10 menit. Cuci bersih.
--   Masukan ayam, bumbu halus dan air ke dalam panci. Rebus hingga mendidih.
--   Masukan daun jeruk, salam, laos, lada, gula merah dan garam. Aduk-aduk tutup kembali.
--   Ukep ayam selama 45 menit dengan api sedang. Angkat tiriskan.
--   Panaskan wajan masukan minyak hingga panas.
--   Masukan potongan ayam, goreng hingga berwarna keemasan/coklat. Angkat tiriskan.
--   Ulangi menggoreng sampai selesai.
--   Hidangkan ayam goreng ungkep ketika masih hangat.
+- Cuci ayam, lumuri dengan air jeruk diamkan 10 menit. Cuci bersih.
+- Masukan ayam, bumbu halus dan air ke dalam panci. Rebus hingga mendidih.
+- Masukan daun jeruk, salam, laos, lada, gula merah dan garam. Aduk-aduk tutup kembali.
+- Ukep ayam selama 45 menit dengan api sedang. Angkat tiriskan.
+- Panaskan wajan masukan minyak hingga panas.
+- Masukan potongan ayam, goreng hingga berwarna keemasan/coklat. Angkat tiriskan.
+- Ulangi menggoreng sampai selesai.
+- Hidangkan ayam goreng ungkep ketika masih hangat.
 {{< /steps>}}
 
 >Ungkep potongan ayam sedang selama 45 menit. Untuk ayam potongan kecil ungkep selama 25 menit.

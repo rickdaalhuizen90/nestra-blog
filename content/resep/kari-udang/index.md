@@ -89,14 +89,14 @@ __Bumbu halus__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Buang bonggol sawi, cuci bersih, tiriskan. 
--   Panaskan wajan, masukan minyak kelapa. 
--   Masukan bumbu halus, sereh, salam, daun jeruk, dan laos. Tumis hingga harum.  
--   Masukan udang aduk-aduk. Masak hingga udang berubah warna.
--   Masukan santan, lada, kaldu jamur, gula dan garam.
--   Masak hingga mendidih sambil diaduk-aduk. Masak hingga matang.
--   Masukan sawi, tomat dan kecambah masak sebentar, tes rasa, angkat. 
--   Hidangkan kari udang ketika masih hangat.
+- Buang bonggol sawi, cuci bersih, tiriskan. 
+- Panaskan wajan, masukan minyak kelapa. 
+- Masukan bumbu halus, sereh, salam, daun jeruk, dan laos. Tumis hingga harum.  
+- Masukan udang aduk-aduk. Masak hingga udang berubah warna.
+- Masukan santan, lada, kaldu jamur, gula dan garam.
+- Masak hingga mendidih sambil diaduk-aduk. Masak hingga matang.
+- Masukan sawi, tomat dan kecambah masak sebentar, tes rasa, angkat. 
+- Hidangkan kari udang ketika masih hangat.
 {{< /steps>}}
 	
 > Aduk terus ketika memasukan santan supaya santan tidak pecah.

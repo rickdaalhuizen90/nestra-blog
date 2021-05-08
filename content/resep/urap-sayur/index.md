@@ -88,14 +88,14 @@ __Bumbu halus__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Siangi bayam lalu potong-potong.
--   Cuci bersih semua sayuran.
--   Rebus kacang panjang,kubis dan bayam hingga matang. Angkat tiriskan
--   Rendam kecambah dalam air panas selama 3 menit, angkat tiriskan.
--   Masukan parutan kelapa, bumbu halus dan daun jeruk kedalam wadah. Aduk campur hingga merata, tes rasa.
--   Siapkan kukusan, kukus kelapa parut selama 20 menit. Angkat.
--   Campurkan kelapa parut sayuran dalam wadah, aduk hingga merata.
--   Hidangkan urap sayur dalam piring, hidangkan dengan suhu ruang.
+- Siangi bayam lalu potong-potong.
+- Cuci bersih semua sayuran.
+- Rebus kacang panjang,kubis dan bayam hingga matang. Angkat tiriskan
+- Rendam kecambah dalam air panas selama 3 menit, angkat tiriskan.
+- Masukan parutan kelapa, bumbu halus dan daun jeruk kedalam wadah. Aduk campur hingga merata, tes rasa.
+- Siapkan kukusan, kukus kelapa parut selama 20 menit. Angkat.
+- Campurkan kelapa parut sayuran dalam wadah, aduk hingga merata.
+- Hidangkan urap sayur dalam piring, hidangkan dengan suhu ruang.
 {{< /steps>}}
 
 > Pastikan mengukus kelapa parut agar tidak muda basi.

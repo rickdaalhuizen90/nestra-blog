@@ -79,13 +79,13 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci bersih daging, potong-potong, iris tipis, sisihkan.
--   Cuci bersih kol kubis, potong kotak-kotak, sisihkan.
--   Panaskan minyak zaitun. Masukan bawang merah dan bawang putih, tumis hingga harum.
--   Masukan daging sapi, kaldu jamur dan lada, aduk-aduk hingga rata.
--   Masukan kol masak, hingga layu.
--   Masukan air, kecap, minyak wijen dan garam. Masak selama 1 menit dengan api besar, angkat.
--   Hidangkan tumis kol daging sapi ketika masih panas.
+- Cuci bersih daging, potong-potong, iris tipis, sisihkan.
+- Cuci bersih kol kubis, potong kotak-kotak, sisihkan.
+- Panaskan minyak zaitun. Masukan bawang merah dan bawang putih, tumis hingga harum.
+- Masukan daging sapi, kaldu jamur dan lada, aduk-aduk hingga rata.
+- Masukan kol masak, hingga layu.
+- Masukan air, kecap, minyak wijen dan garam. Masak selama 1 menit dengan api besar, angkat.
+- Hidangkan tumis kol daging sapi ketika masih panas.
 {{< /steps>}}
 
 > Daging sapi bisa diganti dengan dada ayam fillet tanpa kulit.

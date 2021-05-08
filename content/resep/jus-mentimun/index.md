@@ -71,12 +71,13 @@ __Bahan__
 -   2 sdm air jeruk nipis
 -   Sejumput garam himalaya
 -   500 ml air dingin
+{{< /post-info>}}
 
-Cara membuat
-
--   Cuci bersih timun, potong-potong masukan dalam blender.
--   Masukan gula, jeruk nipis garam dan air, blender hingga halus.
--   Tuang jus mentimun ke dalam gelas dan siap untuk dinikmati.
+{{< steps title="Cara membuat">}}
+- Cuci bersih timun, potong-potong masukan dalam blender.
+- Masukan gula, jeruk nipis garam dan air, blender hingga halus.
+- Tuang jus mentimun ke dalam gelas dan siap untuk dinikmati.
+{{< /steps>}}
 
 > Jika tidak untuk diet bisa menambahkan es batu sesuai selera.
 

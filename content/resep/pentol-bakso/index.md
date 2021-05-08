@@ -68,14 +68,14 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Giling daging sapi, putih telur, bawang putih dan es batu sampai halus.
--   Masukan tepung, bawang goreng, baking powder, lada bubuk, kaldu jamur dan garam.
--   Giling sampai semua tercampur rata.
--   Rebus air hingga mendidih, matikan api.
--   Bentuk bulatan pentol lalu masukan ke dalam panci air panas.
--   Angkat pentol yang sudah mengapung. Siram atau rendam dengan air es hingga dingin.
--   Masak lagi pentol bakso dengan kuah bakso atau dikukus sesuai selera.
--   Hidangkan ketika masih panas.
+- Giling daging sapi, putih telur, bawang putih dan es batu sampai halus.
+- Masukan tepung, bawang goreng, baking powder, lada bubuk, kaldu jamur dan garam.
+- Giling sampai semua tercampur rata.
+- Rebus air hingga mendidih, matikan api.
+- Bentuk bulatan pentol lalu masukan ke dalam panci air panas.
+- Angkat pentol yang sudah mengapung. Siram atau rendam dengan air es hingga dingin.
+- Masak lagi pentol bakso dengan kuah bakso atau dikukus sesuai selera.
+- Hidangkan ketika masih panas.
 {{< /steps>}}
 
 > Menggiling daging bisa menggunakan blender atau food processor. Juga bisa menggunakan mesin penggilingan lainnya yang tersedia.

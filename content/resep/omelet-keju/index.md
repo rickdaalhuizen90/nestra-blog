@@ -70,12 +70,12 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Pecahkan telur kedalam wadah, masukan sejumput garam kocok lepas.
--   Kupas buah alpukat dan iris-iris.
--   Panaskan wajan teflon. Masukan mentega hingga cair.
--   Masukan telur masak dengan sedang, jika sudah setengah matang kecilkan api.
--   Masukan alpukat dan keju, tata di atas telur. Masak dengan api kecil hingga matang. Angkat
--   Hidangkan omelet alpukat keju ketika masih hangat.
+- Pecahkan telur kedalam wadah, masukan sejumput garam kocok lepas.
+- Kupas buah alpukat dan iris-iris.
+- Panaskan wajan teflon. Masukan mentega hingga cair.
+- Masukan telur masak dengan sedang, jika sudah setengah matang kecilkan api.
+- Masukan alpukat dan keju, tata di atas telur. Masak dengan api kecil hingga matang. Angkat
+- Hidangkan omelet alpukat keju ketika masih hangat.
 {{< /steps>}}
 
 >Ketika menggoreng telur tidak usah di bolak balik. Biarkan telur tetap begitu hingga matang.

@@ -82,15 +82,15 @@ __Bumbu halus__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci bersih kaki sapi. Lumuri dengan air jeruk diamkan 15 menit, bilas hingga bersih.
--   Masukan kaki sapi kedalam panci presto, isi air hingga kaki sapi terendam.
--   Masukan rempah rebusan. Presto kaki sapi selama 30 menit, angkat kaki sapi.
--   Siapkan wajan masukan minyak. Tumis bumbu halus, serai, laos, daun salam dan daun jeruk hingga harum.
--   Siapkan panci, masukan kaki sapi dan air baru hingga kaki sapi terendam.
--   Masukan bumbu halus, masak sampai mendidih.
--   Masukan santan, kaldu jamur, gula dan garam. Masak sambil terus diaduk sampai kuah mendidih.
--   Kecilkan api, masak selama 15 menit sambil terus diaduk. Tes rasa, angkat.
--   Hidangkan gulai tunjang selagi hangat.
+- Cuci bersih kaki sapi. Lumuri dengan air jeruk diamkan 15 menit, bilas hingga bersih.
+- Masukan kaki sapi kedalam panci presto, isi air hingga kaki sapi terendam.
+- Masukan rempah rebusan. Presto kaki sapi selama 30 menit, angkat kaki sapi.
+- Siapkan wajan masukan minyak. Tumis bumbu halus, serai, laos, daun salam dan daun jeruk hingga harum.
+- Siapkan panci, masukan kaki sapi dan air baru hingga kaki sapi terendam.
+- Masukan bumbu halus, masak sampai mendidih.
+- Masukan santan, kaldu jamur, gula dan garam. Masak sambil terus diaduk sampai kuah mendidih.
+- Kecilkan api, masak selama 15 menit sambil terus diaduk. Tes rasa, angkat.
+- Hidangkan gulai tunjang selagi hangat.
 {{< /steps>}}
 
 > Merebus kaki sapi tanpa presto membutuhkan waktu 2-3 jam.

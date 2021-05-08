@@ -73,11 +73,11 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci bersih cabe merah iris-iris.
--   Kupas mangga dan potong bentuk batangan (sesuai selera).
--   Siapkan panci masukan air, gula, cabe merah dan garam. Rebus hingga mendidih selama 3 menit, matikan, biarkan hangat.
--   Masukan mangga muda dan air jeruk nipis, aduk-aduk. Masukan ke dalam kulkas sekitar 1-2 jam.
--   Ambil manisan mangga dari kulkas ke dalam mangkuk. Hidangkan manisan mangga selagi dingin.
+- Cuci bersih cabe merah iris-iris.
+- Kupas mangga dan potong bentuk batangan (sesuai selera).
+- Siapkan panci masukan air, gula, cabe merah dan garam. Rebus hingga mendidih selama 3 menit, matikan, biarkan hangat.
+- Masukan mangga muda dan air jeruk nipis, aduk-aduk. Masukan ke dalam kulkas sekitar 1-2 jam.
+- Ambil manisan mangga dari kulkas ke dalam mangkuk. Hidangkan manisan mangga selagi dingin.
 {{< /steps>}}
 
 > Bisa menambahkan cabe rawit, garam atau gula pasir sesuai selera.

@@ -66,11 +66,11 @@ __Bumbu halus__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Bersihkan cumi dan potong-potong lalu lumuri air jeruk. Diamkan 10 menit, bilas hingga bersih.
--   Panaskan wajan masukan minyak, tumis bumbu halus hingga harum.
--   Masukan cumi, saus sambal, saus tiram gula, lada dan garam.
--   Masak cumi dengan api besar selama 3 menit sambil terus diaduk. Tes rasa, angkat.
--   Hidangkan cumi pedas manis selagi hangat.
+- Bersihkan cumi dan potong-potong lalu lumuri air jeruk. Diamkan 10 menit, bilas hingga bersih.
+- Panaskan wajan masukan minyak, tumis bumbu halus hingga harum.
+- Masukan cumi, saus sambal, saus tiram gula, lada dan garam.
+- Masak cumi dengan api besar selama 3 menit sambil terus diaduk. Tes rasa, angkat.
+- Hidangkan cumi pedas manis selagi hangat.
 {{< /steps>}}
 
 > Jangan memasak cumi terlalu lama agar tidak alot.

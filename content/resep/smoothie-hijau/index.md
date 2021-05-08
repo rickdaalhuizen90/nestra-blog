@@ -80,10 +80,10 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Masukan bayam dan air ke dalam blender. Blender hingga benar-benar halus.
--   Tambahkan semangka beku, alpukat dan melon. Blender lagi hingga halus.
--   Tuangkan ke dalam stoples atau gelas.
--   Minuman Smoothie hijau siap untuk di nikmati.
+- Masukan bayam dan air ke dalam blender. Blender hingga benar-benar halus.
+- Tambahkan semangka beku, alpukat dan melon. Blender lagi hingga halus.
+- Tuangkan ke dalam stoples atau gelas.
+- Minuman Smoothie hijau siap untuk di nikmati.
 {{< /steps>}}
 
 Smoothie hijau ini sangat baik di minum di pagi hari ketika sarapan. Maupun di minum setelah melakukan olahraga.

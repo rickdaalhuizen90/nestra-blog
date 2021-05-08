@@ -65,13 +65,13 @@ __Bahan__
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci bersih ayam, lumuri dengan air jeruk dan garam. Diamkan selama 5 menit.
--   Panaskan wajan, masukan minyak kelapa. Goreng ayam hingga berwarna coklat. Tiriskan.
--   Bersihkan wajan, masukan mentega hingga mencair.
--   Masukan bawang putih dan jahe, masak hingga harum.
--   Masukan kecap manis, lada, kaldu jamur dan daun bawang. Aduk rata lalu tambahkan air.
--   Masukan ayam, masak dengan api kecil. Aduk rata dan masak hingga bumbu meresap. Angkat
--   Hidangkan ayam kecap ketika masih hangat dengan taburan daun bawang.
+- Cuci bersih ayam, lumuri dengan air jeruk dan garam. Diamkan selama 5 menit.
+- Panaskan wajan, masukan minyak kelapa. Goreng ayam hingga berwarna coklat. Tiriskan.
+- Bersihkan wajan, masukan mentega hingga mencair.
+- Masukan bawang putih dan jahe, masak hingga harum.
+- Masukan kecap manis, lada, kaldu jamur dan daun bawang. Aduk rata lalu tambahkan air.
+- Masukan ayam, masak dengan api kecil. Aduk rata dan masak hingga bumbu meresap. Angkat
+- Hidangkan ayam kecap ketika masih hangat dengan taburan daun bawang.
 {{< /steps>}}
 
 > Jika untuk menu diet, gunakan dada ayam fillet tanpa kulit.
