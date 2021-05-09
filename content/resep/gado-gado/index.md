@@ -17,7 +17,7 @@ categories:
 
 # post tags
 tags:
-  - "dairy free"
+  - "diary-free"
   - "kuliner"
 
 # post type

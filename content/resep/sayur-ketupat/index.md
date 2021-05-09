@@ -32,14 +32,14 @@ time: "1 jam"
 serving: 10
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Sayur Ketupat" >}}
 {{< tags >}}
 
 Sayur ketupat hidangan yang tak asing bagi kita semua. Rasanya yang nikmat sangat pas dinikmati di waktu lebaran tiba bersama keluarga.
 
 ## Apa itu sayur ketupat?
 
-Sayur ketupat ini memiliki kerabat dan mirip dengan sayur di lontong sayur. Sayur ketupat adalah olahan dari bahan sayuran yang dimasak dengan santan. Dinamakan sayur ketupat karena sayur ini disandingkan dengan ketupat. Pada umumnya sayur ketupat ini dihidangkan di waktu lebaran tiba.
+Sayur ketupat masih memiliki kerabat dan mirip dengan sayur di lontong sayur. Sayur ketupat adalah olahan dari bahan sayuran yang dimasak dengan santan. Dinamakan sayur ketupat karena sayur ini disandingkan dengan ketupat. Pada umumnya sayur ketupat ini dihidangkan di waktu lebaran tiba.
 
 ## Mulai memasak
 
@@ -49,7 +49,7 @@ Cara membuat sayur ketupat yang sedap dan lezat. Sayur ketupat ala rumahan ini s
 
 __Bahan__
 
--   2 buah labu siam
+-   1 kg labu siam
 -   500 gr kacang panjang
 -   2 bungkus santan kara (65 ml)
 -   2 batang daun bawang
@@ -85,10 +85,8 @@ __Bumbu cemplung__
 - Kupas labu siam, potong korek api, lumuri dengan garam diamkan sampai layu, cuci bersih.
 - Potong-potong kacang panjang 2-3 cm (sesuai selera). Cuci bersih, rebus dalam air 2 menit, tiriskan.
 - Panaskan wajan masukan minyak. Tumis bumbu halus dan bumbu cemplung hingga harum.
-- Masukan labu kacang panjang, aduk-aduk hingga rata, masak.
-- Masukan air dalam panci, masak hingga mendidih.
-- Masukan santan dan daun bawang dan bumbu halus. Masak hingga mendidih sambil diaduk-aduk.
-- Masukan labu siam, masak sayur sambil terus diaduk hingga empuk. Tes rasa, angkat.
+- Masukan bumbu halus, kacang panjang dan daun bawang dalam panci. Tambahkan air, masak hingga mendidih.
+- Masukan santan dan labu siam. Masak sayur sambil terus diaduk hingga empuk. Tes rasa, angkat.
 - Hidangkan sayur ketupat selagi hangat.
 {{< /steps>}}
 

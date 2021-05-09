@@ -32,7 +32,7 @@ time: "1 jam 30 menit"
 serving: 5
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Gulai Tunjang" >}}
 {{< tags >}}
 
 Masakan gulai tunjang biasa kita jumpai di rumah makan Padang. Rasanya sangat gurih dan kenyal sangat menggoda selera.

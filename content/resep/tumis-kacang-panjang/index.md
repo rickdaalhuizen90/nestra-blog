@@ -27,7 +27,7 @@ tags:
   - "kuliner"
 
 # post type
-type: "post"
+type: "recommend"
 
 # Is Recipe
 recipe: true

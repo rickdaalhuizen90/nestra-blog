@@ -32,7 +32,7 @@ time: "1 jam 30 menit"
 serving: 8
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Opor Ayam" >}}
 {{< tags >}}
 
 Opor ayam hidangan yang gurih dan lezat sangat menggugah selera. Masakan rumahan ini pada umumnya dihidangkan di waktu lebaran.

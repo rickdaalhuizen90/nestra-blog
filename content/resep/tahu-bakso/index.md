@@ -32,7 +32,7 @@ time: "50 menit"
 serving: 4
 ---
 
-{{< img src="banner.png" alt="" >}}
+{{< img src="banner.png" alt="Tahu Bakso" >}}
 {{< tags >}}
 
 Tahu bakso masakan rumahan yang dibuat dari tahu putih maupun tahu coklat. Tahu bakso bisa dicocol dengan saus sambal, bumbu kacang/saus kecap sesuai selera

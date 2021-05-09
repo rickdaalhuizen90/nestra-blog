@@ -78,7 +78,8 @@ __Bumbu halus__
 {{< steps title="Cara membuat">}}
 - Cuci bersih cumi-cumi ambil kantung tintah nya potong-potong.
 - Lumuri cumi-cumi dengan air jeruk diamkan selama 15 menit. Bilas hingga bersih.
-- Panaskan wajan masukan minyak zaitun. Tumis bumbu halus, sereh, salam, laos dan cabe hingga harum.
+- Keringkan cumi dengan tisu atau lap bersih.
+- Panaskan wajan masukan minyak zaitun. Tumis bumbu halus, sereh, salam, laos dan cabe hingga harum (agak kering).
 - Masukan cumi-cumi, lada, kaldu jamur dan garam. Aduk rata masak selama 3 menit, angkat.
 - Hidangkan cumi bumbu kuning ketika masih panas.
 {{< /steps>}}

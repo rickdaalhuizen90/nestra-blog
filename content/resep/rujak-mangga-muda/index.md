@@ -1,6 +1,6 @@
 ---
 title: "Manisan Kedondong"
-date: 2021-05-09T09:16:10+02:00
+date: 2021-05-09T07:16:10+02:00
 draft: false
 
 # post thumb
@@ -69,8 +69,8 @@ __Bahan__
 __Bumbu rujak__
 
 -   5 sdm gula jawa
--   3 buah cabe rawit ( sesuai selera)
--   1 sdt garam
+-   2 buah cabe rawit ( sesuai selera)
+-   1/2 sdt garam
 -   1 sdt terasi bakar
 -   1/2 sdt asam jawa
 {{< /post-info>}}
