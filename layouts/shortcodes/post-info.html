@@ -14,11 +14,11 @@
     <ul class="post-info__columns">
       <li class="column">
         <b>Waktu persiapan</b>
-        <p>{{ .Get "prep" }}</p>
+        <p><meta itemprop="prepTime" content="PT15M">{{ .Get "prep" }}</meta></p>
       </li>
       <li class="column">
         <b>Waktu memasak</b>
-        <p>{{ .Get "cook" }}</p>
+        <p><meta itemprop="cookTime" content="PT1H">{{ .Get "cook" }}</meta></p>
       </li>
       <li class="column">
         <b>Total waktu</b>
