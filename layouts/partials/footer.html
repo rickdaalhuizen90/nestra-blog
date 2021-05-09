@@ -93,6 +93,9 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+<!-- Pinterest -->
+<script async defer src="//assets.pinterest.com/js/pinit.js" defer></script>
+
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .URL | absURL }}" rel="dns-prefetch" preload></script>
