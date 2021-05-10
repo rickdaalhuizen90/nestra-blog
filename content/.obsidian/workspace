@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/gado-gado/index.md",
+            "file": "resep/bakwan-sayur/index.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/gado-gado/index.md",
+                "file": "resep/bakwan-sayur/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
+    "resep/bakwan-sayur/index.md",
+    "resep/sambal-teri-telur-puyuh/index.md",
+    "resep/ayam-bakar-madu/index.md",
+    "resep/ayam-bakar-madu/banner.png",
+    "resep/rendang-daging/banner.png",
+    "resep/kari-ayam/index.md",
     "resep/gado-gado/index.md",
-    "resep/gulai-tunjang/index.md",
-    "resep/tahu-bakso/index.md",
-    "resep/opor-ayam/index.md",
-    "resep/tahu-isi-sayur/index.md",
-    "resep/sayur-ketupat/index.md",
-    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/gula-jawa.png",
-    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/minuman.png",
-    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/pisang.png",
-    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/minyak goreng.png"
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/index.md",
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/gula-sehat.png",
+    "resep/ayam-goreng-crispy/index.md"
   ]
 }

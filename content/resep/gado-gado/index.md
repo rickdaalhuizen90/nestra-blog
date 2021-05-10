@@ -57,7 +57,7 @@ __Bahan__
 -   2 buah kentang
 -   2 buah tahu goreng
 
-__Bumbu kacang __
+__Bumbu kacang__
 
 -   100 gr kacang tanah
 -   3 siung bawang putih

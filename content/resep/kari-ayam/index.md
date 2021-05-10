@@ -51,7 +51,7 @@ Cara membuat kari ayam ala diet keto ini tergolong mudah. Rasanya begitu lezat d
 
 {{< post-info prep="10 menit" cook="20 menit" total="30 menit" serving="4">}}
 
-__Bahan___
+__Bahan__
 
 -   500 gr dada ayam tanpa kulit
 -   1 batang serai memarkan

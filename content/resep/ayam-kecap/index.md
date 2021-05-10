@@ -30,7 +30,7 @@ recipe: true
 time: "40 menit"
 
 # serving
-serving: 8-9
+serving: 8
 ---
 
 {{< img src="banner.png" alt="Ayam Kecap" >}}
@@ -47,9 +47,10 @@ Ayam kecap adalah olahan berbahan ayam yang dibumbui dengan kecap. Cita rasa dar
 Cara membuat ayam kecap ini begitu mudah. Bahannya mudah di dapat dan harganya ramah di kantong.
 
 
-{{< post-info prep="10 menit" cook="30 menit" total="40 menit" serving="8-9">}}
+{{< post-info prep="10 menit" cook="30 menit" total="40 menit" serving="8">}}
 
 __Bahan__
+
 -   1 kg paha ayam negri
 -   2 sdm air jeruk nipis
 -   1 batang daun bawang iris-iris
