@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/bakwan-sayur/index.md",
+            "file": "resep/siomay-ayam-udang/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/bakwan-sayur/index.md",
+                "file": "resep/siomay-ayam-udang/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
-    "resep/bakwan-sayur/index.md",
-    "resep/sambal-teri-telur-puyuh/index.md",
+    "resep/siomay-ayam-udang/index.md",
+    "resep/siomay-ayam-udang/banner.png",
+    "resep/smoothie-hijau/index.md",
+    "resep/sup-ikan-dori/index.md",
+    "resep/ayam-geprek/index.md",
     "resep/ayam-bakar-madu/index.md",
-    "resep/ayam-bakar-madu/banner.png",
-    "resep/rendang-daging/banner.png",
-    "resep/kari-ayam/index.md",
-    "resep/gado-gado/index.md",
-    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/index.md",
-    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/gula-sehat.png",
-    "resep/ayam-goreng-crispy/index.md"
+    "resep/ayam-geprek/banner.png",
+    "resep/rempeyek-kacang/index.md",
+    "resep/rendang-daging/index.md",
+    "resep/kaldu-tulang-sapi/index.md"
   ]
 }

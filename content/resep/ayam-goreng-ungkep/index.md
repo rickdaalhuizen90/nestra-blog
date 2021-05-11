@@ -36,7 +36,7 @@ serving: 8
 {{< img src="banner.png" alt=" Ayang Goreng Ungkep" >}}
 {{< tags >}}
 
-Ayam goreng ukep hidangan yang lezat dan renyah. Salah satu menu favorit orang Indonesia.
+Ayam goreng ungkep hidangan yang lezat dan renyah. Salah satu menu hidangan favorit orang Indonesia.
 
 ## Apa itu ayam goreng ungkep ?
 

@@ -84,4 +84,4 @@ __Bumbu halus__
 
 > Oleskan bumbu sisa memasak ayam ketika sudah hampir selesai membakar/memanggang ayam. Agar ayam tidak terlihat hitam atau gosong.
 
-Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)s
+Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)

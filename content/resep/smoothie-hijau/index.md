@@ -86,6 +86,6 @@ __Bahan__
 - Minuman Smoothie hijau siap untuk di nikmati.
 {{< /steps>}}
 
-Smoothie hijau ini sangat baik di minum di pagi hari ketika sarapan. Maupun di minum setelah melakukan olahraga.
+> Smoothie hijau ini sangat baik di minum di pagi hari ketika sarapan. Maupun di minum setelah melakukan olahraga.
 
 Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like,komen dan share ya :)
