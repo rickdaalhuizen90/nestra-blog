@@ -7,10 +7,9 @@
         "id": "7d9fbe5bda2c70d9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "resep/siomay-ayam-udang/index.md",
-            "mode": "source"
+            "file": "resep/pentol-bakso-ayam/banner.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/siomay-ayam-udang/index.md",
+                "file": "resep/pentol-bakso-ayam/banner.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
-    "resep/siomay-ayam-udang/index.md",
-    "resep/siomay-ayam-udang/banner.png",
-    "resep/smoothie-hijau/index.md",
-    "resep/sup-ikan-dori/index.md",
-    "resep/ayam-geprek/index.md",
-    "resep/ayam-bakar-madu/index.md",
-    "resep/ayam-geprek/banner.png",
-    "resep/rempeyek-kacang/index.md",
-    "resep/rendang-daging/index.md",
-    "resep/kaldu-tulang-sapi/index.md"
+    "resep/pentol-bakso-ayam/banner.png",
+    "artikel/7-tips-membuat-pentol-bakso/index.md",
+    "artikel/7-tips-membuat-pentol-bakso/siram.png",
+    "artikel/7-tips-membuat-pentol-bakso/air-panas.png",
+    "artikel/7-tips-membuat-pentol-bakso/baking.png",
+    "artikel/7-tips-membuat-pentol-bakso/banner.png",
+    "artikel/7-tips-membuat-pentol-bakso/daging.png",
+    "artikel/7-tips-membuat-pentol-bakso/es-batu.png",
+    "artikel/7-tips-membuat-pentol-bakso/timbangan.png",
+    "artikel/7-tips-membuat-pentol-bakso/tepung-tapioca.png"
   ]
 }

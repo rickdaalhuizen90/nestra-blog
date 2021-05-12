@@ -81,7 +81,7 @@ Rebus air hingga mendidih. Setelah mendidih matikan api, lalu masukan bulatan pe
 
 {{< img src="siram.png" alt="pentol" >}}
 
-Jika pentol sudah mengapung segera angkat, siram/rendam dengan air es. Hal ini untuk menghentikan proses memasak pada pentol dan menjaga kepadatannya.
+Jika pentol sudah mengapung diamkan selama 15-30 menit. Segera angkat pentol, siram/rendam dengan air es. Hal ini untuk menghentikan proses memasak pada pentol dan menjaga kepadatannya.
 
 > Pentol bakso yang sudah dingin bisa dimasak lagi. Dimasak dengan kuah bakso atau dikukus sesuai selera.
 
