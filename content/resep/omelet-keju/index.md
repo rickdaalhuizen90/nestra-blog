@@ -4,7 +4,7 @@ date: "2021-04-19T13:43:40+00:00"
 draft: false
 
 # meta description
-description: "Resep omelet keju yang simple dan sehat. Sangat ramah untuk diet ketos."
+description: "Resep omelet keju yang simple dan sehat. Sangat ramah untuk diet keto."
 
 # featured image
 feature: "banner.png"

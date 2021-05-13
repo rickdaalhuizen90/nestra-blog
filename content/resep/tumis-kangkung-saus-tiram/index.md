@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep membuat tumis kangkung yang segar dan lezat. Layak menjadi menu hidangan sehari-hari"
+description: "Resep membuat tumis kangkung yang segar dan lezat. Layak menjadi menu hidangan sehari-hari."
 
 # taxonomies
 categories:

@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep membuat tumis kacang panjang yang sehat dan begizi. Sangat ramah untuk diet keto dan vegan"
+description: "Resep membuat tumis kacang panjang yang sehat dan begizi. Sangat ramah untuk diet keto dan vegan."
 
 # taxonomies
 categories:

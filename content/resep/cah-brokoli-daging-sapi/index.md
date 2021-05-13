@@ -4,7 +4,7 @@ date: "2021-04-25T13:43:40+00:00"
 draft: false
 
 # meta description
-description: "Resep cah brokoli daging sapi sehat dan lezat, ramah untuk diet ketos"
+description: "Resep cah brokoli daging sapi sehat dan lezat, ramah untuk diet keto."
 # featured image
 feature: "banner.png"
 

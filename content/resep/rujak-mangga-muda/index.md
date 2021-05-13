@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep rujak mangga muda yang asam manis segar sangat menggugah selera. Masakan rumahan ini mudah untuk dibuat"
+description: "Resep rujak mangga muda yang asam manis segar sangat menggugah selera. Masakan rumahan ini mudah untuk dibuat."
 
 # taxonomies
 categories:

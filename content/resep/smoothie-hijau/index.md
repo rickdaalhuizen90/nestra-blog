@@ -68,7 +68,7 @@ __tips__
 
 Resep membuat smoothie hijau ini begitu sederhana. Bahannya sangat ramah di kantong dan hasilnya maximal.
 
-{{< post-info prep="3 menit" cook="5" total="" serving="1">}}
+{{< post-info prep="3 menit" cook="5" total="8 menit" serving="1">}}
 
 __Bahan__
 

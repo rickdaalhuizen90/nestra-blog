@@ -4,7 +4,7 @@ date: "2021-04-08T13:43:40+00:00"
 draft: false
 
 # meta description
-description: "Resep sayur lodeh yang sehat dan lezat. Menu makanan vegan yang menggugah selera"
+description: "Resep sayur lodeh yang sehat dan lezat. Menu makanan vegan yang menggugah selera."
 
 # featured image
 feature: "banner.png"
