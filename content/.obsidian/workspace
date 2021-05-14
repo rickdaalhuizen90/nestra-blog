@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/tumis-kangkung-saus-tiram/index.md",
+            "file": "resep/cumi-goreng-tepung/index.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "{{ < tags",
+                "query": "Sayur ketupa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/tumis-kangkung-saus-tiram/index.md",
+                "file": "resep/cumi-goreng-tepung/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c089df2411d1fb69",
   "lastOpenFiles": [
-    "resep/tumis-kangkung-saus-tiram/index.md",
-    "resep/rujak-mangga-muda/index.md",
-    "resep/tumis-kacang-panjang/index.md",
-    "resep/sayur-lodeh/index.md",
-    "resep/cah-brokoli-daging-sapi/index.md",
-    "resep/daging-sapi-bumbu-bali/index.md",
-    "resep/omelet-keju/index.md",
-    "resep/smoothie-hijau/index.md",
-    "resep/salad-semangka/index.md",
-    "resep/salad-salmon/index.md"
+    "resep/cumi-goreng-tepung/index.md",
+    "resep/salad-buah/index.md",
+    "resep/tumis-zucchini/index.md",
+    "resep/tumis-kol-daging-sapi/index.md",
+    "resep/salad-alpukat-sayur/index.md",
+    "resep/cumi-bumbu-kuning/index.md",
+    "resep/cumi-goreng-tepung/banner.png",
+    "resep/sayur-ketupat/index.md",
+    "artikel/8-tips-cara-memulai-diet-keto/index.md",
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/index.md"
   ]
 }

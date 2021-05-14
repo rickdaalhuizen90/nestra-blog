@@ -16,7 +16,7 @@ categories:
 
 # post tags
 tags:
-  - "diary-free"
+  - "bebas-susu"
   - "keto"
   - "kuliner"
   

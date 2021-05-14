@@ -16,11 +16,14 @@ categories:
 
 # post tags
 tags:
-  - "diary-free"
+  - "bebas-susu"
   - "kuliner"
 
 # post type
 type: "post"
+
+# Favorite
+favorite: true
 
 # Is Recipe
 recipe: true
@@ -30,6 +33,9 @@ time: "1 jam"
 
 # serving
 serving: 10
+
+# is trending
+trending: true
 ---
 
 {{< img src="banner.png" alt="Sayur Ketupat" >}}

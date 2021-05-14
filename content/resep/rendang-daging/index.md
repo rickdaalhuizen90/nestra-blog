@@ -24,12 +24,15 @@ categories:
 # post tags
 tags:
   - "keto"
-  - "gluten-free"
-  - "diary-free"
+  - "bebas-gula"
+  - "bebas-susu"
   - "kuliner"
 
 # post type
-type: "recommend"
+type: "post"
+
+# is favorite
+favorite: true
 
 # prep time
 time: "1 jam"

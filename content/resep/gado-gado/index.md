@@ -17,8 +17,9 @@ categories:
 
 # post tags
 tags:
-  - "diary-free"
+  - "bebas-susu"
   - "kuliner"
+  - "vegetarian"
 
 # post type
 type: "post"

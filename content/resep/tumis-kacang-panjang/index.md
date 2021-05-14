@@ -21,13 +21,13 @@ categories:
 tags:
   - "keto"
   - "vegan"
-  - "gluten-free"
+  - "bebas-gula"
   - "vegetarian"
-  - "diary-free"
+  - "bebas-susu"
   - "kuliner"
 
 # post type
-type: "recommend"
+type: "post"
 
 # Is Recipe
 recipe: true

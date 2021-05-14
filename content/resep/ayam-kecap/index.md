@@ -21,9 +21,12 @@ tags:
  - Kuliner
  
 # post type
-type: "recommend"
+type: "post"
 
-# Is Recipe
+# is favorite
+favorite: true
+
+# is recipe
 recipe: true
 
 # prep time

@@ -20,9 +20,9 @@ categories:
 # post tags
 tags:
   - "vegan"
-  - "gluten-free"
+  - "bebas-gula"
   - "vegetarian"
-  - "diary-free"
+  - "bebas-susu"
   - "kuliner"
 
 # post type

@@ -20,8 +20,8 @@ categories:
 # post tags
 tags:
   - "keto"
-  - "gluten-free"
-  - "vegetarian"
+  - "bebas-gula"
+  - "bebas-susu"
   - "kuliner"
 
 # post type

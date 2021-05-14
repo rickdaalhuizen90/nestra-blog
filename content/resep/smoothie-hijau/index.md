@@ -21,9 +21,9 @@ categories:
 tags:
   - "keto"
   - "vegan"
-  - "gluten-free"
+  - "bebas-gula"
+  - "bebas-susu"
   - "vegetarian"
-  - "diary-free"
 
 # post type
 type: "post"

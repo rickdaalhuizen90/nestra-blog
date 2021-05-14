@@ -21,7 +21,10 @@ tags:
   - "kuliner"
 
 # post type
-type: "recommend"
+type: "post"
+
+# is favorite
+favorite: true
 
 # Is Recipe
 recipe: true

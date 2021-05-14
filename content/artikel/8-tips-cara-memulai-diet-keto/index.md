@@ -15,7 +15,10 @@ categories:
   - "Pola Hidup Sehat"
 
 # post type
-type: "trending"
+type: "post"
+
+# trending
+trending: true
 ---
 
 {{< img src="banner.png" alt="8 Tips Cara Memulai Diet Keto" >}}

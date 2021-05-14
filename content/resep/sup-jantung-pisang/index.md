@@ -18,8 +18,8 @@ categories:
 # post tags
 tags:
   - "keto"
-  - "gluten-free"
-  - "diary-free"
+  - "bebas-gula"
+  - "bebas-susu"
   - "kuliner"
 
 # post type

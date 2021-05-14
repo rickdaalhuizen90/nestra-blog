@@ -19,7 +19,7 @@ categories:
 tags:
   - "vegan"
   - "vegetarian"
-  - "diary-free"
+  - "bebas-susu"
 
 # post type
 type: "post"

@@ -22,9 +22,9 @@ categories:
 # post tags
 tags:
   - "keto"
-  - "gluten-free"
+  - "bebas-gula"
+  - "bebas-susu"
   - "vegetarian"
-  - "diary-free"
   - "kuliner"
 
 # post type

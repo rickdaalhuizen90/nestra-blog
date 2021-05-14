@@ -20,12 +20,12 @@ categories:
 # post tags
 tags:
   - "keto"
-  - "gluten-free"
-  - "diary-free"
+  - "bebas-gula"
+  - "bebas-susu"
   - "kuliner"
 
 # post type
-type: "trending"
+type: "post"
 
 # prep time
 time: "35 menit"
