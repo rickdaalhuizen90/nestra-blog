@@ -17,7 +17,7 @@ tags:
   - "Kuliner"
 
 # post type
-type: "post"
+type: "trending"
 ---
 
 {{< img src="banner.png" alt="sayuran" >}}

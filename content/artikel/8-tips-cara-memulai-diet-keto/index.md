@@ -15,7 +15,7 @@ categories:
   - "Pola Hidup Sehat"
 
 # post type
-type: "post"
+type: "trending"
 
 # trending
 trending: true
