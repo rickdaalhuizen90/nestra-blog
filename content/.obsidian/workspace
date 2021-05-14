@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c089df2411d1fb69",
+        "id": "4b68715d8621858a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/cumi-goreng-tepung/index.md",
+            "file": "resep/pentol-bakso-sapi-halus/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/cumi-goreng-tepung/index.md",
+                "file": "resep/pentol-bakso-sapi-halus/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c089df2411d1fb69",
+  "active": "4b68715d8621858a",
   "lastOpenFiles": [
-    "resep/cumi-goreng-tepung/index.md",
-    "resep/salad-buah/index.md",
-    "resep/tumis-zucchini/index.md",
-    "resep/tumis-kol-daging-sapi/index.md",
-    "resep/salad-alpukat-sayur/index.md",
-    "resep/cumi-bumbu-kuning/index.md",
-    "resep/cumi-goreng-tepung/banner.png",
+    "resep/pentol-bakso-sapi-halus/index.md",
+    "resep/pentol-bakso-sapi-halus/banner.png",
     "resep/sayur-ketupat/index.md",
-    "artikel/8-tips-cara-memulai-diet-keto/index.md",
-    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/index.md"
+    "resep/ayam-bakar-madu/index.md",
+    "resep/sate-ayam-bumbu-kacang/index.md",
+    "resep/sate-ayam-bumbu-kacang/banner.png",
+    "artikel/7-tips-membuat-pentol-bakso/banner.png",
+    "resep/ayam-goreng-ungkep/index.md",
+    "resep/tumis-kacang-panjang/index.md",
+    "resep/cumi-bumbu-kuning/index.md"
   ]
 }
